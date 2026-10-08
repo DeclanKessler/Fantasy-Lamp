@@ -117,3 +117,7 @@ slots, slot `0` owns LEDs 0-15, slot `1` owns LEDs 16-31, and so on.
 - Add quiet mode / volume switch.
 - Replace the active buzzer with a MAX98357 I2S amp and short touchdown sounds.
 - Make the ESP32 Wi-Fi native so the PC script is no longer required.
+
+## Fantasy Lab dashboard and forecasts
+
+The [fantasy-lab](fantasy-lab/README.md) folder contains the standalone Sleeper league dashboard and Python NFL full-PPR forecasting tool. It combines rankings with usage-based estimates, historical confidence percentages, injury-season exclusions, and touchdown sustainability analysis. Open [Fantasy Lab Combined.html](fantasy-lab/Fantasy%20Lab%20Combined.html) after downloading it, or follow the folder README to refresh the estimates. The saved example is 2026 through Week 4.

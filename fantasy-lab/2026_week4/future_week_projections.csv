@@ -1,0 +1,1897 @@
+player_id,player,position,team,week,opponent,projected_ppr,status
+00-0036358,CeeDee Lamb,WR,DAL,5,TB,26.21180,scheduled; assumes same role and availability
+00-0036358,CeeDee Lamb,WR,DAL,6,GB,26.21180,scheduled; assumes same role and availability
+00-0036358,CeeDee Lamb,WR,DAL,7,PHI,26.21180,scheduled; assumes same role and availability
+00-0036358,CeeDee Lamb,WR,DAL,8,ARI,26.21180,scheduled; assumes same role and availability
+00-0039139,Jahmyr Gibbs,RB,DET,5,ARI,25.05715,scheduled; assumes same role and availability
+00-0039139,Jahmyr Gibbs,RB,DET,6,,0.00000,bye
+00-0039139,Jahmyr Gibbs,RB,DET,7,GB,25.05715,scheduled; assumes same role and availability
+00-0039139,Jahmyr Gibbs,RB,DET,8,MIN,25.05715,scheduled; assumes same role and availability
+00-0038134,Kenneth Walker III,RB,KC,5,,0.00000,bye
+00-0038134,Kenneth Walker III,RB,KC,6,LAC,23.72028,scheduled; assumes same role and availability
+00-0038134,Kenneth Walker III,RB,KC,7,SEA,23.72028,scheduled; assumes same role and availability
+00-0038134,Kenneth Walker III,RB,KC,8,DEN,23.72028,scheduled; assumes same role and availability
+00-0038543,Jaxon Smith-Njigba,WR,SEA,5,SF,23.48710,scheduled; assumes same role and availability
+00-0038543,Jaxon Smith-Njigba,WR,SEA,6,DEN,23.48710,scheduled; assumes same role and availability
+00-0038543,Jaxon Smith-Njigba,WR,SEA,7,KC,23.48710,scheduled; assumes same role and availability
+00-0038543,Jaxon Smith-Njigba,WR,SEA,8,CHI,23.48710,scheduled; assumes same role and availability
+00-0034857,Josh Allen,QB,BUF,5,LA,22.70709,scheduled; assumes same role and availability
+00-0034857,Josh Allen,QB,BUF,6,LV,22.70709,scheduled; assumes same role and availability
+00-0034857,Josh Allen,QB,BUF,7,,0.00000,bye
+00-0034857,Josh Allen,QB,BUF,8,BAL,22.70709,scheduled; assumes same role and availability
+00-0037239,Chris Olave,WR,NO,5,MIN,21.96804,scheduled; assumes same role and availability
+00-0037239,Chris Olave,WR,NO,6,NYG,21.96804,scheduled; assumes same role and availability
+00-0037239,Chris Olave,WR,NO,7,PIT,21.96804,scheduled; assumes same role and availability
+00-0037239,Chris Olave,WR,NO,8,,0.00000,bye
+00-0038542,Bijan Robinson,RB,ATL,5,BAL,21.56898,scheduled; assumes same role and availability
+00-0038542,Bijan Robinson,RB,ATL,6,CHI,21.56898,scheduled; assumes same role and availability
+00-0038542,Bijan Robinson,RB,ATL,7,SF,21.56898,scheduled; assumes same role and availability
+00-0038542,Bijan Robinson,RB,ATL,8,TB,21.56898,scheduled; assumes same role and availability
+00-0037840,Kyren Williams,RB,LA,5,BUF,21.51908,scheduled; assumes same role and availability
+00-0037840,Kyren Williams,RB,LA,6,ARI,21.51908,scheduled; assumes same role and availability
+00-0037840,Kyren Williams,RB,LA,7,LV,21.51908,scheduled; assumes same role and availability
+00-0037840,Kyren Williams,RB,LA,8,LAC,21.51908,scheduled; assumes same role and availability
+00-0040743,Tyler Shough,QB,NO,5,MIN,21.35168,scheduled; assumes same role and availability
+00-0040743,Tyler Shough,QB,NO,6,NYG,21.35168,scheduled; assumes same role and availability
+00-0040743,Tyler Shough,QB,NO,7,PIT,21.35168,scheduled; assumes same role and availability
+00-0040743,Tyler Shough,QB,NO,8,,0.00000,bye
+00-0036223,Jonathan Taylor,RB,IND,5,PIT,21.04276,scheduled; assumes same role and availability
+00-0036223,Jonathan Taylor,RB,IND,6,TEN,21.04276,scheduled; assumes same role and availability
+00-0036223,Jonathan Taylor,RB,IND,7,MIN,21.04276,scheduled; assumes same role and availability
+00-0036223,Jonathan Taylor,RB,IND,8,JAX,21.04276,scheduled; assumes same role and availability
+00-0033106,Jared Goff,QB,DET,5,ARI,21.02518,scheduled; assumes same role and availability
+00-0033106,Jared Goff,QB,DET,6,,0.00000,bye
+00-0033106,Jared Goff,QB,DET,7,GB,21.02518,scheduled; assumes same role and availability
+00-0033106,Jared Goff,QB,DET,8,MIN,21.02518,scheduled; assumes same role and availability
+00-0039150,Bryce Young,QB,CAR,5,,0.00000,bye
+00-0039150,Bryce Young,QB,CAR,6,PHI,20.68669,scheduled; assumes same role and availability
+00-0039150,Bryce Young,QB,CAR,7,TB,20.68669,scheduled; assumes same role and availability
+00-0039150,Bryce Young,QB,CAR,8,GB,20.68669,scheduled; assumes same role and availability
+00-0036963,Amon-Ra St. Brown,WR,DET,5,ARI,20.12865,scheduled; assumes same role and availability
+00-0036963,Amon-Ra St. Brown,WR,DET,6,,0.00000,bye
+00-0036963,Amon-Ra St. Brown,WR,DET,7,GB,20.12865,scheduled; assumes same role and availability
+00-0036963,Amon-Ra St. Brown,WR,DET,8,MIN,20.12865,scheduled; assumes same role and availability
+00-0033077,Dak Prescott,QB,DAL,5,TB,19.81024,scheduled; assumes same role and availability
+00-0033077,Dak Prescott,QB,DAL,6,GB,19.81024,scheduled; assumes same role and availability
+00-0033077,Dak Prescott,QB,DAL,7,PHI,19.81024,scheduled; assumes same role and availability
+00-0033077,Dak Prescott,QB,DAL,8,ARI,19.81024,scheduled; assumes same role and availability
+00-0032764,Derrick Henry,RB,BAL,5,ATL,19.49373,scheduled; assumes same role and availability
+00-0032764,Derrick Henry,RB,BAL,6,CLE,19.49373,scheduled; assumes same role and availability
+00-0032764,Derrick Henry,RB,BAL,7,CIN,19.49373,scheduled; assumes same role and availability
+00-0032764,Derrick Henry,RB,BAL,8,BUF,19.49373,scheduled; assumes same role and availability
+00-0029604,Kirk Cousins,QB,LV,5,NE,19.48753,scheduled; assumes same role and availability
+00-0029604,Kirk Cousins,QB,LV,6,BUF,19.48753,scheduled; assumes same role and availability
+00-0029604,Kirk Cousins,QB,LV,7,LA,19.48753,scheduled; assumes same role and availability
+00-0029604,Kirk Cousins,QB,LV,8,NYJ,19.48753,scheduled; assumes same role and availability
+00-0026498,Matthew Stafford,QB,LA,5,BUF,19.36963,scheduled; assumes same role and availability
+00-0026498,Matthew Stafford,QB,LA,6,ARI,19.36963,scheduled; assumes same role and availability
+00-0026498,Matthew Stafford,QB,LA,7,LV,19.36963,scheduled; assumes same role and availability
+00-0026498,Matthew Stafford,QB,LA,8,LAC,19.36963,scheduled; assumes same role and availability
+00-0036410,Tee Higgins,WR,CIN,5,MIA,19.22723,scheduled; assumes same role and availability
+00-0036410,Tee Higgins,WR,CIN,6,,0.00000,bye
+00-0036410,Tee Higgins,WR,CIN,7,BAL,19.22723,scheduled; assumes same role and availability
+00-0036410,Tee Higgins,WR,CIN,8,TEN,19.22723,scheduled; assumes same role and availability
+00-0037834,Brock Purdy,QB,SF,5,SEA,19.21056,scheduled; assumes same role and availability
+00-0037834,Brock Purdy,QB,SF,6,WAS,19.21056,scheduled; assumes same role and availability
+00-0037834,Brock Purdy,QB,SF,7,ATL,19.21056,scheduled; assumes same role and availability
+00-0037834,Brock Purdy,QB,SF,8,,0.00000,bye
+00-0036442,Joe Burrow,QB,CIN,5,MIA,19.20067,scheduled; assumes same role and availability
+00-0036442,Joe Burrow,QB,CIN,6,,0.00000,bye
+00-0036442,Joe Burrow,QB,CIN,7,BAL,19.20067,scheduled; assumes same role and availability
+00-0036442,Joe Burrow,QB,CIN,8,TEN,19.20067,scheduled; assumes same role and availability
+00-0040124,Tetairoa McMillan,WR,CAR,5,,0.00000,bye
+00-0040124,Tetairoa McMillan,WR,CAR,6,PHI,18.97399,scheduled; assumes same role and availability
+00-0040124,Tetairoa McMillan,WR,CAR,7,TB,18.97399,scheduled; assumes same role and availability
+00-0040124,Tetairoa McMillan,WR,CAR,8,GB,18.97399,scheduled; assumes same role and availability
+00-0031381,Davante Adams,WR,LA,5,BUF,18.95259,scheduled; assumes same role and availability
+00-0031381,Davante Adams,WR,LA,6,ARI,18.95259,scheduled; assumes same role and availability
+00-0031381,Davante Adams,WR,LA,7,LV,18.95259,scheduled; assumes same role and availability
+00-0031381,Davante Adams,WR,LA,8,LAC,18.95259,scheduled; assumes same role and availability
+00-0033537,Deshaun Watson,QB,CLE,5,NYJ,18.72814,scheduled; assumes same role and availability
+00-0033537,Deshaun Watson,QB,CLE,6,BAL,18.72814,scheduled; assumes same role and availability
+00-0033537,Deshaun Watson,QB,CLE,7,TEN,18.72814,scheduled; assumes same role and availability
+00-0033537,Deshaun Watson,QB,CLE,8,PIT,18.72814,scheduled; assumes same role and availability
+00-0040122,Ashton Jeanty,RB,LV,5,NE,18.57345,scheduled; assumes same role and availability
+00-0040122,Ashton Jeanty,RB,LV,6,BUF,18.57345,scheduled; assumes same role and availability
+00-0040122,Ashton Jeanty,RB,LV,7,LA,18.57345,scheduled; assumes same role and availability
+00-0040122,Ashton Jeanty,RB,LV,8,NYJ,18.57345,scheduled; assumes same role and availability
+00-0037744,Trey McBride,TE,ARI,5,DET,18.49970,scheduled; assumes same role and availability
+00-0037744,Trey McBride,TE,ARI,6,LA,18.49970,scheduled; assumes same role and availability
+00-0037744,Trey McBride,TE,ARI,7,DEN,18.49970,scheduled; assumes same role and availability
+00-0037744,Trey McBride,TE,ARI,8,DAL,18.49970,scheduled; assumes same role and availability
+00-0039163,C.J. Stroud,QB,HOU,5,TEN,18.14241,scheduled; assumes same role and availability
+00-0039163,C.J. Stroud,QB,HOU,6,JAX,18.14241,scheduled; assumes same role and availability
+00-0039163,C.J. Stroud,QB,HOU,7,NYG,18.14241,scheduled; assumes same role and availability
+00-0039163,C.J. Stroud,QB,HOU,8,,0.00000,bye
+00-0033873,Patrick Mahomes,QB,KC,5,,0.00000,bye
+00-0033873,Patrick Mahomes,QB,KC,6,LAC,18.12975,scheduled; assumes same role and availability
+00-0033873,Patrick Mahomes,QB,KC,7,SEA,18.12975,scheduled; assumes same role and availability
+00-0033873,Patrick Mahomes,QB,KC,8,DEN,18.12975,scheduled; assumes same role and availability
+00-0038559,Michael Wilson,WR,ARI,5,DET,17.91936,scheduled; assumes same role and availability
+00-0038559,Michael Wilson,WR,ARI,6,LA,17.91936,scheduled; assumes same role and availability
+00-0038559,Michael Wilson,WR,ARI,7,DEN,17.91936,scheduled; assumes same role and availability
+00-0038559,Michael Wilson,WR,ARI,8,DAL,17.91936,scheduled; assumes same role and availability
+00-0036997,Javonte Williams,RB,DAL,5,TB,17.79295,scheduled; assumes same role and availability
+00-0036997,Javonte Williams,RB,DAL,6,GB,17.79295,scheduled; assumes same role and availability
+00-0036997,Javonte Williams,RB,DAL,7,PHI,17.79295,scheduled; assumes same role and availability
+00-0036997,Javonte Williams,RB,DAL,8,ARI,17.79295,scheduled; assumes same role and availability
+00-0036264,Jordan Love,QB,GB,5,CHI,17.40856,scheduled; assumes same role and availability
+00-0036264,Jordan Love,QB,GB,6,DAL,17.40856,scheduled; assumes same role and availability
+00-0036264,Jordan Love,QB,GB,7,DET,17.40856,scheduled; assumes same role and availability
+00-0036264,Jordan Love,QB,GB,8,CAR,17.40856,scheduled; assumes same role and availability
+00-0037248,James Cook,RB,BUF,5,LA,16.87678,scheduled; assumes same role and availability
+00-0037248,James Cook,RB,BUF,6,LV,16.87678,scheduled; assumes same role and availability
+00-0037248,James Cook,RB,BUF,7,,0.00000,bye
+00-0037248,James Cook,RB,BUF,8,BAL,16.87678,scheduled; assumes same role and availability
+00-0033293,Aaron Jones,RB,MIN,5,NO,16.63091,scheduled; assumes same role and availability
+00-0033293,Aaron Jones,RB,MIN,6,,0.00000,bye
+00-0033293,Aaron Jones,RB,MIN,7,IND,16.63091,scheduled; assumes same role and availability
+00-0033293,Aaron Jones,RB,MIN,8,DET,16.63091,scheduled; assumes same role and availability
+00-0033280,Christian McCaffrey,RB,SF,5,SEA,16.57139,scheduled; assumes same role and availability
+00-0033280,Christian McCaffrey,RB,SF,6,WAS,16.57139,scheduled; assumes same role and availability
+00-0033280,Christian McCaffrey,RB,SF,7,ATL,16.57139,scheduled; assumes same role and availability
+00-0033280,Christian McCaffrey,RB,SF,8,,0.00000,bye
+00-0023459,Aaron Rodgers,QB,PIT,5,IND,16.49000,scheduled; assumes same role and availability
+00-0023459,Aaron Rodgers,QB,PIT,6,TB,16.49000,scheduled; assumes same role and availability
+00-0023459,Aaron Rodgers,QB,PIT,7,NO,16.49000,scheduled; assumes same role and availability
+00-0023459,Aaron Rodgers,QB,PIT,8,CLE,16.49000,scheduled; assumes same role and availability
+00-0033119,Jacoby Brissett,QB,ARI,5,DET,16.38038,scheduled; assumes same role and availability
+00-0033119,Jacoby Brissett,QB,ARI,6,LA,16.38038,scheduled; assumes same role and availability
+00-0033119,Jacoby Brissett,QB,ARI,7,DEN,16.38038,scheduled; assumes same role and availability
+00-0033119,Jacoby Brissett,QB,ARI,8,DAL,16.38038,scheduled; assumes same role and availability
+00-0036389,Jalen Hurts,QB,PHI,5,JAX,16.30446,scheduled; assumes same role and availability
+00-0036389,Jalen Hurts,QB,PHI,6,CAR,16.30446,scheduled; assumes same role and availability
+00-0036389,Jalen Hurts,QB,PHI,7,DAL,16.30446,scheduled; assumes same role and availability
+00-0036389,Jalen Hurts,QB,PHI,8,WAS,16.30446,scheduled; assumes same role and availability
+00-0038597,Chase Brown,RB,CIN,5,MIA,16.19632,scheduled; assumes same role and availability
+00-0038597,Chase Brown,RB,CIN,6,,0.00000,bye
+00-0038597,Chase Brown,RB,CIN,7,BAL,16.19632,scheduled; assumes same role and availability
+00-0038597,Chase Brown,RB,CIN,8,TEN,16.19632,scheduled; assumes same role and availability
+00-0036555,Chuba Hubbard,RB,CAR,5,,0.00000,bye
+00-0036555,Chuba Hubbard,RB,CAR,6,PHI,16.17252,scheduled; assumes same role and availability
+00-0036555,Chuba Hubbard,RB,CAR,7,TB,16.17252,scheduled; assumes same role and availability
+00-0036555,Chuba Hubbard,RB,CAR,8,GB,16.17252,scheduled; assumes same role and availability
+00-0038124,Christian Watson,WR,GB,5,CHI,16.16547,scheduled; assumes same role and availability
+00-0038124,Christian Watson,WR,GB,6,DAL,16.16547,scheduled; assumes same role and availability
+00-0038124,Christian Watson,WR,GB,7,DET,16.16547,scheduled; assumes same role and availability
+00-0038124,Christian Watson,WR,GB,8,CAR,16.16547,scheduled; assumes same role and availability
+00-0036275,D'Andre Swift,RB,CHI,5,GB,16.15720,scheduled; assumes same role and availability
+00-0036275,D'Andre Swift,RB,CHI,6,ATL,16.15720,scheduled; assumes same role and availability
+00-0036275,D'Andre Swift,RB,CHI,7,NE,16.15720,scheduled; assumes same role and availability
+00-0036275,D'Andre Swift,RB,CHI,8,SEA,16.15720,scheduled; assumes same role and availability
+00-0039732,Bo Nix,QB,DEN,5,LAC,15.99843,scheduled; assumes same role and availability
+00-0039732,Bo Nix,QB,DEN,6,SEA,15.99843,scheduled; assumes same role and availability
+00-0039732,Bo Nix,QB,DEN,7,ARI,15.99843,scheduled; assumes same role and availability
+00-0039732,Bo Nix,QB,DEN,8,KC,15.99843,scheduled; assumes same role and availability
+00-0034796,Lamar Jackson,QB,BAL,5,ATL,15.95119,scheduled; assumes same role and availability
+00-0034796,Lamar Jackson,QB,BAL,6,CLE,15.95119,scheduled; assumes same role and availability
+00-0034796,Lamar Jackson,QB,BAL,7,CIN,15.95119,scheduled; assumes same role and availability
+00-0034796,Lamar Jackson,QB,BAL,8,BUF,15.95119,scheduled; assumes same role and availability
+00-0037228,Jaylen Warren,RB,PIT,5,IND,15.93044,scheduled; assumes same role and availability
+00-0037228,Jaylen Warren,RB,PIT,6,TB,15.93044,scheduled; assumes same role and availability
+00-0037228,Jaylen Warren,RB,PIT,7,NO,15.93044,scheduled; assumes same role and availability
+00-0037228,Jaylen Warren,RB,PIT,8,CLE,15.93044,scheduled; assumes same role and availability
+00-0030565,Geno Smith,QB,NYJ,5,CLE,15.53184,scheduled; assumes same role and availability
+00-0030565,Geno Smith,QB,NYJ,6,NE,15.53184,scheduled; assumes same role and availability
+00-0030565,Geno Smith,QB,NYJ,7,MIA,15.53184,scheduled; assumes same role and availability
+00-0030565,Geno Smith,QB,NYJ,8,LV,15.53184,scheduled; assumes same role and availability
+00-0036971,Trevor Lawrence,QB,JAX,5,PHI,15.30830,scheduled; assumes same role and availability
+00-0036971,Trevor Lawrence,QB,JAX,6,HOU,15.30830,scheduled; assumes same role and availability
+00-0036971,Trevor Lawrence,QB,JAX,7,,0.00000,bye
+00-0036971,Trevor Lawrence,QB,JAX,8,IND,15.30830,scheduled; assumes same role and availability
+00-0037740,Garrett Wilson,WR,NYJ,5,CLE,14.91736,scheduled; assumes same role and availability
+00-0037740,Garrett Wilson,WR,NYJ,6,NE,14.91736,scheduled; assumes same role and availability
+00-0037740,Garrett Wilson,WR,NYJ,7,MIA,14.91736,scheduled; assumes same role and availability
+00-0037740,Garrett Wilson,WR,NYJ,8,LV,14.91736,scheduled; assumes same role and availability
+00-0037838,Isaiah Likely,TE,NYG,5,WAS,14.87017,scheduled; assumes same role and availability
+00-0037838,Isaiah Likely,TE,NYG,6,NO,14.87017,scheduled; assumes same role and availability
+00-0037838,Isaiah Likely,TE,NYG,7,HOU,14.87017,scheduled; assumes same role and availability
+00-0037838,Isaiah Likely,TE,NYG,8,,0.00000,bye
+00-0039851,Drake Maye,QB,NE,5,LV,14.68801,scheduled; assumes same role and availability
+00-0039851,Drake Maye,QB,NE,6,NYJ,14.68801,scheduled; assumes same role and availability
+00-0039851,Drake Maye,QB,NE,7,CHI,14.68801,scheduled; assumes same role and availability
+00-0039851,Drake Maye,QB,NE,8,MIA,14.68801,scheduled; assumes same role and availability
+00-0036355,Justin Herbert,QB,LAC,5,DEN,14.59363,scheduled; assumes same role and availability
+00-0036355,Justin Herbert,QB,LAC,6,KC,14.59363,scheduled; assumes same role and availability
+00-0036355,Justin Herbert,QB,LAC,7,,0.00000,bye
+00-0036355,Justin Herbert,QB,LAC,8,LA,14.59363,scheduled; assumes same role and availability
+00-0036900,Ja'Marr Chase,WR,CIN,5,MIA,14.46878,scheduled; assumes same role and availability
+00-0036900,Ja'Marr Chase,WR,CIN,6,,0.00000,bye
+00-0036900,Ja'Marr Chase,WR,CIN,7,BAL,14.46878,scheduled; assumes same role and availability
+00-0036900,Ja'Marr Chase,WR,CIN,8,TEN,14.46878,scheduled; assumes same role and availability
+00-0040667,Matthew Golden,WR,GB,5,CHI,14.43987,scheduled; assumes same role and availability
+00-0040667,Matthew Golden,WR,GB,6,DAL,14.43987,scheduled; assumes same role and availability
+00-0040667,Matthew Golden,WR,GB,7,DET,14.43987,scheduled; assumes same role and availability
+00-0040667,Matthew Golden,WR,GB,8,CAR,14.43987,scheduled; assumes same role and availability
+00-0039065,Sam LaPorta,TE,DET,5,ARI,14.43406,scheduled; assumes same role and availability
+00-0039065,Sam LaPorta,TE,DET,6,,0.00000,bye
+00-0039065,Sam LaPorta,TE,DET,7,GB,14.43406,scheduled; assumes same role and availability
+00-0039065,Sam LaPorta,TE,DET,8,MIN,14.43406,scheduled; assumes same role and availability
+00-0040784,Quinshon Judkins,RB,CLE,5,NYJ,14.43158,scheduled; assumes same role and availability
+00-0040784,Quinshon Judkins,RB,CLE,6,BAL,14.43158,scheduled; assumes same role and availability
+00-0040784,Quinshon Judkins,RB,CLE,7,TEN,14.43158,scheduled; assumes same role and availability
+00-0040784,Quinshon Judkins,RB,CLE,8,PIT,14.43158,scheduled; assumes same role and availability
+00-0041438,Carnell Tate,WR,TEN,5,HOU,14.25793,scheduled; assumes same role and availability
+00-0041438,Carnell Tate,WR,TEN,6,IND,14.25793,scheduled; assumes same role and availability
+00-0041438,Carnell Tate,WR,TEN,7,CLE,14.25793,scheduled; assumes same role and availability
+00-0041438,Carnell Tate,WR,TEN,8,CIN,14.25793,scheduled; assumes same role and availability
+00-0037238,Drake London,WR,ATL,5,BAL,14.07245,scheduled; assumes same role and availability
+00-0037238,Drake London,WR,ATL,6,CHI,14.07245,scheduled; assumes same role and availability
+00-0037238,Drake London,WR,ATL,7,SF,14.07245,scheduled; assumes same role and availability
+00-0037238,Drake London,WR,ATL,8,TB,14.07245,scheduled; assumes same role and availability
+00-0039338,Brock Bowers,TE,LV,5,NE,13.77407,scheduled; assumes same role and availability
+00-0039338,Brock Bowers,TE,LV,6,BUF,13.77407,scheduled; assumes same role and availability
+00-0039338,Brock Bowers,TE,LV,7,LA,13.77407,scheduled; assumes same role and availability
+00-0039338,Brock Bowers,TE,LV,8,NYJ,13.77407,scheduled; assumes same role and availability
+00-0040735,Luther Burden III,WR,CHI,5,GB,13.74236,scheduled; assumes same role and availability
+00-0040735,Luther Burden III,WR,CHI,6,ATL,13.74236,scheduled; assumes same role and availability
+00-0040735,Luther Burden III,WR,CHI,7,NE,13.74236,scheduled; assumes same role and availability
+00-0040735,Luther Burden III,WR,CHI,8,SEA,13.74236,scheduled; assumes same role and availability
+00-0035710,Daniel Jones,QB,IND,5,PIT,13.73416,scheduled; assumes same role and availability
+00-0035710,Daniel Jones,QB,IND,6,TEN,13.73416,scheduled; assumes same role and availability
+00-0035710,Daniel Jones,QB,IND,7,MIN,13.73416,scheduled; assumes same role and availability
+00-0035710,Daniel Jones,QB,IND,8,JAX,13.73416,scheduled; assumes same role and availability
+00-0040128,Tyler Warren,TE,IND,5,PIT,13.65185,scheduled; assumes same role and availability
+00-0040128,Tyler Warren,TE,IND,6,TEN,13.65185,scheduled; assumes same role and availability
+00-0040128,Tyler Warren,TE,IND,7,MIN,13.65185,scheduled; assumes same role and availability
+00-0040128,Tyler Warren,TE,IND,8,JAX,13.65185,scheduled; assumes same role and availability
+00-0040676,Cam Ward,QB,TEN,5,HOU,13.48107,scheduled; assumes same role and availability
+00-0040676,Cam Ward,QB,TEN,6,IND,13.48107,scheduled; assumes same role and availability
+00-0040676,Cam Ward,QB,TEN,7,CLE,13.48107,scheduled; assumes same role and availability
+00-0040676,Cam Ward,QB,TEN,8,CIN,13.48107,scheduled; assumes same role and availability
+00-0036040,Juwan Johnson,TE,NO,5,MIN,13.46695,scheduled; assumes same role and availability
+00-0036040,Juwan Johnson,TE,NO,6,NYG,13.46695,scheduled; assumes same role and availability
+00-0036040,Juwan Johnson,TE,NO,7,PIT,13.46695,scheduled; assumes same role and availability
+00-0036040,Juwan Johnson,TE,NO,8,,0.00000,bye
+00-0040236,Kyle Monangai,RB,CHI,5,GB,13.37908,scheduled; assumes same role and availability
+00-0040236,Kyle Monangai,RB,CHI,6,ATL,13.37908,scheduled; assumes same role and availability
+00-0040236,Kyle Monangai,RB,CHI,7,NE,13.37908,scheduled; assumes same role and availability
+00-0040236,Kyle Monangai,RB,CHI,8,SEA,13.37908,scheduled; assumes same role and availability
+00-0039361,Bucky Irving,RB,TB,5,DAL,13.26663,scheduled; assumes same role and availability
+00-0039361,Bucky Irving,RB,TB,6,PIT,13.26663,scheduled; assumes same role and availability
+00-0039361,Bucky Irving,RB,TB,7,CAR,13.26663,scheduled; assumes same role and availability
+00-0039361,Bucky Irving,RB,TB,8,ATL,13.26663,scheduled; assumes same role and availability
+00-0039424,Devaughn Vele,WR,NO,5,MIN,13.19391,scheduled; assumes same role and availability
+00-0039424,Devaughn Vele,WR,NO,6,NYG,13.19391,scheduled; assumes same role and availability
+00-0039424,Devaughn Vele,WR,NO,7,PIT,13.19391,scheduled; assumes same role and availability
+00-0039424,Devaughn Vele,WR,NO,8,,0.00000,bye
+00-0040715,Cam Skattebo,RB,NYG,5,WAS,12.86971,scheduled; assumes same role and availability
+00-0040715,Cam Skattebo,RB,NYG,6,NO,12.86971,scheduled; assumes same role and availability
+00-0040715,Cam Skattebo,RB,NYG,7,HOU,12.86971,scheduled; assumes same role and availability
+00-0040715,Cam Skattebo,RB,NYG,8,,0.00000,bye
+00-0038128,Malik Willis,QB,MIA,5,CIN,12.86509,scheduled; assumes same role and availability
+00-0038128,Malik Willis,QB,MIA,6,,0.00000,bye
+00-0038128,Malik Willis,QB,MIA,7,NYJ,12.86509,scheduled; assumes same role and availability
+00-0038128,Malik Willis,QB,MIA,8,NE,12.86509,scheduled; assumes same role and availability
+00-0041027,Jeremiyah Love,RB,ARI,5,DET,12.74057,scheduled; assumes same role and availability
+00-0041027,Jeremiyah Love,RB,ARI,6,LA,12.74057,scheduled; assumes same role and availability
+00-0041027,Jeremiyah Love,RB,ARI,7,DEN,12.74057,scheduled; assumes same role and availability
+00-0041027,Jeremiyah Love,RB,ARI,8,DAL,12.74057,scheduled; assumes same role and availability
+00-0035229,T.J. Hockenson,TE,MIN,5,NO,12.65148,scheduled; assumes same role and availability
+00-0035229,T.J. Hockenson,TE,MIN,6,,0.00000,bye
+00-0035229,T.J. Hockenson,TE,MIN,7,IND,12.65148,scheduled; assumes same role and availability
+00-0035229,T.J. Hockenson,TE,MIN,8,DET,12.65148,scheduled; assumes same role and availability
+00-0031588,Stefon Diggs,WR,WAS,5,NYG,12.63661,scheduled; assumes same role and availability
+00-0031588,Stefon Diggs,WR,WAS,6,SF,12.63661,scheduled; assumes same role and availability
+00-0031588,Stefon Diggs,WR,WAS,7,,0.00000,bye
+00-0031588,Stefon Diggs,WR,WAS,8,PHI,12.63661,scheduled; assumes same role and availability
+00-0040719,Bhayshul Tuten,RB,JAX,5,PHI,12.54288,scheduled; assumes same role and availability
+00-0040719,Bhayshul Tuten,RB,JAX,6,HOU,12.54288,scheduled; assumes same role and availability
+00-0040719,Bhayshul Tuten,RB,JAX,7,,0.00000,bye
+00-0040719,Bhayshul Tuten,RB,JAX,8,IND,12.54288,scheduled; assumes same role and availability
+00-0035261,Tony Pollard,RB,TEN,5,HOU,12.46361,scheduled; assumes same role and availability
+00-0035261,Tony Pollard,RB,TEN,6,IND,12.46361,scheduled; assumes same role and availability
+00-0035261,Tony Pollard,RB,TEN,7,CLE,12.46361,scheduled; assumes same role and availability
+00-0035261,Tony Pollard,RB,TEN,8,CIN,12.46361,scheduled; assumes same role and availability
+00-0036613,Jaylen Waddle,WR,DEN,5,LAC,12.41107,scheduled; assumes same role and availability
+00-0036613,Jaylen Waddle,WR,DEN,6,SEA,12.41107,scheduled; assumes same role and availability
+00-0036613,Jaylen Waddle,WR,DEN,7,ARI,12.41107,scheduled; assumes same role and availability
+00-0036613,Jaylen Waddle,WR,DEN,8,KC,12.41107,scheduled; assumes same role and availability
+00-0036912,DeVonta Smith,WR,PHI,5,JAX,12.38304,scheduled; assumes same role and availability
+00-0036912,DeVonta Smith,WR,PHI,6,CAR,12.38304,scheduled; assumes same role and availability
+00-0036912,DeVonta Smith,WR,PHI,7,DAL,12.38304,scheduled; assumes same role and availability
+00-0036912,DeVonta Smith,WR,PHI,8,WAS,12.38304,scheduled; assumes same role and availability
+00-0038606,Parker Washington,WR,JAX,5,PHI,12.29989,scheduled; assumes same role and availability
+00-0038606,Parker Washington,WR,JAX,6,HOU,12.29989,scheduled; assumes same role and availability
+00-0038606,Parker Washington,WR,JAX,7,,0.00000,bye
+00-0038606,Parker Washington,WR,JAX,8,IND,12.29989,scheduled; assumes same role and availability
+00-0039064,Zay Flowers,WR,BAL,5,ATL,12.28875,scheduled; assumes same role and availability
+00-0039064,Zay Flowers,WR,BAL,6,CLE,12.28875,scheduled; assumes same role and availability
+00-0039064,Zay Flowers,WR,BAL,7,CIN,12.28875,scheduled; assumes same role and availability
+00-0039064,Zay Flowers,WR,BAL,8,BUF,12.28875,scheduled; assumes same role and availability
+00-0033288,George Kittle,TE,SF,5,SEA,12.28189,scheduled; assumes same role and availability
+00-0033288,George Kittle,TE,SF,6,WAS,12.28189,scheduled; assumes same role and availability
+00-0033288,George Kittle,TE,SF,7,ATL,12.28189,scheduled; assumes same role and availability
+00-0033288,George Kittle,TE,SF,8,,0.00000,bye
+00-0038997,Josh Downs,WR,IND,5,PIT,12.25071,scheduled; assumes same role and availability
+00-0038997,Josh Downs,WR,IND,6,TEN,12.25071,scheduled; assumes same role and availability
+00-0038997,Josh Downs,WR,IND,7,MIN,12.25071,scheduled; assumes same role and availability
+00-0038997,Josh Downs,WR,IND,8,JAX,12.25071,scheduled; assumes same role and availability
+00-0040666,Omarion Hampton,RB,LAC,5,DEN,12.19075,scheduled; assumes same role and availability
+00-0040666,Omarion Hampton,RB,LAC,6,KC,12.19075,scheduled; assumes same role and availability
+00-0040666,Omarion Hampton,RB,LAC,7,,0.00000,bye
+00-0040666,Omarion Hampton,RB,LAC,8,LA,12.19075,scheduled; assumes same role and availability
+00-0040663,Harold Fannin Jr.,TE,CLE,5,NYJ,12.18840,scheduled; assumes same role and availability
+00-0040663,Harold Fannin Jr.,TE,CLE,6,BAL,12.18840,scheduled; assumes same role and availability
+00-0040663,Harold Fannin Jr.,TE,CLE,7,TEN,12.18840,scheduled; assumes same role and availability
+00-0040663,Harold Fannin Jr.,TE,CLE,8,PIT,12.18840,scheduled; assumes same role and availability
+00-0039880,Malik Washington,WR,MIA,5,CIN,12.18461,scheduled; assumes same role and availability
+00-0039880,Malik Washington,WR,MIA,6,,0.00000,bye
+00-0039880,Malik Washington,WR,MIA,7,NYJ,12.18461,scheduled; assumes same role and availability
+00-0039880,Malik Washington,WR,MIA,8,NE,12.18461,scheduled; assumes same role and availability
+00-0035640,DK Metcalf,WR,PIT,5,IND,12.16965,scheduled; assumes same role and availability
+00-0035640,DK Metcalf,WR,PIT,6,TB,12.16965,scheduled; assumes same role and availability
+00-0035640,DK Metcalf,WR,PIT,7,NO,12.16965,scheduled; assumes same role and availability
+00-0035640,DK Metcalf,WR,PIT,8,CLE,12.16965,scheduled; assumes same role and availability
+00-0037247,George Pickens,WR,DAL,5,TB,11.97402,scheduled; assumes same role and availability
+00-0037247,George Pickens,WR,DAL,6,GB,11.97402,scheduled; assumes same role and availability
+00-0037247,George Pickens,WR,DAL,7,PHI,11.97402,scheduled; assumes same role and availability
+00-0037247,George Pickens,WR,DAL,8,ARI,11.97402,scheduled; assumes same role and availability
+00-0041037,Denzel Boston,WR,CLE,5,NYJ,11.67951,scheduled; assumes same role and availability
+00-0041037,Denzel Boston,WR,CLE,6,BAL,11.67951,scheduled; assumes same role and availability
+00-0041037,Denzel Boston,WR,CLE,7,TEN,11.67951,scheduled; assumes same role and availability
+00-0041037,Denzel Boston,WR,CLE,8,PIT,11.67951,scheduled; assumes same role and availability
+00-0041547,KC Concepcion,WR,CLE,5,NYJ,11.59106,scheduled; assumes same role and availability
+00-0041547,KC Concepcion,WR,CLE,6,BAL,11.59106,scheduled; assumes same role and availability
+00-0041547,KC Concepcion,WR,CLE,7,TEN,11.59106,scheduled; assumes same role and availability
+00-0041547,KC Concepcion,WR,CLE,8,PIT,11.59106,scheduled; assumes same role and availability
+00-0034383,Dalton Schultz,TE,HOU,5,TEN,11.46966,scheduled; assumes same role and availability
+00-0034383,Dalton Schultz,TE,HOU,6,JAX,11.46966,scheduled; assumes same role and availability
+00-0034383,Dalton Schultz,TE,HOU,7,NYG,11.46966,scheduled; assumes same role and availability
+00-0034383,Dalton Schultz,TE,HOU,8,,0.00000,bye
+00-0030506,Travis Kelce,TE,KC,5,,0.00000,bye
+00-0030506,Travis Kelce,TE,KC,6,LAC,11.45976,scheduled; assumes same role and availability
+00-0030506,Travis Kelce,TE,KC,7,SEA,11.45976,scheduled; assumes same role and availability
+00-0030506,Travis Kelce,TE,KC,8,DEN,11.45976,scheduled; assumes same role and availability
+00-0038563,Tre Tucker,WR,LV,5,NE,11.26777,scheduled; assumes same role and availability
+00-0038563,Tre Tucker,WR,LV,6,BUF,11.26777,scheduled; assumes same role and availability
+00-0038563,Tre Tucker,WR,LV,7,LA,11.26777,scheduled; assumes same role and availability
+00-0038563,Tre Tucker,WR,LV,8,NYJ,11.26777,scheduled; assumes same role and availability
+00-0038797,Emanuel Wilson,RB,SEA,5,SF,10.87856,scheduled; assumes same role and availability
+00-0038797,Emanuel Wilson,RB,SEA,6,DEN,10.87856,scheduled; assumes same role and availability
+00-0038797,Emanuel Wilson,RB,SEA,7,KC,10.87856,scheduled; assumes same role and availability
+00-0038797,Emanuel Wilson,RB,SEA,8,CHI,10.87856,scheduled; assumes same role and availability
+00-0031408,Mike Evans,WR,SF,5,SEA,10.86986,scheduled; assumes same role and availability
+00-0031408,Mike Evans,WR,SF,6,WAS,10.86986,scheduled; assumes same role and availability
+00-0031408,Mike Evans,WR,SF,7,ATL,10.86986,scheduled; assumes same role and availability
+00-0031408,Mike Evans,WR,SF,8,,0.00000,bye
+00-0034869,Sam Darnold,QB,SEA,5,SF,10.77186,scheduled; assumes same role and availability
+00-0034869,Sam Darnold,QB,SEA,6,DEN,10.77186,scheduled; assumes same role and availability
+00-0034869,Sam Darnold,QB,SEA,7,KC,10.77186,scheduled; assumes same role and availability
+00-0034869,Sam Darnold,QB,SEA,8,CHI,10.77186,scheduled; assumes same role and availability
+00-0033906,Alvin Kamara,RB,NO,5,MIN,10.75321,scheduled; assumes same role and availability
+00-0033906,Alvin Kamara,RB,NO,6,NYG,10.75321,scheduled; assumes same role and availability
+00-0033906,Alvin Kamara,RB,NO,7,PIT,10.75321,scheduled; assumes same role and availability
+00-0033906,Alvin Kamara,RB,NO,8,,0.00000,bye
+00-0039739,Roman Wilson,WR,PIT,5,IND,10.66090,scheduled; assumes same role and availability
+00-0039739,Roman Wilson,WR,PIT,6,TB,10.66090,scheduled; assumes same role and availability
+00-0039739,Roman Wilson,WR,PIT,7,NO,10.66090,scheduled; assumes same role and availability
+00-0039739,Roman Wilson,WR,PIT,8,CLE,10.66090,scheduled; assumes same role and availability
+00-0038996,Tucker Kraft,TE,GB,5,CHI,10.64345,scheduled; assumes same role and availability
+00-0038996,Tucker Kraft,TE,GB,6,DAL,10.64345,scheduled; assumes same role and availability
+00-0038996,Tucker Kraft,TE,GB,7,DET,10.64345,scheduled; assumes same role and availability
+00-0038996,Tucker Kraft,TE,GB,8,CAR,10.64345,scheduled; assumes same role and availability
+00-0038994,Jordan Addison,WR,MIN,5,NO,10.62014,scheduled; assumes same role and availability
+00-0038994,Jordan Addison,WR,MIN,6,,0.00000,bye
+00-0038994,Jordan Addison,WR,MIN,7,IND,10.62014,scheduled; assumes same role and availability
+00-0038994,Jordan Addison,WR,MIN,8,DET,10.62014,scheduled; assumes same role and availability
+00-0039066,Michael Mayer,TE,LV,5,NE,10.61361,scheduled; assumes same role and availability
+00-0039066,Michael Mayer,TE,LV,6,BUF,10.61361,scheduled; assumes same role and availability
+00-0039066,Michael Mayer,TE,LV,7,LA,10.61361,scheduled; assumes same role and availability
+00-0039066,Michael Mayer,TE,LV,8,NYJ,10.61361,scheduled; assumes same role and availability
+00-0034753,Mark Andrews,TE,BAL,5,ATL,10.55502,scheduled; assumes same role and availability
+00-0034753,Mark Andrews,TE,BAL,6,CLE,10.55502,scheduled; assumes same role and availability
+00-0034753,Mark Andrews,TE,BAL,7,CIN,10.55502,scheduled; assumes same role and availability
+00-0034753,Mark Andrews,TE,BAL,8,BUF,10.55502,scheduled; assumes same role and availability
+00-0034855,Baker Mayfield,QB,TB,5,DAL,10.51729,scheduled; assumes same role and availability
+00-0034855,Baker Mayfield,QB,TB,6,PIT,10.51729,scheduled; assumes same role and availability
+00-0034855,Baker Mayfield,QB,TB,7,CAR,10.51729,scheduled; assumes same role and availability
+00-0034855,Baker Mayfield,QB,TB,8,ATL,10.51729,scheduled; assumes same role and availability
+00-0036875,Rhamondre Stevenson,RB,NE,5,LV,10.50761,scheduled; assumes same role and availability
+00-0036875,Rhamondre Stevenson,RB,NE,6,NYJ,10.50761,scheduled; assumes same role and availability
+00-0036875,Rhamondre Stevenson,RB,NE,7,CHI,10.50761,scheduled; assumes same role and availability
+00-0036875,Rhamondre Stevenson,RB,NE,8,MIA,10.50761,scheduled; assumes same role and availability
+00-0039337,Malik Nabers,WR,NYG,5,WAS,10.45338,scheduled; assumes same role and availability
+00-0039337,Malik Nabers,WR,NYG,6,NO,10.45338,scheduled; assumes same role and availability
+00-0039337,Malik Nabers,WR,NYG,7,HOU,10.45338,scheduled; assumes same role and availability
+00-0039337,Malik Nabers,WR,NYG,8,,0.00000,bye
+00-0038618,Xavier Hutchinson,WR,HOU,5,TEN,10.40785,scheduled; assumes same role and availability
+00-0038618,Xavier Hutchinson,WR,HOU,6,JAX,10.40785,scheduled; assumes same role and availability
+00-0038618,Xavier Hutchinson,WR,HOU,7,NYG,10.40785,scheduled; assumes same role and availability
+00-0038618,Xavier Hutchinson,WR,HOU,8,,0.00000,bye
+00-0037816,Romeo Doubs,WR,NE,5,LV,10.31901,scheduled; assumes same role and availability
+00-0037816,Romeo Doubs,WR,NE,6,NYJ,10.31901,scheduled; assumes same role and availability
+00-0037816,Romeo Doubs,WR,NE,7,CHI,10.31901,scheduled; assumes same role and availability
+00-0037816,Romeo Doubs,WR,NE,8,MIA,10.31901,scheduled; assumes same role and availability
+00-0040730,RJ Harvey,RB,DEN,5,LAC,10.31259,scheduled; assumes same role and availability
+00-0040730,RJ Harvey,RB,DEN,6,SEA,10.31259,scheduled; assumes same role and availability
+00-0040730,RJ Harvey,RB,DEN,7,ARI,10.31259,scheduled; assumes same role and availability
+00-0040730,RJ Harvey,RB,DEN,8,KC,10.31259,scheduled; assumes same role and availability
+00-0040129,Emeka Egbuka,WR,TB,5,DAL,10.19928,scheduled; assumes same role and availability
+00-0040129,Emeka Egbuka,WR,TB,6,PIT,10.19928,scheduled; assumes same role and availability
+00-0040129,Emeka Egbuka,WR,TB,7,CAR,10.19928,scheduled; assumes same role and availability
+00-0040129,Emeka Egbuka,WR,TB,8,ATL,10.19928,scheduled; assumes same role and availability
+00-0031503,Jameis Winston,QB,NYG,5,WAS,10.14771,scheduled; assumes same role and availability
+00-0031503,Jameis Winston,QB,NYG,6,NO,10.14771,scheduled; assumes same role and availability
+00-0031503,Jameis Winston,QB,NYG,7,HOU,10.14771,scheduled; assumes same role and availability
+00-0031503,Jameis Winston,QB,NYG,8,,0.00000,bye
+00-0031610,Darren Waller,TE,CAR,5,,0.00000,bye
+00-0031610,Darren Waller,TE,CAR,6,PHI,10.13014,scheduled; assumes same role and availability
+00-0031610,Darren Waller,TE,CAR,7,TB,10.13014,scheduled; assumes same role and availability
+00-0031610,Darren Waller,TE,CAR,8,GB,10.13014,scheduled; assumes same role and availability
+00-0038117,Wan'Dale Robinson,WR,TEN,5,HOU,10.04724,scheduled; assumes same role and availability
+00-0038117,Wan'Dale Robinson,WR,TEN,6,IND,10.04724,scheduled; assumes same role and availability
+00-0038117,Wan'Dale Robinson,WR,TEN,7,CLE,10.04724,scheduled; assumes same role and availability
+00-0038117,Wan'Dale Robinson,WR,TEN,8,CIN,10.04724,scheduled; assumes same role and availability
+00-0039919,Rome Odunze,WR,CHI,5,GB,10.03361,scheduled; assumes same role and availability
+00-0039919,Rome Odunze,WR,CHI,6,ATL,10.03361,scheduled; assumes same role and availability
+00-0039919,Rome Odunze,WR,CHI,7,NE,10.03361,scheduled; assumes same role and availability
+00-0039919,Rome Odunze,WR,CHI,8,SEA,10.03361,scheduled; assumes same role and availability
+00-0038129,Cade Otton,TE,TB,5,DAL,9.90860,scheduled; assumes same role and availability
+00-0038129,Cade Otton,TE,TB,6,PIT,9.90860,scheduled; assumes same role and availability
+00-0038129,Cade Otton,TE,TB,7,CAR,9.90860,scheduled; assumes same role and availability
+00-0038129,Cade Otton,TE,TB,8,ATL,9.90860,scheduled; assumes same role and availability
+00-0037746,Brian Robinson,RB,ATL,5,BAL,9.89517,scheduled; assumes same role and availability
+00-0037746,Brian Robinson,RB,ATL,6,CHI,9.89517,scheduled; assumes same role and availability
+00-0037746,Brian Robinson,RB,ATL,7,SF,9.89517,scheduled; assumes same role and availability
+00-0037746,Brian Robinson,RB,ATL,8,TB,9.89517,scheduled; assumes same role and availability
+00-0038120,Breece Hall,RB,NYJ,5,CLE,9.88680,scheduled; assumes same role and availability
+00-0038120,Breece Hall,RB,NYJ,6,NE,9.88680,scheduled; assumes same role and availability
+00-0038120,Breece Hall,RB,NYJ,7,MIA,9.88680,scheduled; assumes same role and availability
+00-0038120,Breece Hall,RB,NYJ,8,LV,9.88680,scheduled; assumes same role and availability
+00-0033110,Tyler Higbee,TE,LA,5,BUF,9.85755,scheduled; assumes same role and availability
+00-0033110,Tyler Higbee,TE,LA,6,ARI,9.85755,scheduled; assumes same role and availability
+00-0033110,Tyler Higbee,TE,LA,7,LV,9.85755,scheduled; assumes same role and availability
+00-0033110,Tyler Higbee,TE,LA,8,LAC,9.85755,scheduled; assumes same role and availability
+00-0032464,Kalif Raymond,WR,CHI,5,GB,9.75504,scheduled; assumes same role and availability
+00-0032464,Kalif Raymond,WR,CHI,6,ATL,9.75504,scheduled; assumes same role and availability
+00-0032464,Kalif Raymond,WR,CHI,7,NE,9.75504,scheduled; assumes same role and availability
+00-0032464,Kalif Raymond,WR,CHI,8,SEA,9.75504,scheduled; assumes same role and availability
+00-0037240,Jameson Williams,WR,DET,5,ARI,9.70776,scheduled; assumes same role and availability
+00-0037240,Jameson Williams,WR,DET,6,,0.00000,bye
+00-0037240,Jameson Williams,WR,DET,7,GB,9.70776,scheduled; assumes same role and availability
+00-0037240,Jameson Williams,WR,DET,8,MIN,9.70776,scheduled; assumes same role and availability
+00-0036894,Pat Freiermuth,TE,PIT,5,IND,9.63043,scheduled; assumes same role and availability
+00-0036894,Pat Freiermuth,TE,PIT,6,TB,9.63043,scheduled; assumes same role and availability
+00-0036894,Pat Freiermuth,TE,PIT,7,NO,9.63043,scheduled; assumes same role and availability
+00-0036894,Pat Freiermuth,TE,PIT,8,CLE,9.63043,scheduled; assumes same role and availability
+00-0039901,Keon Coleman,WR,BUF,5,LA,9.51057,scheduled; assumes same role and availability
+00-0039901,Keon Coleman,WR,BUF,6,LV,9.51057,scheduled; assumes same role and availability
+00-0039901,Keon Coleman,WR,BUF,7,,0.00000,bye
+00-0039901,Keon Coleman,WR,BUF,8,BAL,9.51057,scheduled; assumes same role and availability
+00-0040242,Jacory Croskey-Merritt,RB,WAS,5,NYG,9.48236,scheduled; assumes same role and availability
+00-0040242,Jacory Croskey-Merritt,RB,WAS,6,SF,9.48236,scheduled; assumes same role and availability
+00-0040242,Jacory Croskey-Merritt,RB,WAS,7,,0.00000,bye
+00-0040242,Jacory Croskey-Merritt,RB,WAS,8,PHI,9.48236,scheduled; assumes same role and availability
+00-0038933,Dalton Kincaid,TE,BUF,5,LA,9.45272,scheduled; assumes same role and availability
+00-0038933,Dalton Kincaid,TE,BUF,6,LV,9.45272,scheduled; assumes same role and availability
+00-0038933,Dalton Kincaid,TE,BUF,7,,0.00000,bye
+00-0038933,Dalton Kincaid,TE,BUF,8,BAL,9.45272,scheduled; assumes same role and availability
+00-0037261,Khalil Shakir,WR,BUF,5,LA,9.45230,scheduled; assumes same role and availability
+00-0037261,Khalil Shakir,WR,BUF,6,LV,9.45230,scheduled; assumes same role and availability
+00-0037261,Khalil Shakir,WR,BUF,7,,0.00000,bye
+00-0037261,Khalil Shakir,WR,BUF,8,BAL,9.45230,scheduled; assumes same role and availability
+00-0038393,Dontayvion Wicks,WR,PHI,5,JAX,9.44718,scheduled; assumes same role and availability
+00-0038393,Dontayvion Wicks,WR,PHI,6,CAR,9.44718,scheduled; assumes same role and availability
+00-0038393,Dontayvion Wicks,WR,PHI,7,DAL,9.44718,scheduled; assumes same role and availability
+00-0038393,Dontayvion Wicks,WR,PHI,8,WAS,9.44718,scheduled; assumes same role and availability
+00-0039491,Jalen Coker,WR,CAR,5,,0.00000,bye
+00-0039491,Jalen Coker,WR,CAR,6,PHI,9.41412,scheduled; assumes same role and availability
+00-0039491,Jalen Coker,WR,CAR,7,TB,9.41412,scheduled; assumes same role and availability
+00-0039491,Jalen Coker,WR,CAR,8,GB,9.41412,scheduled; assumes same role and availability
+00-0035228,Kyler Murray,QB,MIN,5,NO,9.32902,scheduled; assumes same role and availability
+00-0035228,Kyler Murray,QB,MIN,6,,0.00000,bye
+00-0035228,Kyler Murray,QB,MIN,7,IND,9.32902,scheduled; assumes same role and availability
+00-0035228,Kyler Murray,QB,MIN,8,DET,9.32902,scheduled; assumes same role and availability
+00-0035659,Terry McLaurin,WR,WAS,5,NYG,9.31394,scheduled; assumes same role and availability
+00-0035659,Terry McLaurin,WR,WAS,6,SF,9.31394,scheduled; assumes same role and availability
+00-0035659,Terry McLaurin,WR,WAS,7,,0.00000,bye
+00-0035659,Terry McLaurin,WR,WAS,8,PHI,9.31394,scheduled; assumes same role and availability
+00-0038935,Brenton Strange,TE,JAX,5,PHI,9.23840,scheduled; assumes same role and availability
+00-0038935,Brenton Strange,TE,JAX,6,HOU,9.23840,scheduled; assumes same role and availability
+00-0038935,Brenton Strange,TE,JAX,7,,0.00000,bye
+00-0038935,Brenton Strange,TE,JAX,8,IND,9.23840,scheduled; assumes same role and availability
+00-0035719,Deebo Samuel Sr.,WR,SF,5,SEA,9.23648,scheduled; assumes same role and availability
+00-0035719,Deebo Samuel Sr.,WR,SF,6,WAS,9.23648,scheduled; assumes same role and availability
+00-0035719,Deebo Samuel Sr.,WR,SF,7,ATL,9.23648,scheduled; assumes same role and availability
+00-0035719,Deebo Samuel Sr.,WR,SF,8,,0.00000,bye
+00-0038104,Tyquan Thornton,WR,KC,5,,0.00000,bye
+00-0038104,Tyquan Thornton,WR,KC,6,LAC,9.13417,scheduled; assumes same role and availability
+00-0038104,Tyquan Thornton,WR,KC,7,SEA,9.13417,scheduled; assumes same role and availability
+00-0038104,Tyquan Thornton,WR,KC,8,DEN,9.13417,scheduled; assumes same role and availability
+00-0039067,Rashee Rice,WR,KC,5,,0.00000,bye
+00-0039067,Rashee Rice,WR,KC,6,LAC,9.11156,scheduled; assumes same role and availability
+00-0039067,Rashee Rice,WR,KC,7,SEA,9.11156,scheduled; assumes same role and availability
+00-0039067,Rashee Rice,WR,KC,8,DEN,9.11156,scheduled; assumes same role and availability
+00-0039410,Ryan Flournoy,WR,DAL,5,TB,9.10279,scheduled; assumes same role and availability
+00-0039410,Ryan Flournoy,WR,DAL,6,GB,9.10279,scheduled; assumes same role and availability
+00-0039410,Ryan Flournoy,WR,DAL,7,PHI,9.10279,scheduled; assumes same role and availability
+00-0039410,Ryan Flournoy,WR,DAL,8,ARI,9.10279,scheduled; assumes same role and availability
+00-0033555,Mack Hollins,WR,NE,5,LV,9.10148,scheduled; assumes same role and availability
+00-0033555,Mack Hollins,WR,NE,6,NYJ,9.10148,scheduled; assumes same role and availability
+00-0033555,Mack Hollins,WR,NE,7,CHI,9.10148,scheduled; assumes same role and availability
+00-0033555,Mack Hollins,WR,NE,8,MIA,9.10148,scheduled; assumes same role and availability
+00-0039894,Xavier Worthy,WR,KC,5,,0.00000,bye
+00-0039894,Xavier Worthy,WR,KC,6,LAC,8.96446,scheduled; assumes same role and availability
+00-0039894,Xavier Worthy,WR,KC,7,SEA,8.96446,scheduled; assumes same role and availability
+00-0039894,Xavier Worthy,WR,KC,8,DEN,8.96446,scheduled; assumes same role and availability
+00-0040727,Tre Harris,WR,LAC,5,DEN,8.96338,scheduled; assumes same role and availability
+00-0040727,Tre Harris,WR,LAC,6,KC,8.96338,scheduled; assumes same role and availability
+00-0040727,Tre Harris,WR,LAC,7,,0.00000,bye
+00-0040727,Tre Harris,WR,LAC,8,LA,8.96338,scheduled; assumes same role and availability
+00-0041032,Kenyon Sadiq,TE,NYJ,5,CLE,8.91054,scheduled; assumes same role and availability
+00-0041032,Kenyon Sadiq,TE,NYJ,6,NE,8.91054,scheduled; assumes same role and availability
+00-0041032,Kenyon Sadiq,TE,NYJ,7,MIA,8.91054,scheduled; assumes same role and availability
+00-0041032,Kenyon Sadiq,TE,NYJ,8,LV,8.91054,scheduled; assumes same role and availability
+00-0038454,Keaton Mitchell,RB,LAC,5,DEN,8.87211,scheduled; assumes same role and availability
+00-0038454,Keaton Mitchell,RB,LAC,6,KC,8.87211,scheduled; assumes same role and availability
+00-0038454,Keaton Mitchell,RB,LAC,7,,0.00000,bye
+00-0038454,Keaton Mitchell,RB,LAC,8,LA,8.87211,scheduled; assumes same role and availability
+00-0032268,Marcus Mariota,QB,WAS,5,NYG,8.83757,scheduled; assumes same role and availability
+00-0032268,Marcus Mariota,QB,WAS,6,SF,8.83757,scheduled; assumes same role and availability
+00-0032268,Marcus Mariota,QB,WAS,7,,0.00000,bye
+00-0032268,Marcus Mariota,QB,WAS,8,PHI,8.83757,scheduled; assumes same role and availability
+00-0040669,Isaac TeSlaa,WR,DET,5,ARI,8.69817,scheduled; assumes same role and availability
+00-0040669,Isaac TeSlaa,WR,DET,6,,0.00000,bye
+00-0040669,Isaac TeSlaa,WR,DET,7,GB,8.69817,scheduled; assumes same role and availability
+00-0040669,Isaac TeSlaa,WR,DET,8,MIN,8.69817,scheduled; assumes same role and availability
+00-0033921,Chris Godwin Jr.,WR,TB,5,DAL,8.48462,scheduled; assumes same role and availability
+00-0033921,Chris Godwin Jr.,WR,TB,6,PIT,8.48462,scheduled; assumes same role and availability
+00-0033921,Chris Godwin Jr.,WR,TB,7,CAR,8.48462,scheduled; assumes same role and availability
+00-0033921,Chris Godwin Jr.,WR,TB,8,ATL,8.48462,scheduled; assumes same role and availability
+00-0034960,Jakobi Meyers,WR,JAX,5,PHI,8.43980,scheduled; assumes same role and availability
+00-0034960,Jakobi Meyers,WR,JAX,6,HOU,8.43980,scheduled; assumes same role and availability
+00-0034960,Jakobi Meyers,WR,JAX,7,,0.00000,bye
+00-0034960,Jakobi Meyers,WR,JAX,8,IND,8.43980,scheduled; assumes same role and availability
+00-0040198,Ollie Gordon II,RB,MIA,5,CIN,8.43537,scheduled; assumes same role and availability
+00-0040198,Ollie Gordon II,RB,MIA,6,,0.00000,bye
+00-0040198,Ollie Gordon II,RB,MIA,7,NYJ,8.43537,scheduled; assumes same role and availability
+00-0040198,Ollie Gordon II,RB,MIA,8,NE,8.43537,scheduled; assumes same role and availability
+00-0041040,Antonio Williams,WR,WAS,5,NYG,8.40677,scheduled; assumes same role and availability
+00-0041040,Antonio Williams,WR,WAS,6,SF,8.40677,scheduled; assumes same role and availability
+00-0041040,Antonio Williams,WR,WAS,7,,0.00000,bye
+00-0041040,Antonio Williams,WR,WAS,8,PHI,8.40677,scheduled; assumes same role and availability
+00-0036550,Rashod Bateman,WR,BAL,5,ATL,8.33269,scheduled; assumes same role and availability
+00-0036550,Rashod Bateman,WR,BAL,6,CLE,8.33269,scheduled; assumes same role and availability
+00-0036550,Rashod Bateman,WR,BAL,7,CIN,8.33269,scheduled; assumes same role and availability
+00-0036550,Rashod Bateman,WR,BAL,8,BUF,8.33269,scheduled; assumes same role and availability
+00-0034827,DJ Moore,WR,BUF,5,LA,8.17750,scheduled; assumes same role and availability
+00-0034827,DJ Moore,WR,BUF,6,LV,8.17750,scheduled; assumes same role and availability
+00-0034827,DJ Moore,WR,BUF,7,,0.00000,bye
+00-0034827,DJ Moore,WR,BUF,8,BAL,8.17750,scheduled; assumes same role and availability
+00-0040126,Colston Loveland,TE,CHI,5,GB,8.14778,scheduled; assumes same role and availability
+00-0040126,Colston Loveland,TE,CHI,6,ATL,8.14778,scheduled; assumes same role and availability
+00-0040126,Colston Loveland,TE,CHI,7,NE,8.14778,scheduled; assumes same role and availability
+00-0040126,Colston Loveland,TE,CHI,8,SEA,8.14778,scheduled; assumes same role and availability
+00-0038041,Jake Ferguson,TE,DAL,5,TB,8.09355,scheduled; assumes same role and availability
+00-0038041,Jake Ferguson,TE,DAL,6,GB,8.09355,scheduled; assumes same role and availability
+00-0038041,Jake Ferguson,TE,DAL,7,PHI,8.09355,scheduled; assumes same role and availability
+00-0038041,Jake Ferguson,TE,DAL,8,ARI,8.09355,scheduled; assumes same role and availability
+00-0039075,Puka Nacua,WR,LA,5,BUF,8.07660,scheduled; assumes same role and availability
+00-0039075,Puka Nacua,WR,LA,6,ARI,8.07660,scheduled; assumes same role and availability
+00-0039075,Puka Nacua,WR,LA,7,LV,8.07660,scheduled; assumes same role and availability
+00-0039075,Puka Nacua,WR,LA,8,LAC,8.07660,scheduled; assumes same role and availability
+00-0040785,Dohnte Meyers,WR,CIN,5,MIA,8.00275,scheduled; assumes same role and availability
+00-0040785,Dohnte Meyers,WR,CIN,6,,0.00000,bye
+00-0040785,Dohnte Meyers,WR,CIN,7,BAL,8.00275,scheduled; assumes same role and availability
+00-0040785,Dohnte Meyers,WR,CIN,8,TEN,8.00275,scheduled; assumes same role and availability
+00-0035685,David Montgomery,RB,HOU,5,TEN,7.95332,scheduled; assumes same role and availability
+00-0035685,David Montgomery,RB,HOU,6,JAX,7.95332,scheduled; assumes same role and availability
+00-0035685,David Montgomery,RB,HOU,7,NYG,7.95332,scheduled; assumes same role and availability
+00-0035685,David Montgomery,RB,HOU,8,,0.00000,bye
+00-0040734,TreVeyon Henderson,RB,NE,5,LV,7.92182,scheduled; assumes same role and availability
+00-0040734,TreVeyon Henderson,RB,NE,6,NYJ,7.92182,scheduled; assumes same role and availability
+00-0040734,TreVeyon Henderson,RB,NE,7,CHI,7.92182,scheduled; assumes same role and availability
+00-0040734,TreVeyon Henderson,RB,NE,8,MIA,7.92182,scheduled; assumes same role and availability
+00-0036158,J.K. Dobbins,RB,DEN,5,LAC,7.91523,scheduled; assumes same role and availability
+00-0036158,J.K. Dobbins,RB,DEN,6,SEA,7.91523,scheduled; assumes same role and availability
+00-0036158,J.K. Dobbins,RB,DEN,7,ARI,7.91523,scheduled; assumes same role and availability
+00-0036158,J.K. Dobbins,RB,DEN,8,KC,7.91523,scheduled; assumes same role and availability
+00-0039811,MarShawn Lloyd,RB,GB,5,CHI,7.89208,scheduled; assumes same role and availability
+00-0039811,MarShawn Lloyd,RB,GB,6,DAL,7.89208,scheduled; assumes same role and availability
+00-0039811,MarShawn Lloyd,RB,GB,7,DET,7.89208,scheduled; assumes same role and availability
+00-0039811,MarShawn Lloyd,RB,GB,8,CAR,7.89208,scheduled; assumes same role and availability
+00-0034348,Courtland Sutton,WR,DEN,5,LAC,7.86082,scheduled; assumes same role and availability
+00-0034348,Courtland Sutton,WR,DEN,6,SEA,7.86082,scheduled; assumes same role and availability
+00-0034348,Courtland Sutton,WR,DEN,7,ARI,7.86082,scheduled; assumes same role and availability
+00-0034348,Courtland Sutton,WR,DEN,8,KC,7.86082,scheduled; assumes same role and availability
+00-0030279,Keenan Allen,WR,IND,5,PIT,7.83412,scheduled; assumes same role and availability
+00-0030279,Keenan Allen,WR,IND,6,TEN,7.83412,scheduled; assumes same role and availability
+00-0030279,Keenan Allen,WR,IND,7,MIN,7.83412,scheduled; assumes same role and availability
+00-0030279,Keenan Allen,WR,IND,8,JAX,7.83412,scheduled; assumes same role and availability
+00-0039040,De'Von Achane,RB,MIA,5,CIN,7.73483,scheduled; assumes same role and availability
+00-0039040,De'Von Achane,RB,MIA,6,,0.00000,bye
+00-0039040,De'Von Achane,RB,MIA,7,NYJ,7.73483,scheduled; assumes same role and availability
+00-0039040,De'Von Achane,RB,MIA,8,NE,7.73483,scheduled; assumes same role and availability
+00-0040583,Woody Marks,RB,HOU,5,TEN,7.69438,scheduled; assumes same role and availability
+00-0040583,Woody Marks,RB,HOU,6,JAX,7.69438,scheduled; assumes same role and availability
+00-0040583,Woody Marks,RB,HOU,7,NYG,7.69438,scheduled; assumes same role and availability
+00-0040583,Woody Marks,RB,HOU,8,,0.00000,bye
+00-0040189,Oronde Gadsden II,TE,LAC,5,DEN,7.61778,scheduled; assumes same role and availability
+00-0040189,Oronde Gadsden II,TE,LAC,6,KC,7.61778,scheduled; assumes same role and availability
+00-0040189,Oronde Gadsden II,TE,LAC,7,,0.00000,bye
+00-0040189,Oronde Gadsden II,TE,LAC,8,LA,7.61778,scheduled; assumes same role and availability
+00-0039738,Blake Corum,RB,LA,5,BUF,7.53171,scheduled; assumes same role and availability
+00-0039738,Blake Corum,RB,LA,6,ARI,7.53171,scheduled; assumes same role and availability
+00-0039738,Blake Corum,RB,LA,7,LV,7.53171,scheduled; assumes same role and availability
+00-0039738,Blake Corum,RB,LA,8,LAC,7.53171,scheduled; assumes same role and availability
+00-0039793,AJ Barner,TE,SEA,5,SF,7.45334,scheduled; assumes same role and availability
+00-0039793,AJ Barner,TE,SEA,6,DEN,7.45334,scheduled; assumes same role and availability
+00-0039793,AJ Barner,TE,SEA,7,KC,7.45334,scheduled; assumes same role and availability
+00-0039793,AJ Barner,TE,SEA,8,CHI,7.45334,scheduled; assumes same role and availability
+00-0039794,Braelon Allen,RB,NYJ,5,CLE,7.33699,scheduled; assumes same role and availability
+00-0039794,Braelon Allen,RB,NYJ,6,NE,7.33699,scheduled; assumes same role and availability
+00-0039794,Braelon Allen,RB,NYJ,7,MIA,7.33699,scheduled; assumes same role and availability
+00-0039794,Braelon Allen,RB,NYJ,8,LV,7.33699,scheduled; assumes same role and availability
+00-0037263,Tyler Allgeier,RB,ARI,5,DET,7.29204,scheduled; assumes same role and availability
+00-0037263,Tyler Allgeier,RB,ARI,6,LA,7.29204,scheduled; assumes same role and availability
+00-0037263,Tyler Allgeier,RB,ARI,7,DEN,7.29204,scheduled; assumes same role and availability
+00-0037263,Tyler Allgeier,RB,ARI,8,DAL,7.29204,scheduled; assumes same role and availability
+00-0039917,Michael Penix Jr.,QB,ATL,5,BAL,7.26012,scheduled; assumes same role and availability
+00-0039917,Michael Penix Jr.,QB,ATL,6,CHI,7.26012,scheduled; assumes same role and availability
+00-0039917,Michael Penix Jr.,QB,ATL,7,SF,7.26012,scheduled; assumes same role and availability
+00-0039917,Michael Penix Jr.,QB,ATL,8,TB,7.26012,scheduled; assumes same role and availability
+00-0041048,Ted Hurst III,WR,TB,5,DAL,7.25587,scheduled; assumes same role and availability
+00-0041048,Ted Hurst III,WR,TB,6,PIT,7.25587,scheduled; assumes same role and availability
+00-0041048,Ted Hurst III,WR,TB,7,CAR,7.25587,scheduled; assumes same role and availability
+00-0041048,Ted Hurst III,WR,TB,8,ATL,7.25587,scheduled; assumes same role and availability
+00-0033090,Hunter Henry,TE,NE,5,LV,7.17519,scheduled; assumes same role and availability
+00-0033090,Hunter Henry,TE,NE,6,NYJ,7.17519,scheduled; assumes same role and availability
+00-0033090,Hunter Henry,TE,NE,7,CHI,7.17519,scheduled; assumes same role and availability
+00-0033090,Hunter Henry,TE,NE,8,MIA,7.17519,scheduled; assumes same role and availability
+00-0038544,Quentin Johnston,WR,LAC,5,DEN,7.12262,scheduled; assumes same role and availability
+00-0038544,Quentin Johnston,WR,LAC,6,KC,7.12262,scheduled; assumes same role and availability
+00-0038544,Quentin Johnston,WR,LAC,7,,0.00000,bye
+00-0038544,Quentin Johnston,WR,LAC,8,LA,7.12262,scheduled; assumes same role and availability
+00-0040138,Jaylin Noel,WR,HOU,5,TEN,6.94269,scheduled; assumes same role and availability
+00-0040138,Jaylin Noel,WR,HOU,6,JAX,6.94269,scheduled; assumes same role and availability
+00-0040138,Jaylin Noel,WR,HOU,7,NYG,6.94269,scheduled; assumes same role and availability
+00-0040138,Jaylin Noel,WR,HOU,8,,0.00000,bye
+00-0039915,Ladd McConkey,WR,LAC,5,DEN,6.91558,scheduled; assumes same role and availability
+00-0039915,Ladd McConkey,WR,LAC,6,KC,6.91558,scheduled; assumes same role and availability
+00-0039915,Ladd McConkey,WR,LAC,7,,0.00000,bye
+00-0039915,Ladd McConkey,WR,LAC,8,LA,6.91558,scheduled; assumes same role and availability
+00-0040590,Konata Mumpfield,WR,LA,5,BUF,6.90196,scheduled; assumes same role and availability
+00-0040590,Konata Mumpfield,WR,LA,6,ARI,6.90196,scheduled; assumes same role and availability
+00-0040590,Konata Mumpfield,WR,LA,7,LV,6.90196,scheduled; assumes same role and availability
+00-0040590,Konata Mumpfield,WR,LA,8,LAC,6.90196,scheduled; assumes same role and availability
+00-0039451,Isaiah Williams,WR,NYJ,5,CLE,6.88893,scheduled; assumes same role and availability
+00-0039451,Isaiah Williams,WR,NYJ,6,NE,6.88893,scheduled; assumes same role and availability
+00-0039451,Isaiah Williams,WR,NYJ,7,MIA,6.88893,scheduled; assumes same role and availability
+00-0039451,Isaiah Williams,WR,NYJ,8,LV,6.88893,scheduled; assumes same role and availability
+00-0036554,Nico Collins,WR,HOU,5,TEN,6.88731,scheduled; assumes same role and availability
+00-0036554,Nico Collins,WR,HOU,6,JAX,6.88731,scheduled; assumes same role and availability
+00-0036554,Nico Collins,WR,HOU,7,NYG,6.88731,scheduled; assumes same role and availability
+00-0036554,Nico Collins,WR,HOU,8,,0.00000,bye
+00-0036973,Travis Etienne,RB,NO,5,MIN,6.83949,scheduled; assumes same role and availability
+00-0036973,Travis Etienne,RB,NO,6,NYG,6.83949,scheduled; assumes same role and availability
+00-0036973,Travis Etienne,RB,NO,7,PIT,6.83949,scheduled; assumes same role and availability
+00-0036973,Travis Etienne,RB,NO,8,,0.00000,bye
+00-0034844,Saquon Barkley,RB,PHI,5,JAX,6.83519,scheduled; assumes same role and availability
+00-0034844,Saquon Barkley,RB,PHI,6,CAR,6.83519,scheduled; assumes same role and availability
+00-0034844,Saquon Barkley,RB,PHI,7,DAL,6.83519,scheduled; assumes same role and availability
+00-0034844,Saquon Barkley,RB,PHI,8,WAS,6.83519,scheduled; assumes same role and availability
+00-0037545,Rashid Shaheed,WR,SEA,5,SF,6.81090,scheduled; assumes same role and availability
+00-0037545,Rashid Shaheed,WR,SEA,6,DEN,6.81090,scheduled; assumes same role and availability
+00-0037545,Rashid Shaheed,WR,SEA,7,KC,6.81090,scheduled; assumes same role and availability
+00-0037545,Rashid Shaheed,WR,SEA,8,CHI,6.81090,scheduled; assumes same role and availability
+00-0037256,Rachaad White,RB,WAS,5,NYG,6.70447,scheduled; assumes same role and availability
+00-0037256,Rachaad White,RB,WAS,6,SF,6.70447,scheduled; assumes same role and availability
+00-0037256,Rachaad White,RB,WAS,7,,0.00000,bye
+00-0037256,Rachaad White,RB,WAS,8,PHI,6.70447,scheduled; assumes same role and availability
+00-0038558,Darnell Washington,TE,PIT,5,IND,6.66446,scheduled; assumes same role and availability
+00-0038558,Darnell Washington,TE,PIT,6,TB,6.66446,scheduled; assumes same role and availability
+00-0038558,Darnell Washington,TE,PIT,7,NO,6.66446,scheduled; assumes same role and availability
+00-0038558,Darnell Washington,TE,PIT,8,CLE,6.66446,scheduled; assumes same role and availability
+00-0039890,Adonai Mitchell,WR,NYJ,5,CLE,6.60307,scheduled; assumes same role and availability
+00-0039890,Adonai Mitchell,WR,NYJ,6,NE,6.60307,scheduled; assumes same role and availability
+00-0039890,Adonai Mitchell,WR,NYJ,7,MIA,6.60307,scheduled; assumes same role and availability
+00-0039890,Adonai Mitchell,WR,NYJ,8,LV,6.60307,scheduled; assumes same role and availability
+00-0039918,Caleb Williams,QB,CHI,5,GB,6.57587,scheduled; assumes same role and availability
+00-0039918,Caleb Williams,QB,CHI,6,ATL,6.57587,scheduled; assumes same role and availability
+00-0039918,Caleb Williams,QB,CHI,7,NE,6.57587,scheduled; assumes same role and availability
+00-0039918,Caleb Williams,QB,CHI,8,SEA,6.57587,scheduled; assumes same role and availability
+00-0036919,Kenny Gainwell,RB,TB,5,DAL,6.53100,scheduled; assumes same role and availability
+00-0036919,Kenny Gainwell,RB,TB,6,PIT,6.53100,scheduled; assumes same role and availability
+00-0036919,Kenny Gainwell,RB,TB,7,CAR,6.53100,scheduled; assumes same role and availability
+00-0036919,Kenny Gainwell,RB,TB,8,ATL,6.53100,scheduled; assumes same role and availability
+00-0038555,Tank Bigsby,RB,PHI,5,JAX,6.51498,scheduled; assumes same role and availability
+00-0038555,Tank Bigsby,RB,PHI,6,CAR,6.51498,scheduled; assumes same role and availability
+00-0038555,Tank Bigsby,RB,PHI,7,DAL,6.51498,scheduled; assumes same role and availability
+00-0038555,Tank Bigsby,RB,PHI,8,WAS,6.51498,scheduled; assumes same role and availability
+00-0041042,Malachi Fields,WR,NYG,5,WAS,6.47627,scheduled; assumes same role and availability
+00-0041042,Malachi Fields,WR,NYG,6,NO,6.47627,scheduled; assumes same role and availability
+00-0041042,Malachi Fields,WR,NYG,7,HOU,6.47627,scheduled; assumes same role and availability
+00-0041042,Malachi Fields,WR,NYG,8,,0.00000,bye
+00-0034829,Mike Gesicki,TE,CIN,5,MIA,6.41946,scheduled; assumes same role and availability
+00-0034829,Mike Gesicki,TE,CIN,6,,0.00000,bye
+00-0034829,Mike Gesicki,TE,CIN,7,BAL,6.41946,scheduled; assumes same role and availability
+00-0034829,Mike Gesicki,TE,CIN,8,TEN,6.41946,scheduled; assumes same role and availability
+00-0036322,Justin Jefferson,WR,MIN,5,NO,6.39772,scheduled; assumes same role and availability
+00-0036322,Justin Jefferson,WR,MIN,6,,0.00000,bye
+00-0036322,Justin Jefferson,WR,MIN,7,IND,6.39772,scheduled; assumes same role and availability
+00-0036322,Justin Jefferson,WR,MIN,8,DET,6.39772,scheduled; assumes same role and availability
+00-0039893,Brian Thomas Jr.,WR,JAX,5,PHI,6.36611,scheduled; assumes same role and availability
+00-0039893,Brian Thomas Jr.,WR,JAX,6,HOU,6.36611,scheduled; assumes same role and availability
+00-0039893,Brian Thomas Jr.,WR,JAX,7,,0.00000,bye
+00-0039893,Brian Thomas Jr.,WR,JAX,8,IND,6.36611,scheduled; assumes same role and availability
+00-0038608,Kayshon Boutte,WR,HOU,5,TEN,6.14240,scheduled; assumes same role and availability
+00-0038608,Kayshon Boutte,WR,HOU,6,JAX,6.14240,scheduled; assumes same role and availability
+00-0038608,Kayshon Boutte,WR,HOU,7,NYG,6.14240,scheduled; assumes same role and availability
+00-0038608,Kayshon Boutte,WR,HOU,8,,0.00000,bye
+00-0040867,Makai Lemon,WR,PHI,5,JAX,6.07979,scheduled; assumes same role and availability
+00-0040867,Makai Lemon,WR,PHI,6,CAR,6.07979,scheduled; assumes same role and availability
+00-0040867,Makai Lemon,WR,PHI,7,DAL,6.07979,scheduled; assumes same role and availability
+00-0040867,Makai Lemon,WR,PHI,8,WAS,6.07979,scheduled; assumes same role and availability
+00-0040737,Terrance Ferguson,TE,LA,5,BUF,6.00318,scheduled; assumes same role and availability
+00-0040737,Terrance Ferguson,TE,LA,6,ARI,6.00318,scheduled; assumes same role and availability
+00-0040737,Terrance Ferguson,TE,LA,7,LV,6.00318,scheduled; assumes same role and availability
+00-0040737,Terrance Ferguson,TE,LA,8,LAC,6.00318,scheduled; assumes same role and availability
+00-0039299,George Holani,RB,SEA,5,SF,5.98749,scheduled; assumes same role and availability
+00-0039299,George Holani,RB,SEA,6,DEN,5.98749,scheduled; assumes same role and availability
+00-0039299,George Holani,RB,SEA,7,KC,5.98749,scheduled; assumes same role and availability
+00-0039299,George Holani,RB,SEA,8,CHI,5.98749,scheduled; assumes same role and availability
+00-0038416,Tyson Bagent,QB,CHI,5,GB,5.95236,scheduled; assumes same role and availability
+00-0038416,Tyson Bagent,QB,CHI,6,ATL,5.95236,scheduled; assumes same role and availability
+00-0038416,Tyson Bagent,QB,CHI,7,NE,5.95236,scheduled; assumes same role and availability
+00-0038416,Tyson Bagent,QB,CHI,8,SEA,5.95236,scheduled; assumes same role and availability
+00-0041512,Jadarian Price,RB,SEA,5,SF,5.92539,scheduled; assumes same role and availability
+00-0041512,Jadarian Price,RB,SEA,6,DEN,5.92539,scheduled; assumes same role and availability
+00-0041512,Jadarian Price,RB,SEA,7,KC,5.92539,scheduled; assumes same role and availability
+00-0041512,Jadarian Price,RB,SEA,8,CHI,5.92539,scheduled; assumes same role and availability
+00-0037005,Tommy Tremble,TE,CAR,5,,0.00000,bye
+00-0037005,Tommy Tremble,TE,CAR,6,PHI,5.91166,scheduled; assumes same role and availability
+00-0037005,Tommy Tremble,TE,CAR,7,TB,5.91166,scheduled; assumes same role and availability
+00-0037005,Tommy Tremble,TE,CAR,8,GB,5.91166,scheduled; assumes same role and availability
+00-0036626,Dyami Brown,WR,WAS,5,NYG,5.80489,scheduled; assumes same role and availability
+00-0036626,Dyami Brown,WR,WAS,6,SF,5.80489,scheduled; assumes same role and availability
+00-0036626,Dyami Brown,WR,WAS,7,,0.00000,bye
+00-0036626,Dyami Brown,WR,WAS,8,PHI,5.80489,scheduled; assumes same role and availability
+00-0032951,Laquon Treadwell,WR,IND,5,PIT,5.76179,scheduled; assumes same role and availability
+00-0032951,Laquon Treadwell,WR,IND,6,TEN,5.76179,scheduled; assumes same role and availability
+00-0032951,Laquon Treadwell,WR,IND,7,MIN,5.76179,scheduled; assumes same role and availability
+00-0032951,Laquon Treadwell,WR,IND,8,JAX,5.76179,scheduled; assumes same role and availability
+00-0037252,Greg Dulcich,TE,MIA,5,CIN,5.73189,scheduled; assumes same role and availability
+00-0037252,Greg Dulcich,TE,MIA,6,,0.00000,bye
+00-0037252,Greg Dulcich,TE,MIA,7,NYJ,5.73189,scheduled; assumes same role and availability
+00-0037252,Greg Dulcich,TE,MIA,8,NE,5.73189,scheduled; assumes same role and availability
+00-0040024,Darius Cooper,WR,PHI,5,JAX,5.71194,scheduled; assumes same role and availability
+00-0040024,Darius Cooper,WR,PHI,6,CAR,5.71194,scheduled; assumes same role and availability
+00-0040024,Darius Cooper,WR,PHI,7,DAL,5.71194,scheduled; assumes same role and availability
+00-0040024,Darius Cooper,WR,PHI,8,WAS,5.71194,scheduled; assumes same role and availability
+00-0037741,Jahan Dotson,WR,ATL,5,BAL,5.64977,scheduled; assumes same role and availability
+00-0037741,Jahan Dotson,WR,ATL,6,CHI,5.64977,scheduled; assumes same role and availability
+00-0037741,Jahan Dotson,WR,ATL,7,SF,5.64977,scheduled; assumes same role and availability
+00-0037741,Jahan Dotson,WR,ATL,8,TB,5.64977,scheduled; assumes same role and availability
+00-0041525,Chris Bell,WR,MIA,5,CIN,5.62518,scheduled; assumes same role and availability
+00-0041525,Chris Bell,WR,MIA,6,,0.00000,bye
+00-0041525,Chris Bell,WR,MIA,7,NYJ,5.62518,scheduled; assumes same role and availability
+00-0041525,Chris Bell,WR,MIA,8,NE,5.62518,scheduled; assumes same role and availability
+00-0038621,DeMario Douglas,WR,NE,5,LV,5.59624,scheduled; assumes same role and availability
+00-0038621,DeMario Douglas,WR,NE,6,NYJ,5.59624,scheduled; assumes same role and availability
+00-0038621,DeMario Douglas,WR,NE,7,CHI,5.59624,scheduled; assumes same role and availability
+00-0038621,DeMario Douglas,WR,NE,8,MIA,5.59624,scheduled; assumes same role and availability
+00-0033908,Cooper Kupp,WR,SEA,5,SF,5.59327,scheduled; assumes same role and availability
+00-0033908,Cooper Kupp,WR,SEA,6,DEN,5.59327,scheduled; assumes same role and availability
+00-0033908,Cooper Kupp,WR,SEA,7,KC,5.59327,scheduled; assumes same role and availability
+00-0033908,Cooper Kupp,WR,SEA,8,CHI,5.59327,scheduled; assumes same role and availability
+00-0038090,Skyy Moore,WR,GB,5,CHI,5.56545,scheduled; assumes same role and availability
+00-0038090,Skyy Moore,WR,GB,6,DAL,5.56545,scheduled; assumes same role and availability
+00-0038090,Skyy Moore,WR,GB,7,DET,5.56545,scheduled; assumes same role and availability
+00-0038090,Skyy Moore,WR,GB,8,CAR,5.56545,scheduled; assumes same role and availability
+00-0028986,Case Keenum,QB,CHI,5,GB,5.56017,scheduled; assumes same role and availability
+00-0028986,Case Keenum,QB,CHI,6,ATL,5.56017,scheduled; assumes same role and availability
+00-0028986,Case Keenum,QB,CHI,7,NE,5.56017,scheduled; assumes same role and availability
+00-0028986,Case Keenum,QB,CHI,8,SEA,5.56017,scheduled; assumes same role and availability
+00-0039849,Marvin Harrison Jr.,WR,ARI,5,DET,5.49353,scheduled; assumes same role and availability
+00-0039849,Marvin Harrison Jr.,WR,ARI,6,LA,5.49353,scheduled; assumes same role and availability
+00-0039849,Marvin Harrison Jr.,WR,ARI,7,DEN,5.49353,scheduled; assumes same role and availability
+00-0039849,Marvin Harrison Jr.,WR,ARI,8,DAL,5.49353,scheduled; assumes same role and availability
+00-0041489,Germie Bernard,WR,PIT,5,IND,5.49113,scheduled; assumes same role and availability
+00-0041489,Germie Bernard,WR,PIT,6,TB,5.49113,scheduled; assumes same role and availability
+00-0041489,Germie Bernard,WR,PIT,7,NO,5.49113,scheduled; assumes same role and availability
+00-0041489,Germie Bernard,WR,PIT,8,CLE,5.49113,scheduled; assumes same role and availability
+00-0039910,Jayden Daniels,QB,WAS,5,NYG,5.46686,scheduled; assumes same role and availability
+00-0039910,Jayden Daniels,QB,WAS,6,SF,5.46686,scheduled; assumes same role and availability
+00-0039910,Jayden Daniels,QB,WAS,7,,0.00000,bye
+00-0039910,Jayden Daniels,QB,WAS,8,PHI,5.46686,scheduled; assumes same role and availability
+00-0041251,Jalon Daniels,QB,TB,5,DAL,5.45256,scheduled; assumes same role and availability
+00-0041251,Jalon Daniels,QB,TB,6,PIT,5.45256,scheduled; assumes same role and availability
+00-0041251,Jalon Daniels,QB,TB,7,CAR,5.45256,scheduled; assumes same role and availability
+00-0041251,Jalon Daniels,QB,TB,8,ATL,5.45256,scheduled; assumes same role and availability
+00-0035891,Cody White,WR,LV,5,NE,5.34752,scheduled; assumes same role and availability
+00-0035891,Cody White,WR,LV,6,BUF,5.34752,scheduled; assumes same role and availability
+00-0035891,Cody White,WR,LV,7,LA,5.34752,scheduled; assumes same role and availability
+00-0035891,Cody White,WR,LV,8,NYJ,5.34752,scheduled; assumes same role and availability
+00-0038728,Jared Wayne,WR,HOU,5,TEN,5.30803,scheduled; assumes same role and availability
+00-0038728,Jared Wayne,WR,HOU,6,JAX,5.30803,scheduled; assumes same role and availability
+00-0038728,Jared Wayne,WR,HOU,7,NYG,5.30803,scheduled; assumes same role and availability
+00-0038728,Jared Wayne,WR,HOU,8,,0.00000,bye
+00-0037614,John Metchie III,WR,CAR,5,,0.00000,bye
+00-0037614,John Metchie III,WR,CAR,6,PHI,5.17631,scheduled; assumes same role and availability
+00-0037614,John Metchie III,WR,CAR,7,TB,5.17631,scheduled; assumes same role and availability
+00-0037614,John Metchie III,WR,CAR,8,GB,5.17631,scheduled; assumes same role and availability
+00-0040466,Raheim Sanders,RB,CLE,5,NYJ,5.10830,scheduled; assumes same role and availability
+00-0040466,Raheim Sanders,RB,CLE,6,BAL,5.10830,scheduled; assumes same role and availability
+00-0040466,Raheim Sanders,RB,CLE,7,TEN,5.10830,scheduled; assumes same role and availability
+00-0040466,Raheim Sanders,RB,CLE,8,PIT,5.10830,scheduled; assumes same role and availability
+00-0035704,Drew Lock,QB,SEA,5,SF,5.07043,scheduled; assumes same role and availability
+00-0035704,Drew Lock,QB,SEA,6,DEN,5.07043,scheduled; assumes same role and availability
+00-0035704,Drew Lock,QB,SEA,7,KC,5.07043,scheduled; assumes same role and availability
+00-0035704,Drew Lock,QB,SEA,8,CHI,5.07043,scheduled; assumes same role and availability
+00-0040878,Mike Washington Jr.,RB,LV,5,NE,5.03126,scheduled; assumes same role and availability
+00-0040878,Mike Washington Jr.,RB,LV,6,BUF,5.03126,scheduled; assumes same role and availability
+00-0040878,Mike Washington Jr.,RB,LV,7,LA,5.03126,scheduled; assumes same role and availability
+00-0040878,Mike Washington Jr.,RB,LV,8,NYJ,5.03126,scheduled; assumes same role and availability
+00-0036252,Michael Pittman,WR,PIT,5,IND,5.01828,scheduled; assumes same role and availability
+00-0036252,Michael Pittman,WR,PIT,6,TB,5.01828,scheduled; assumes same role and availability
+00-0036252,Michael Pittman,WR,PIT,7,NO,5.01828,scheduled; assumes same role and availability
+00-0036252,Michael Pittman,WR,PIT,8,CLE,5.01828,scheduled; assumes same role and availability
+00-0038840,Brycen Tremayne,WR,CAR,5,,0.00000,bye
+00-0038840,Brycen Tremayne,WR,CAR,6,PHI,5.01357,scheduled; assumes same role and availability
+00-0038840,Brycen Tremayne,WR,CAR,7,TB,5.01357,scheduled; assumes same role and availability
+00-0038840,Brycen Tremayne,WR,CAR,8,GB,5.01357,scheduled; assumes same role and availability
+00-0033881,Evan Engram,TE,DEN,5,LAC,4.89074,scheduled; assumes same role and availability
+00-0033881,Evan Engram,TE,DEN,6,SEA,4.89074,scheduled; assumes same role and availability
+00-0033881,Evan Engram,TE,DEN,7,ARI,4.89074,scheduled; assumes same role and availability
+00-0033881,Evan Engram,TE,DEN,8,KC,4.89074,scheduled; assumes same role and availability
+00-0038551,Kendre Miller,RB,NO,5,MIN,4.82486,scheduled; assumes same role and availability
+00-0038551,Kendre Miller,RB,NO,6,NYG,4.82486,scheduled; assumes same role and availability
+00-0038551,Kendre Miller,RB,NO,7,PIT,4.82486,scheduled; assumes same role and availability
+00-0038551,Kendre Miller,RB,NO,8,,0.00000,bye
+00-0036309,Darnell Mooney,WR,NYG,5,WAS,4.78451,scheduled; assumes same role and availability
+00-0036309,Darnell Mooney,WR,NYG,6,NO,4.78451,scheduled; assumes same role and availability
+00-0036309,Darnell Mooney,WR,NYG,7,HOU,4.78451,scheduled; assumes same role and availability
+00-0036309,Darnell Mooney,WR,NYG,8,,0.00000,bye
+00-0040134,Pat Bryant,WR,DEN,5,LAC,4.75098,scheduled; assumes same role and availability
+00-0040134,Pat Bryant,WR,DEN,6,SEA,4.75098,scheduled; assumes same role and availability
+00-0040134,Pat Bryant,WR,DEN,7,ARI,4.75098,scheduled; assumes same role and availability
+00-0040134,Pat Bryant,WR,DEN,8,KC,4.75098,scheduled; assumes same role and availability
+00-0040142,Kaleb Johnson,RB,GB,5,CHI,4.73335,scheduled; assumes same role and availability
+00-0040142,Kaleb Johnson,RB,GB,6,DAL,4.73335,scheduled; assumes same role and availability
+00-0040142,Kaleb Johnson,RB,GB,7,DET,4.73335,scheduled; assumes same role and availability
+00-0040142,Kaleb Johnson,RB,GB,8,CAR,4.73335,scheduled; assumes same role and availability
+00-0041117,Athan Kaliakmanis,QB,WAS,5,NYG,4.69101,scheduled; assumes same role and availability
+00-0041117,Athan Kaliakmanis,QB,WAS,6,SF,4.69101,scheduled; assumes same role and availability
+00-0041117,Athan Kaliakmanis,QB,WAS,7,,0.00000,bye
+00-0041117,Athan Kaliakmanis,QB,WAS,8,PHI,4.69101,scheduled; assumes same role and availability
+00-0041067,Bryce Lance,WR,NO,5,MIN,4.67807,scheduled; assumes same role and availability
+00-0041067,Bryce Lance,WR,NO,6,NYG,4.67807,scheduled; assumes same role and availability
+00-0041067,Bryce Lance,WR,NO,7,PIT,4.67807,scheduled; assumes same role and availability
+00-0041067,Bryce Lance,WR,NO,8,,0.00000,bye
+00-0039746,Will Shipley,RB,PHI,5,JAX,4.59220,scheduled; assumes same role and availability
+00-0039746,Will Shipley,RB,PHI,6,CAR,4.59220,scheduled; assumes same role and availability
+00-0039746,Will Shipley,RB,PHI,7,DAL,4.59220,scheduled; assumes same role and availability
+00-0039746,Will Shipley,RB,PHI,8,WAS,4.59220,scheduled; assumes same role and availability
+00-0040237,Tez Johnson,WR,TB,5,DAL,4.52726,scheduled; assumes same role and availability
+00-0040237,Tez Johnson,WR,TB,6,PIT,4.52726,scheduled; assumes same role and availability
+00-0040237,Tez Johnson,WR,TB,7,CAR,4.52726,scheduled; assumes same role and availability
+00-0040237,Tez Johnson,WR,TB,8,ATL,4.52726,scheduled; assumes same role and availability
+00-0032950,Carson Wentz,QB,MIN,5,NO,4.46218,scheduled; assumes same role and availability
+00-0032950,Carson Wentz,QB,MIN,6,,0.00000,bye
+00-0032950,Carson Wentz,QB,MIN,7,IND,4.46218,scheduled; assumes same role and availability
+00-0032950,Carson Wentz,QB,MIN,8,DET,4.46218,scheduled; assumes same role and availability
+00-0038611,Chris Rodriguez Jr.,RB,JAX,5,PHI,4.44418,scheduled; assumes same role and availability
+00-0038611,Chris Rodriguez Jr.,RB,JAX,6,HOU,4.44418,scheduled; assumes same role and availability
+00-0038611,Chris Rodriguez Jr.,RB,JAX,7,,0.00000,bye
+00-0038611,Chris Rodriguez Jr.,RB,JAX,8,IND,4.44418,scheduled; assumes same role and availability
+00-0033307,Kendrick Bourne,WR,ARI,5,DET,4.43932,scheduled; assumes same role and availability
+00-0033307,Kendrick Bourne,WR,ARI,6,LA,4.43932,scheduled; assumes same role and availability
+00-0033307,Kendrick Bourne,WR,ARI,7,DEN,4.43932,scheduled; assumes same role and availability
+00-0033307,Kendrick Bourne,WR,ARI,8,DAL,4.43932,scheduled; assumes same role and availability
+00-0040170,Elic Ayomanor,WR,TEN,5,HOU,4.41596,scheduled; assumes same role and availability
+00-0040170,Elic Ayomanor,WR,TEN,6,IND,4.41596,scheduled; assumes same role and availability
+00-0040170,Elic Ayomanor,WR,TEN,7,CLE,4.41596,scheduled; assumes same role and availability
+00-0040170,Elic Ayomanor,WR,TEN,8,CIN,4.41596,scheduled; assumes same role and availability
+00-0036970,Kyle Pitts,TE,ATL,5,BAL,4.39310,scheduled; assumes same role and availability
+00-0036970,Kyle Pitts,TE,ATL,6,CHI,4.39310,scheduled; assumes same role and availability
+00-0036970,Kyle Pitts,TE,ATL,7,SF,4.39310,scheduled; assumes same role and availability
+00-0036970,Kyle Pitts,TE,ATL,8,TB,4.39310,scheduled; assumes same role and availability
+00-0040584,Gunnar Helm,TE,TEN,5,HOU,4.38470,scheduled; assumes same role and availability
+00-0040584,Gunnar Helm,TE,TEN,6,IND,4.38470,scheduled; assumes same role and availability
+00-0040584,Gunnar Helm,TE,TEN,7,CLE,4.38470,scheduled; assumes same role and availability
+00-0040584,Gunnar Helm,TE,TEN,8,CIN,4.38470,scheduled; assumes same role and availability
+00-0034981,Foster Moreau,TE,HOU,5,TEN,4.28222,scheduled; assumes same role and availability
+00-0034981,Foster Moreau,TE,HOU,6,JAX,4.28222,scheduled; assumes same role and availability
+00-0034981,Foster Moreau,TE,HOU,7,NYG,4.28222,scheduled; assumes same role and availability
+00-0034981,Foster Moreau,TE,HOU,8,,0.00000,bye
+00-0036988,Josh Palmer,WR,BUF,5,LA,4.24258,scheduled; assumes same role and availability
+00-0036988,Josh Palmer,WR,BUF,6,LV,4.24258,scheduled; assumes same role and availability
+00-0036988,Josh Palmer,WR,BUF,7,,0.00000,bye
+00-0036988,Josh Palmer,WR,BUF,8,BAL,4.24258,scheduled; assumes same role and availability
+00-0037805,Jeremy Ruckert,TE,NYJ,5,CLE,4.21620,scheduled; assumes same role and availability
+00-0037805,Jeremy Ruckert,TE,NYJ,6,NE,4.21620,scheduled; assumes same role and availability
+00-0037805,Jeremy Ruckert,TE,NYJ,7,MIA,4.21620,scheduled; assumes same role and availability
+00-0037805,Jeremy Ruckert,TE,NYJ,8,LV,4.21620,scheduled; assumes same role and availability
+00-0033526,Samaje Perine,RB,CIN,5,MIA,4.19795,scheduled; assumes same role and availability
+00-0033526,Samaje Perine,RB,CIN,6,,0.00000,bye
+00-0033526,Samaje Perine,RB,CIN,7,BAL,4.19795,scheduled; assumes same role and availability
+00-0033526,Samaje Perine,RB,CIN,8,TEN,4.19795,scheduled; assumes same role and availability
+00-0034975,Justice Hill,RB,BAL,5,ATL,4.14882,scheduled; assumes same role and availability
+00-0034975,Justice Hill,RB,BAL,6,CLE,4.14882,scheduled; assumes same role and availability
+00-0034975,Justice Hill,RB,BAL,7,CIN,4.14882,scheduled; assumes same role and availability
+00-0034975,Justice Hill,RB,BAL,8,BUF,4.14882,scheduled; assumes same role and availability
+00-0039032,Tyjae Spears,RB,TEN,5,HOU,4.12083,scheduled; assumes same role and availability
+00-0039032,Tyjae Spears,RB,TEN,6,IND,4.12083,scheduled; assumes same role and availability
+00-0039032,Tyjae Spears,RB,TEN,7,CLE,4.12083,scheduled; assumes same role and availability
+00-0039032,Tyjae Spears,RB,TEN,8,CIN,4.12083,scheduled; assumes same role and availability
+00-0041052,Kaelon Black,RB,SF,5,SEA,4.01413,scheduled; assumes same role and availability
+00-0041052,Kaelon Black,RB,SF,6,WAS,4.01413,scheduled; assumes same role and availability
+00-0041052,Kaelon Black,RB,SF,7,ATL,4.01413,scheduled; assumes same role and availability
+00-0041052,Kaelon Black,RB,SF,8,,0.00000,bye
+00-0036637,Noah Gray,TE,KC,5,,0.00000,bye
+00-0036637,Noah Gray,TE,KC,6,LAC,3.98022,scheduled; assumes same role and availability
+00-0036637,Noah Gray,TE,KC,7,SEA,3.98022,scheduled; assumes same role and availability
+00-0036637,Noah Gray,TE,KC,8,DEN,3.98022,scheduled; assumes same role and availability
+00-0032392,Austin Hooper,TE,ATL,5,BAL,3.92263,scheduled; assumes same role and availability
+00-0032392,Austin Hooper,TE,ATL,6,CHI,3.92263,scheduled; assumes same role and availability
+00-0032392,Austin Hooper,TE,ATL,7,SF,3.92263,scheduled; assumes same role and availability
+00-0032392,Austin Hooper,TE,ATL,8,TB,3.92263,scheduled; assumes same role and availability
+00-0040563,Efton Chism III,WR,NE,5,LV,3.83080,scheduled; assumes same role and availability
+00-0040563,Efton Chism III,WR,NE,6,NYJ,3.83080,scheduled; assumes same role and availability
+00-0040563,Efton Chism III,WR,NE,7,CHI,3.83080,scheduled; assumes same role and availability
+00-0040563,Efton Chism III,WR,NE,8,MIA,3.83080,scheduled; assumes same role and availability
+00-0039391,Kimani Vidal,RB,LAC,5,DEN,3.83058,scheduled; assumes same role and availability
+00-0039391,Kimani Vidal,RB,LAC,6,KC,3.83058,scheduled; assumes same role and availability
+00-0039391,Kimani Vidal,RB,LAC,7,,0.00000,bye
+00-0039391,Kimani Vidal,RB,LAC,8,LA,3.83058,scheduled; assumes same role and availability
+00-0036893,Najee Harris,RB,NYG,5,WAS,3.76609,scheduled; assumes same role and availability
+00-0036893,Najee Harris,RB,NYG,6,NO,3.76609,scheduled; assumes same role and availability
+00-0036893,Najee Harris,RB,NYG,7,HOU,3.76609,scheduled; assumes same role and availability
+00-0036893,Najee Harris,RB,NYG,8,,0.00000,bye
+00-0041529,Kevin Coleman Jr.,WR,MIA,5,CIN,3.70125,scheduled; assumes same role and availability
+00-0041529,Kevin Coleman Jr.,WR,MIA,6,,0.00000,bye
+00-0041529,Kevin Coleman Jr.,WR,MIA,7,NYJ,3.70125,scheduled; assumes same role and availability
+00-0041529,Kevin Coleman Jr.,WR,MIA,8,NE,3.70125,scheduled; assumes same role and availability
+00-0035644,Noah Fant,TE,NO,5,MIN,3.68748,scheduled; assumes same role and availability
+00-0035644,Noah Fant,TE,NO,6,NYG,3.68748,scheduled; assumes same role and availability
+00-0035644,Noah Fant,TE,NO,7,PIT,3.68748,scheduled; assumes same role and availability
+00-0035644,Noah Fant,TE,NO,8,,0.00000,bye
+00-0038685,Chris Brooks,RB,GB,5,CHI,3.67080,scheduled; assumes same role and availability
+00-0038685,Chris Brooks,RB,GB,6,DAL,3.67080,scheduled; assumes same role and availability
+00-0038685,Chris Brooks,RB,GB,7,DET,3.67080,scheduled; assumes same role and availability
+00-0038685,Chris Brooks,RB,GB,8,CAR,3.67080,scheduled; assumes same role and availability
+00-0037085,Tyler Badie,RB,DEN,5,LAC,3.60508,scheduled; assumes same role and availability
+00-0037085,Tyler Badie,RB,DEN,6,SEA,3.60508,scheduled; assumes same role and availability
+00-0037085,Tyler Badie,RB,DEN,7,ARI,3.60508,scheduled; assumes same role and availability
+00-0037085,Tyler Badie,RB,DEN,8,KC,3.60508,scheduled; assumes same role and availability
+00-0037291,Jalen Nailor,WR,LV,5,NE,3.57123,scheduled; assumes same role and availability
+00-0037291,Jalen Nailor,WR,LV,6,BUF,3.57123,scheduled; assumes same role and availability
+00-0037291,Jalen Nailor,WR,LV,7,LA,3.57123,scheduled; assumes same role and availability
+00-0037291,Jalen Nailor,WR,LV,8,NYJ,3.57123,scheduled; assumes same role and availability
+00-0038839,Mitchell Tinsley,WR,CIN,5,MIA,3.54243,scheduled; assumes same role and availability
+00-0038839,Mitchell Tinsley,WR,CIN,6,,0.00000,bye
+00-0038839,Mitchell Tinsley,WR,CIN,7,BAL,3.54243,scheduled; assumes same role and availability
+00-0038839,Mitchell Tinsley,WR,CIN,8,TEN,3.54243,scheduled; assumes same role and availability
+00-0041013,Emmett Johnson,RB,KC,5,,0.00000,bye
+00-0041013,Emmett Johnson,RB,KC,6,LAC,3.51823,scheduled; assumes same role and availability
+00-0041013,Emmett Johnson,RB,KC,7,SEA,3.51823,scheduled; assumes same role and availability
+00-0041013,Emmett Johnson,RB,KC,8,DEN,3.51823,scheduled; assumes same role and availability
+00-0037742,Treylon Burks,WR,WAS,5,NYG,3.50239,scheduled; assumes same role and availability
+00-0037742,Treylon Burks,WR,WAS,6,SF,3.50239,scheduled; assumes same role and availability
+00-0037742,Treylon Burks,WR,WAS,7,,0.00000,bye
+00-0037742,Treylon Burks,WR,WAS,8,PHI,3.50239,scheduled; assumes same role and availability
+00-0038783,Nate Adkins,TE,DEN,5,LAC,3.47390,scheduled; assumes same role and availability
+00-0038783,Nate Adkins,TE,DEN,6,SEA,3.47390,scheduled; assumes same role and availability
+00-0038783,Nate Adkins,TE,DEN,7,ARI,3.47390,scheduled; assumes same role and availability
+00-0038783,Nate Adkins,TE,DEN,8,KC,3.47390,scheduled; assumes same role and availability
+00-0035689,Dawson Knox,TE,BUF,5,LA,3.47248,scheduled; assumes same role and availability
+00-0035689,Dawson Knox,TE,BUF,6,LV,3.47248,scheduled; assumes same role and availability
+00-0035689,Dawson Knox,TE,BUF,7,,0.00000,bye
+00-0035689,Dawson Knox,TE,BUF,8,BAL,3.47248,scheduled; assumes same role and availability
+00-0040131,Kyle Williams,WR,NE,5,LV,3.46765,scheduled; assumes same role and availability
+00-0040131,Kyle Williams,WR,NE,6,NYJ,3.46765,scheduled; assumes same role and availability
+00-0040131,Kyle Williams,WR,NE,7,CHI,3.46765,scheduled; assumes same role and availability
+00-0040131,Kyle Williams,WR,NE,8,MIA,3.46765,scheduled; assumes same role and availability
+00-0039364,Sione Vaki,RB,DET,5,ARI,3.39153,scheduled; assumes same role and availability
+00-0039364,Sione Vaki,RB,DET,6,,0.00000,bye
+00-0039364,Sione Vaki,RB,DET,7,GB,3.39153,scheduled; assumes same role and availability
+00-0039364,Sione Vaki,RB,DET,8,MIN,3.39153,scheduled; assumes same role and availability
+00-0041496,Jonah Coleman,RB,DEN,5,LAC,3.33115,scheduled; assumes same role and availability
+00-0041496,Jonah Coleman,RB,DEN,6,SEA,3.33115,scheduled; assumes same role and availability
+00-0041496,Jonah Coleman,RB,DEN,7,ARI,3.33115,scheduled; assumes same role and availability
+00-0041496,Jonah Coleman,RB,DEN,8,KC,3.33115,scheduled; assumes same role and availability
+00-0039074,Davis Allen,TE,LA,5,BUF,3.30309,scheduled; assumes same role and availability
+00-0039074,Davis Allen,TE,LA,6,ARI,3.30309,scheduled; assumes same role and availability
+00-0039074,Davis Allen,TE,LA,7,LV,3.30309,scheduled; assumes same role and availability
+00-0039074,Davis Allen,TE,LA,8,LAC,3.30309,scheduled; assumes same role and availability
+00-0040187,Mitchell Evans,TE,CAR,5,,0.00000,bye
+00-0040187,Mitchell Evans,TE,CAR,6,PHI,3.14789,scheduled; assumes same role and availability
+00-0040187,Mitchell Evans,TE,CAR,7,TB,3.14789,scheduled; assumes same role and availability
+00-0040187,Mitchell Evans,TE,CAR,8,GB,3.14789,scheduled; assumes same role and availability
+00-0041044,Zachariah Branch,WR,ATL,5,BAL,3.12218,scheduled; assumes same role and availability
+00-0041044,Zachariah Branch,WR,ATL,6,CHI,3.12218,scheduled; assumes same role and availability
+00-0041044,Zachariah Branch,WR,ATL,7,SF,3.12218,scheduled; assumes same role and availability
+00-0041044,Zachariah Branch,WR,ATL,8,TB,3.12218,scheduled; assumes same role and availability
+00-0030061,Zach Ertz,TE,PHI,5,JAX,3.08833,scheduled; assumes same role and availability
+00-0030061,Zach Ertz,TE,PHI,6,CAR,3.08833,scheduled; assumes same role and availability
+00-0030061,Zach Ertz,TE,PHI,7,DAL,3.08833,scheduled; assumes same role and availability
+00-0030061,Zach Ertz,TE,PHI,8,WAS,3.08833,scheduled; assumes same role and availability
+00-0035021,Ashton Dulin,WR,IND,5,PIT,3.08393,scheduled; assumes same role and availability
+00-0035021,Ashton Dulin,WR,IND,6,TEN,3.08393,scheduled; assumes same role and availability
+00-0035021,Ashton Dulin,WR,IND,7,MIN,3.08393,scheduled; assumes same role and availability
+00-0035021,Ashton Dulin,WR,IND,8,JAX,3.08393,scheduled; assumes same role and availability
+00-0041125,Seth McGowan,RB,IND,5,PIT,3.08207,scheduled; assumes same role and availability
+00-0041125,Seth McGowan,RB,IND,6,TEN,3.08207,scheduled; assumes same role and availability
+00-0041125,Seth McGowan,RB,IND,7,MIN,3.08207,scheduled; assumes same role and availability
+00-0041125,Seth McGowan,RB,IND,8,JAX,3.08207,scheduled; assumes same role and availability
+00-0035537,Ty Johnson,RB,BUF,5,LA,3.07432,scheduled; assumes same role and availability
+00-0035537,Ty Johnson,RB,BUF,6,LV,3.07432,scheduled; assumes same role and availability
+00-0035537,Ty Johnson,RB,BUF,7,,0.00000,bye
+00-0035537,Ty Johnson,RB,BUF,8,BAL,3.07432,scheduled; assumes same role and availability
+00-0035208,Olamide Zaccheaus,WR,ATL,5,BAL,3.07207,scheduled; assumes same role and availability
+00-0035208,Olamide Zaccheaus,WR,ATL,6,CHI,3.07207,scheduled; assumes same role and availability
+00-0035208,Olamide Zaccheaus,WR,ATL,7,SF,3.07207,scheduled; assumes same role and availability
+00-0035208,Olamide Zaccheaus,WR,ATL,8,TB,3.07207,scheduled; assumes same role and availability
+00-0033662,Cooper Rush,QB,ATL,5,BAL,3.06607,scheduled; assumes same role and availability
+00-0033662,Cooper Rush,QB,ATL,6,CHI,3.06607,scheduled; assumes same role and availability
+00-0033662,Cooper Rush,QB,ATL,7,SF,3.06607,scheduled; assumes same role and availability
+00-0033662,Cooper Rush,QB,ATL,8,TB,3.06607,scheduled; assumes same role and availability
+00-0036265,AJ Dillon,RB,CAR,5,,0.00000,bye
+00-0036265,AJ Dillon,RB,CAR,6,PHI,3.03671,scheduled; assumes same role and availability
+00-0036265,AJ Dillon,RB,CAR,7,TB,3.03671,scheduled; assumes same role and availability
+00-0036265,AJ Dillon,RB,CAR,8,GB,3.03671,scheduled; assumes same role and availability
+00-0036139,Rico Dowdle,RB,PIT,5,IND,2.96635,scheduled; assumes same role and availability
+00-0036139,Rico Dowdle,RB,PIT,6,TB,2.96635,scheduled; assumes same role and availability
+00-0036139,Rico Dowdle,RB,PIT,7,NO,2.96635,scheduled; assumes same role and availability
+00-0036139,Rico Dowdle,RB,PIT,8,CLE,2.96635,scheduled; assumes same role and availability
+00-0039041,Elijah Higgins,TE,ARI,5,DET,2.94835,scheduled; assumes same role and availability
+00-0039041,Elijah Higgins,TE,ARI,6,LA,2.94835,scheduled; assumes same role and availability
+00-0039041,Elijah Higgins,TE,ARI,7,DEN,2.94835,scheduled; assumes same role and availability
+00-0039041,Elijah Higgins,TE,ARI,8,DAL,2.94835,scheduled; assumes same role and availability
+00-0039847,Theo Johnson,TE,NYG,5,WAS,2.82299,scheduled; assumes same role and availability
+00-0039847,Theo Johnson,TE,NYG,6,NO,2.82299,scheduled; assumes same role and availability
+00-0039847,Theo Johnson,TE,NYG,7,HOU,2.82299,scheduled; assumes same role and availability
+00-0039847,Theo Johnson,TE,NYG,8,,0.00000,bye
+00-0041100,Josh Cameron,WR,JAX,5,PHI,2.81243,scheduled; assumes same role and availability
+00-0041100,Josh Cameron,WR,JAX,6,HOU,2.81243,scheduled; assumes same role and availability
+00-0041100,Josh Cameron,WR,JAX,7,,0.00000,bye
+00-0041100,Josh Cameron,WR,JAX,8,IND,2.81243,scheduled; assumes same role and availability
+00-0033858,Jonnu Smith,TE,GB,5,CHI,2.77687,scheduled; assumes same role and availability
+00-0033858,Jonnu Smith,TE,GB,6,DAL,2.77687,scheduled; assumes same role and availability
+00-0033858,Jonnu Smith,TE,GB,7,DET,2.77687,scheduled; assumes same role and availability
+00-0033858,Jonnu Smith,TE,GB,8,CAR,2.77687,scheduled; assumes same role and availability
+00-0041523,Caleb Douglas,WR,MIA,5,CIN,2.74978,scheduled; assumes same role and availability
+00-0041523,Caleb Douglas,WR,MIA,6,,0.00000,bye
+00-0041523,Caleb Douglas,WR,MIA,7,NYJ,2.74978,scheduled; assumes same role and availability
+00-0041523,Caleb Douglas,WR,MIA,8,NE,2.74978,scheduled; assumes same role and availability
+00-0036290,Cole Kmet,TE,CHI,5,GB,2.73446,scheduled; assumes same role and availability
+00-0036290,Cole Kmet,TE,CHI,6,ATL,2.73446,scheduled; assumes same role and availability
+00-0036290,Cole Kmet,TE,CHI,7,NE,2.73446,scheduled; assumes same role and availability
+00-0036290,Cole Kmet,TE,CHI,8,SEA,2.73446,scheduled; assumes same role and availability
+00-0036407,Jerry Jeudy,WR,CLE,5,NYJ,2.70769,scheduled; assumes same role and availability
+00-0036407,Jerry Jeudy,WR,CLE,6,BAL,2.70769,scheduled; assumes same role and availability
+00-0036407,Jerry Jeudy,WR,CLE,7,TEN,2.70769,scheduled; assumes same role and availability
+00-0036407,Jerry Jeudy,WR,CLE,8,PIT,2.70769,scheduled; assumes same role and availability
+00-0039792,Devontez Walker,WR,BAL,5,ATL,2.69719,scheduled; assumes same role and availability
+00-0039792,Devontez Walker,WR,BAL,6,CLE,2.69719,scheduled; assumes same role and availability
+00-0039792,Devontez Walker,WR,BAL,7,CIN,2.69719,scheduled; assumes same role and availability
+00-0039792,Devontez Walker,WR,BAL,8,BUF,2.69719,scheduled; assumes same role and availability
+00-0041558,Sam Roush,TE,CHI,5,GB,2.68853,scheduled; assumes same role and availability
+00-0041558,Sam Roush,TE,CHI,6,ATL,2.68853,scheduled; assumes same role and availability
+00-0041558,Sam Roush,TE,CHI,7,NE,2.68853,scheduled; assumes same role and availability
+00-0041558,Sam Roush,TE,CHI,8,SEA,2.68853,scheduled; assumes same role and availability
+00-0034837,Calvin Ridley,WR,TEN,5,HOU,2.66762,scheduled; assumes same role and availability
+00-0034837,Calvin Ridley,WR,TEN,6,IND,2.66762,scheduled; assumes same role and availability
+00-0034837,Calvin Ridley,WR,TEN,7,CLE,2.66762,scheduled; assumes same role and availability
+00-0034837,Calvin Ridley,WR,TEN,8,CIN,2.66762,scheduled; assumes same role and availability
+00-0040646,Jalen Royals,WR,KC,5,,0.00000,bye
+00-0040646,Jalen Royals,WR,KC,6,LAC,2.66433,scheduled; assumes same role and availability
+00-0040646,Jalen Royals,WR,KC,7,SEA,2.66433,scheduled; assumes same role and availability
+00-0040646,Jalen Royals,WR,KC,8,DEN,2.66433,scheduled; assumes same role and availability
+00-0040879,Matthew Hibner,TE,BAL,5,ATL,2.64330,scheduled; assumes same role and availability
+00-0040879,Matthew Hibner,TE,BAL,6,CLE,2.64330,scheduled; assumes same role and availability
+00-0040879,Matthew Hibner,TE,BAL,7,CIN,2.64330,scheduled; assumes same role and availability
+00-0040879,Matthew Hibner,TE,BAL,8,BUF,2.64330,scheduled; assumes same role and availability
+00-0032398,Chris Moore,WR,BAL,5,ATL,2.56231,scheduled; assumes same role and availability
+00-0032398,Chris Moore,WR,BAL,6,CLE,2.56231,scheduled; assumes same role and availability
+00-0032398,Chris Moore,WR,BAL,7,CIN,2.56231,scheduled; assumes same role and availability
+00-0032398,Chris Moore,WR,BAL,8,BUF,2.56231,scheduled; assumes same role and availability
+00-0040691,Jaxson Dart,QB,NYG,5,WAS,2.54564,scheduled; assumes same role and availability
+00-0040691,Jaxson Dart,QB,NYG,6,NO,2.54564,scheduled; assumes same role and availability
+00-0040691,Jaxson Dart,QB,NYG,7,HOU,2.54564,scheduled; assumes same role and availability
+00-0040691,Jaxson Dart,QB,NYG,8,,0.00000,bye
+00-0037809,Chig Okonkwo,TE,WAS,5,NYG,2.49061,scheduled; assumes same role and availability
+00-0037809,Chig Okonkwo,TE,WAS,6,SF,2.49061,scheduled; assumes same role and availability
+00-0037809,Chig Okonkwo,TE,WAS,7,,0.00000,bye
+00-0037809,Chig Okonkwo,TE,WAS,8,PHI,2.49061,scheduled; assumes same role and availability
+00-0038824,Ryan Miller,WR,MIA,5,CIN,2.46519,scheduled; assumes same role and availability
+00-0038824,Ryan Miller,WR,MIA,6,,0.00000,bye
+00-0038824,Ryan Miller,WR,MIA,7,NYJ,2.46519,scheduled; assumes same role and availability
+00-0038824,Ryan Miller,WR,MIA,8,NE,2.46519,scheduled; assumes same role and availability
+00-0033885,David Njoku,TE,LAC,5,DEN,2.45899,scheduled; assumes same role and availability
+00-0033885,David Njoku,TE,LAC,6,KC,2.45899,scheduled; assumes same role and availability
+00-0033885,David Njoku,TE,LAC,7,,0.00000,bye
+00-0033885,David Njoku,TE,LAC,8,LA,2.45899,scheduled; assumes same role and availability
+00-0037120,Tyler Goodson,RB,DAL,5,TB,2.44015,scheduled; assumes same role and availability
+00-0037120,Tyler Goodson,RB,DAL,6,GB,2.44015,scheduled; assumes same role and availability
+00-0037120,Tyler Goodson,RB,DAL,7,PHI,2.44015,scheduled; assumes same role and availability
+00-0037120,Tyler Goodson,RB,DAL,8,ARI,2.44015,scheduled; assumes same role and availability
+00-0039342,Xavier Legette,WR,CAR,5,,0.00000,bye
+00-0039342,Xavier Legette,WR,CAR,6,PHI,2.40137,scheduled; assumes same role and availability
+00-0039342,Xavier Legette,WR,CAR,7,TB,2.40137,scheduled; assumes same role and availability
+00-0039342,Xavier Legette,WR,CAR,8,GB,2.40137,scheduled; assumes same role and availability
+00-0040648,Tory Horton,WR,SEA,5,SF,2.35533,scheduled; assumes same role and availability
+00-0040648,Tory Horton,WR,SEA,6,DEN,2.35533,scheduled; assumes same role and availability
+00-0040648,Tory Horton,WR,SEA,7,KC,2.35533,scheduled; assumes same role and availability
+00-0040648,Tory Horton,WR,SEA,8,CHI,2.35533,scheduled; assumes same role and availability
+00-0038115,Daniel Bellinger,TE,TEN,5,HOU,2.31900,scheduled; assumes same role and availability
+00-0038115,Daniel Bellinger,TE,TEN,6,IND,2.31900,scheduled; assumes same role and availability
+00-0038115,Daniel Bellinger,TE,TEN,7,CLE,2.31900,scheduled; assumes same role and availability
+00-0038115,Daniel Bellinger,TE,TEN,8,CIN,2.31900,scheduled; assumes same role and availability
+00-0036754,Brock Wright,TE,DET,5,ARI,2.29968,scheduled; assumes same role and availability
+00-0036754,Brock Wright,TE,DET,6,,0.00000,bye
+00-0036754,Brock Wright,TE,DET,7,GB,2.29968,scheduled; assumes same role and availability
+00-0036754,Brock Wright,TE,DET,8,MIN,2.29968,scheduled; assumes same role and availability
+00-0032775,Demarcus Robinson,WR,SF,5,SEA,2.28136,scheduled; assumes same role and availability
+00-0032775,Demarcus Robinson,WR,SF,6,WAS,2.28136,scheduled; assumes same role and availability
+00-0032775,Demarcus Robinson,WR,SF,7,ATL,2.28136,scheduled; assumes same role and availability
+00-0032775,Demarcus Robinson,WR,SF,8,,0.00000,bye
+00-0032104,Ameer Abdullah,RB,JAX,5,PHI,2.27922,scheduled; assumes same role and availability
+00-0032104,Ameer Abdullah,RB,JAX,6,HOU,2.27922,scheduled; assumes same role and availability
+00-0032104,Ameer Abdullah,RB,JAX,7,,0.00000,bye
+00-0032104,Ameer Abdullah,RB,JAX,8,IND,2.27922,scheduled; assumes same role and availability
+00-0036862,Ben Skowronek,WR,PIT,5,IND,2.24858,scheduled; assumes same role and availability
+00-0036862,Ben Skowronek,WR,PIT,6,TB,2.24858,scheduled; assumes same role and availability
+00-0036862,Ben Skowronek,WR,PIT,7,NO,2.24858,scheduled; assumes same role and availability
+00-0036862,Ben Skowronek,WR,PIT,8,CLE,2.24858,scheduled; assumes same role and availability
+00-0041194,Jack Strand,QB,ATL,5,BAL,2.22083,scheduled; assumes same role and availability
+00-0041194,Jack Strand,QB,ATL,6,CHI,2.22083,scheduled; assumes same role and availability
+00-0041194,Jack Strand,QB,ATL,7,SF,2.22083,scheduled; assumes same role and availability
+00-0041194,Jack Strand,QB,ATL,8,TB,2.22083,scheduled; assumes same role and availability
+00-0034351,Dallas Goedert,TE,PHI,5,JAX,2.17148,scheduled; assumes same role and availability
+00-0034351,Dallas Goedert,TE,PHI,6,CAR,2.17148,scheduled; assumes same role and availability
+00-0034351,Dallas Goedert,TE,PHI,7,DAL,2.17148,scheduled; assumes same role and availability
+00-0034351,Dallas Goedert,TE,PHI,8,WAS,2.17148,scheduled; assumes same role and availability
+00-0033246,Johnny Mundt,TE,PHI,5,JAX,2.13213,scheduled; assumes same role and availability
+00-0033246,Johnny Mundt,TE,PHI,6,CAR,2.13213,scheduled; assumes same role and availability
+00-0033246,Johnny Mundt,TE,PHI,7,DAL,2.13213,scheduled; assumes same role and availability
+00-0033246,Johnny Mundt,TE,PHI,8,WAS,2.13213,scheduled; assumes same role and availability
+00-0039686,Colson Yankoff,TE,WAS,5,NYG,2.11273,scheduled; assumes same role and availability
+00-0039686,Colson Yankoff,TE,WAS,6,SF,2.11273,scheduled; assumes same role and availability
+00-0039686,Colson Yankoff,TE,WAS,7,,0.00000,bye
+00-0039686,Colson Yankoff,TE,WAS,8,PHI,2.11273,scheduled; assumes same role and availability
+00-0041326,CJ Donaldson,RB,NO,5,MIN,2.10686,scheduled; assumes same role and availability
+00-0041326,CJ Donaldson,RB,NO,6,NYG,2.10686,scheduled; assumes same role and availability
+00-0041326,CJ Donaldson,RB,NO,7,PIT,2.10686,scheduled; assumes same role and availability
+00-0041326,CJ Donaldson,RB,NO,8,,0.00000,bye
+00-0040948,J. Michael Sturdivant,WR,GB,5,CHI,2.10055,scheduled; assumes same role and availability
+00-0040948,J. Michael Sturdivant,WR,GB,6,DAL,2.10055,scheduled; assumes same role and availability
+00-0040948,J. Michael Sturdivant,WR,GB,7,DET,2.10055,scheduled; assumes same role and availability
+00-0040948,J. Michael Sturdivant,WR,GB,8,CAR,2.10055,scheduled; assumes same role and availability
+00-0035993,Tyler Huntley,QB,BAL,5,ATL,2.01647,scheduled; assumes same role and availability
+00-0035993,Tyler Huntley,QB,BAL,6,CLE,2.01647,scheduled; assumes same role and availability
+00-0035993,Tyler Huntley,QB,BAL,7,CIN,2.01647,scheduled; assumes same role and availability
+00-0035993,Tyler Huntley,QB,BAL,8,BUF,2.01647,scheduled; assumes same role and availability
+00-0040556,Corey Kiner,RB,NE,5,LV,2.00497,scheduled; assumes same role and availability
+00-0040556,Corey Kiner,RB,NE,6,NYJ,2.00497,scheduled; assumes same role and availability
+00-0040556,Corey Kiner,RB,NE,7,CHI,2.00497,scheduled; assumes same role and availability
+00-0040556,Corey Kiner,RB,NE,8,MIA,2.00497,scheduled; assumes same role and availability
+00-0041395,Eli Raridon,TE,NE,5,LV,1.94530,scheduled; assumes same role and availability
+00-0041395,Eli Raridon,TE,NE,6,NYJ,1.94530,scheduled; assumes same role and availability
+00-0041395,Eli Raridon,TE,NE,7,CHI,1.94530,scheduled; assumes same role and availability
+00-0041395,Eli Raridon,TE,NE,8,MIA,1.94530,scheduled; assumes same role and availability
+00-0036244,Colby Parkinson,TE,LA,5,BUF,1.90373,scheduled; assumes same role and availability
+00-0036244,Colby Parkinson,TE,LA,6,ARI,1.90373,scheduled; assumes same role and availability
+00-0036244,Colby Parkinson,TE,LA,7,LV,1.90373,scheduled; assumes same role and availability
+00-0036244,Colby Parkinson,TE,LA,8,LAC,1.90373,scheduled; assumes same role and availability
+00-0039868,Troy Franklin,WR,DEN,5,LAC,1.84502,scheduled; assumes same role and availability
+00-0039868,Troy Franklin,WR,DEN,6,SEA,1.84502,scheduled; assumes same role and availability
+00-0039868,Troy Franklin,WR,DEN,7,ARI,1.84502,scheduled; assumes same role and availability
+00-0039868,Troy Franklin,WR,DEN,8,KC,1.84502,scheduled; assumes same role and availability
+00-0039344,Jonathon Brooks,RB,CAR,5,,0.00000,bye
+00-0039344,Jonathon Brooks,RB,CAR,6,PHI,1.81810,scheduled; assumes same role and availability
+00-0039344,Jonathon Brooks,RB,CAR,7,TB,1.81810,scheduled; assumes same role and availability
+00-0039344,Jonathon Brooks,RB,CAR,8,GB,1.81810,scheduled; assumes same role and availability
+00-0034365,Ian Thomas,TE,LV,5,NE,1.81530,scheduled; assumes same role and availability
+00-0034365,Ian Thomas,TE,LV,6,BUF,1.81530,scheduled; assumes same role and availability
+00-0034365,Ian Thomas,TE,LV,7,LA,1.81530,scheduled; assumes same role and availability
+00-0034365,Ian Thomas,TE,LV,8,NYJ,1.81530,scheduled; assumes same role and availability
+00-0035250,Devin Singletary,RB,NYG,5,WAS,1.80830,scheduled; assumes same role and availability
+00-0035250,Devin Singletary,RB,NYG,6,NO,1.80830,scheduled; assumes same role and availability
+00-0035250,Devin Singletary,RB,NYG,7,HOU,1.80830,scheduled; assumes same role and availability
+00-0035250,Devin Singletary,RB,NYG,8,,0.00000,bye
+00-0034613,Tanner Hudson,TE,CIN,5,MIA,1.80797,scheduled; assumes same role and availability
+00-0034613,Tanner Hudson,TE,CIN,6,,0.00000,bye
+00-0034613,Tanner Hudson,TE,CIN,7,BAL,1.80797,scheduled; assumes same role and availability
+00-0034613,Tanner Hudson,TE,CIN,8,TEN,1.80797,scheduled; assumes same role and availability
+00-0040729,Jack Bech,WR,LV,5,NE,1.79456,scheduled; assumes same role and availability
+00-0040729,Jack Bech,WR,LV,6,BUF,1.79456,scheduled; assumes same role and availability
+00-0040729,Jack Bech,WR,LV,7,LA,1.79456,scheduled; assumes same role and availability
+00-0040729,Jack Bech,WR,LV,8,NYJ,1.79456,scheduled; assumes same role and availability
+00-0040506,Myles Price,WR,MIN,5,NO,1.77922,scheduled; assumes same role and availability
+00-0040506,Myles Price,WR,MIN,6,,0.00000,bye
+00-0040506,Myles Price,WR,MIN,7,IND,1.77922,scheduled; assumes same role and availability
+00-0040506,Myles Price,WR,MIN,8,DET,1.77922,scheduled; assumes same role and availability
+00-0041503,Nate Boerkircher,TE,JAX,5,PHI,1.76416,scheduled; assumes same role and availability
+00-0041503,Nate Boerkircher,TE,JAX,6,HOU,1.76416,scheduled; assumes same role and availability
+00-0041503,Nate Boerkircher,TE,JAX,7,,0.00000,bye
+00-0041503,Nate Boerkircher,TE,JAX,8,IND,1.76416,scheduled; assumes same role and availability
+00-0041524,Will Kacmarek,TE,MIA,5,CIN,1.74864,scheduled; assumes same role and availability
+00-0041524,Will Kacmarek,TE,MIA,6,,0.00000,bye
+00-0041524,Will Kacmarek,TE,MIA,7,NYJ,1.74864,scheduled; assumes same role and availability
+00-0041524,Will Kacmarek,TE,MIA,8,NE,1.74864,scheduled; assumes same role and availability
+00-0037801,KaVontae Turpin,WR,DAL,5,TB,1.71977,scheduled; assumes same role and availability
+00-0037801,KaVontae Turpin,WR,DAL,6,GB,1.71977,scheduled; assumes same role and availability
+00-0037801,KaVontae Turpin,WR,DAL,7,PHI,1.71977,scheduled; assumes same role and availability
+00-0037801,KaVontae Turpin,WR,DAL,8,ARI,1.71977,scheduled; assumes same role and availability
+00-0039365,Jacob Cowing,WR,SF,5,SEA,1.71851,scheduled; assumes same role and availability
+00-0039365,Jacob Cowing,WR,SF,6,WAS,1.71851,scheduled; assumes same role and availability
+00-0039365,Jacob Cowing,WR,SF,7,ATL,1.71851,scheduled; assumes same role and availability
+00-0039365,Jacob Cowing,WR,SF,8,,0.00000,bye
+00-0033576,Eric Saubert,TE,SEA,5,SF,1.67699,scheduled; assumes same role and availability
+00-0033576,Eric Saubert,TE,SEA,6,DEN,1.67699,scheduled; assumes same role and availability
+00-0033576,Eric Saubert,TE,SEA,7,KC,1.67699,scheduled; assumes same role and availability
+00-0033576,Eric Saubert,TE,SEA,8,CHI,1.67699,scheduled; assumes same role and availability
+00-0038046,Charlie Kolar,TE,LAC,5,DEN,1.66967,scheduled; assumes same role and availability
+00-0038046,Charlie Kolar,TE,LAC,6,KC,1.66967,scheduled; assumes same role and availability
+00-0038046,Charlie Kolar,TE,LAC,7,,0.00000,bye
+00-0038046,Charlie Kolar,TE,LAC,8,LA,1.66967,scheduled; assumes same role and availability
+00-0036259,Jauan Jennings,WR,MIN,5,NO,1.65649,scheduled; assumes same role and availability
+00-0036259,Jauan Jennings,WR,MIN,6,,0.00000,bye
+00-0036259,Jauan Jennings,WR,MIN,7,IND,1.65649,scheduled; assumes same role and availability
+00-0036259,Jauan Jennings,WR,MIN,8,DET,1.65649,scheduled; assumes same role and availability
+00-0033699,Austin Ekeler,RB,WAS,5,NYG,1.65232,scheduled; assumes same role and availability
+00-0033699,Austin Ekeler,RB,WAS,6,SF,1.65232,scheduled; assumes same role and availability
+00-0033699,Austin Ekeler,RB,WAS,7,,0.00000,bye
+00-0033699,Austin Ekeler,RB,WAS,8,PHI,1.65232,scheduled; assumes same role and availability
+00-0037091,Bo Melton,WR,GB,5,CHI,1.62995,scheduled; assumes same role and availability
+00-0037091,Bo Melton,WR,GB,6,DAL,1.62995,scheduled; assumes same role and availability
+00-0037091,Bo Melton,WR,GB,7,DET,1.62995,scheduled; assumes same role and availability
+00-0037091,Bo Melton,WR,GB,8,CAR,1.62995,scheduled; assumes same role and availability
+00-0037093,Dareke Young,WR,LV,5,NE,1.62400,scheduled; assumes same role and availability
+00-0037093,Dareke Young,WR,LV,6,BUF,1.62400,scheduled; assumes same role and availability
+00-0037093,Dareke Young,WR,LV,7,LA,1.62400,scheduled; assumes same role and availability
+00-0037093,Dareke Young,WR,LV,8,NYJ,1.62400,scheduled; assumes same role and availability
+00-0036425,DeeJay Dallas,RB,MIN,5,NO,1.60351,scheduled; assumes same role and availability
+00-0036425,DeeJay Dallas,RB,MIN,6,,0.00000,bye
+00-0036425,DeeJay Dallas,RB,MIN,7,IND,1.60351,scheduled; assumes same role and availability
+00-0036425,DeeJay Dallas,RB,MIN,8,DET,1.60351,scheduled; assumes same role and availability
+00-0039814,Erick All,TE,CIN,5,MIA,1.59675,scheduled; assumes same role and availability
+00-0039814,Erick All,TE,CIN,6,,0.00000,bye
+00-0039814,Erick All,TE,CIN,7,BAL,1.59675,scheduled; assumes same role and availability
+00-0039814,Erick All,TE,CIN,8,TEN,1.59675,scheduled; assumes same role and availability
+00-0036849,Tutu Atwell,WR,LA,5,BUF,1.59672,scheduled; assumes same role and availability
+00-0036849,Tutu Atwell,WR,LA,6,ARI,1.59672,scheduled; assumes same role and availability
+00-0036849,Tutu Atwell,WR,LA,7,LV,1.59672,scheduled; assumes same role and availability
+00-0036849,Tutu Atwell,WR,LA,8,LAC,1.59672,scheduled; assumes same role and availability
+00-0041096,Kaytron Allen,RB,WAS,5,NYG,1.56771,scheduled; assumes same role and availability
+00-0041096,Kaytron Allen,RB,WAS,6,SF,1.56771,scheduled; assumes same role and availability
+00-0041096,Kaytron Allen,RB,WAS,7,,0.00000,bye
+00-0041096,Kaytron Allen,RB,WAS,8,PHI,1.56771,scheduled; assumes same role and availability
+00-0035631,Drew Sample,TE,CIN,5,MIA,1.54318,scheduled; assumes same role and availability
+00-0035631,Drew Sample,TE,CIN,6,,0.00000,bye
+00-0035631,Drew Sample,TE,CIN,7,BAL,1.54318,scheduled; assumes same role and availability
+00-0035631,Drew Sample,TE,CIN,8,TEN,1.54318,scheduled; assumes same role and availability
+00-0040154,Tai Felton,WR,MIN,5,NO,1.53726,scheduled; assumes same role and availability
+00-0040154,Tai Felton,WR,MIN,6,,0.00000,bye
+00-0040154,Tai Felton,WR,MIN,7,IND,1.53726,scheduled; assumes same role and availability
+00-0040154,Tai Felton,WR,MIN,8,DET,1.53726,scheduled; assumes same role and availability
+00-0041550,Brenen Thompson,WR,LAC,5,DEN,1.53458,scheduled; assumes same role and availability
+00-0041550,Brenen Thompson,WR,LAC,6,KC,1.53458,scheduled; assumes same role and availability
+00-0041550,Brenen Thompson,WR,LAC,7,,0.00000,bye
+00-0041550,Brenen Thompson,WR,LAC,8,LA,1.53458,scheduled; assumes same role and availability
+00-0038976,Marvin Mims Jr.,WR,DEN,5,LAC,1.52493,scheduled; assumes same role and availability
+00-0038976,Marvin Mims Jr.,WR,DEN,6,SEA,1.52493,scheduled; assumes same role and availability
+00-0038976,Marvin Mims Jr.,WR,DEN,7,ARI,1.52493,scheduled; assumes same role and availability
+00-0038976,Marvin Mims Jr.,WR,DEN,8,KC,1.52493,scheduled; assumes same role and availability
+00-0041132,Deion Burks,WR,IND,5,PIT,1.51643,scheduled; assumes same role and availability
+00-0041132,Deion Burks,WR,IND,6,TEN,1.51643,scheduled; assumes same role and availability
+00-0041132,Deion Burks,WR,IND,7,MIN,1.51643,scheduled; assumes same role and availability
+00-0041132,Deion Burks,WR,IND,8,JAX,1.51643,scheduled; assumes same role and availability
+00-0036463,Chris Blair,WR,ATL,5,BAL,1.51300,scheduled; assumes same role and availability
+00-0036463,Chris Blair,WR,ATL,6,CHI,1.51300,scheduled; assumes same role and availability
+00-0036463,Chris Blair,WR,ATL,7,SF,1.51300,scheduled; assumes same role and availability
+00-0036463,Chris Blair,WR,ATL,8,TB,1.51300,scheduled; assumes same role and availability
+00-0037664,Alec Pierce,WR,IND,5,PIT,1.48982,scheduled; assumes same role and availability
+00-0037664,Alec Pierce,WR,IND,6,TEN,1.48982,scheduled; assumes same role and availability
+00-0037664,Alec Pierce,WR,IND,7,MIN,1.48982,scheduled; assumes same role and availability
+00-0037664,Alec Pierce,WR,IND,8,JAX,1.48982,scheduled; assumes same role and availability
+00-0041104,Demond Claiborne,RB,MIN,5,NO,1.48834,scheduled; assumes same role and availability
+00-0041104,Demond Claiborne,RB,MIN,6,,0.00000,bye
+00-0041104,Demond Claiborne,RB,MIN,7,IND,1.48834,scheduled; assumes same role and availability
+00-0041104,Demond Claiborne,RB,MIN,8,DET,1.48834,scheduled; assumes same role and availability
+00-0039146,Jayden Reed,WR,GB,5,CHI,1.44156,scheduled; assumes same role and availability
+00-0039146,Jayden Reed,WR,GB,6,DAL,1.44156,scheduled; assumes same role and availability
+00-0039146,Jayden Reed,WR,GB,7,DET,1.44156,scheduled; assumes same role and availability
+00-0039146,Jayden Reed,WR,GB,8,CAR,1.44156,scheduled; assumes same role and availability
+00-0039530,Brevyn Spann-Ford,TE,DAL,5,TB,1.43341,scheduled; assumes same role and availability
+00-0039530,Brevyn Spann-Ford,TE,DAL,6,GB,1.43341,scheduled; assumes same role and availability
+00-0039530,Brevyn Spann-Ford,TE,DAL,7,PHI,1.43341,scheduled; assumes same role and availability
+00-0039530,Brevyn Spann-Ford,TE,DAL,8,ARI,1.43341,scheduled; assumes same role and availability
+00-0040075,LaJohntay Wester,WR,BAL,5,ATL,1.36919,scheduled; assumes same role and availability
+00-0040075,LaJohntay Wester,WR,BAL,6,CLE,1.36919,scheduled; assumes same role and availability
+00-0040075,LaJohntay Wester,WR,BAL,7,CIN,1.36919,scheduled; assumes same role and availability
+00-0040075,LaJohntay Wester,WR,BAL,8,BUF,1.36919,scheduled; assumes same role and availability
+00-0038710,Blake Whiteheart,TE,CLE,5,NYJ,1.34585,scheduled; assumes same role and availability
+00-0038710,Blake Whiteheart,TE,CLE,6,BAL,1.34585,scheduled; assumes same role and availability
+00-0038710,Blake Whiteheart,TE,CLE,7,TEN,1.34585,scheduled; assumes same role and availability
+00-0038710,Blake Whiteheart,TE,CLE,8,PIT,1.34585,scheduled; assumes same role and availability
+00-0040894,Malik Benson,WR,LV,5,NE,1.33612,scheduled; assumes same role and availability
+00-0040894,Malik Benson,WR,LV,6,BUF,1.33612,scheduled; assumes same role and availability
+00-0040894,Malik Benson,WR,LV,7,LA,1.33612,scheduled; assumes same role and availability
+00-0040894,Malik Benson,WR,LV,8,NYJ,1.33612,scheduled; assumes same role and availability
+00-0041436,DJ Herman,RB,MIA,5,CIN,1.32176,scheduled; assumes same role and availability
+00-0041436,DJ Herman,RB,MIA,6,,0.00000,bye
+00-0041436,DJ Herman,RB,MIA,7,NYJ,1.32176,scheduled; assumes same role and availability
+00-0041436,DJ Herman,RB,MIA,8,NE,1.32176,scheduled; assumes same role and availability
+00-0040238,LeQuint Allen Jr.,RB,JAX,5,PHI,1.31942,scheduled; assumes same role and availability
+00-0040238,LeQuint Allen Jr.,RB,JAX,6,HOU,1.31942,scheduled; assumes same role and availability
+00-0040238,LeQuint Allen Jr.,RB,JAX,7,,0.00000,bye
+00-0040238,LeQuint Allen Jr.,RB,JAX,8,IND,1.31942,scheduled; assumes same role and availability
+00-0040705,Chimere Dike,WR,TEN,5,HOU,1.23899,scheduled; assumes same role and availability
+00-0040705,Chimere Dike,WR,TEN,6,IND,1.23899,scheduled; assumes same role and availability
+00-0040705,Chimere Dike,WR,TEN,7,CLE,1.23899,scheduled; assumes same role and availability
+00-0040705,Chimere Dike,WR,TEN,8,CIN,1.23899,scheduled; assumes same role and availability
+00-0039874,Jaylen Wright,RB,MIA,5,CIN,1.22701,scheduled; assumes same role and availability
+00-0039874,Jaylen Wright,RB,MIA,6,,0.00000,bye
+00-0039874,Jaylen Wright,RB,MIA,7,NYJ,1.22701,scheduled; assumes same role and availability
+00-0039874,Jaylen Wright,RB,MIA,8,NE,1.22701,scheduled; assumes same role and availability
+00-0039751,Jordan Whittington,WR,LA,5,BUF,1.19667,scheduled; assumes same role and availability
+00-0039751,Jordan Whittington,WR,LA,6,ARI,1.19667,scheduled; assumes same role and availability
+00-0039751,Jordan Whittington,WR,LA,7,LV,1.19667,scheduled; assumes same role and availability
+00-0039751,Jordan Whittington,WR,LA,8,LAC,1.19667,scheduled; assumes same role and availability
+00-0035249,Josh Oliver,TE,MIN,5,NO,1.19367,scheduled; assumes same role and availability
+00-0035249,Josh Oliver,TE,MIN,6,,0.00000,bye
+00-0035249,Josh Oliver,TE,MIN,7,IND,1.19367,scheduled; assumes same role and availability
+00-0035249,Josh Oliver,TE,MIN,8,DET,1.19367,scheduled; assumes same role and availability
+00-0039021,Roschon Johnson,RB,CHI,5,GB,1.17846,scheduled; assumes same role and availability
+00-0039021,Roschon Johnson,RB,CHI,6,ATL,1.17846,scheduled; assumes same role and availability
+00-0039021,Roschon Johnson,RB,CHI,7,NE,1.17846,scheduled; assumes same role and availability
+00-0039021,Roschon Johnson,RB,CHI,8,SEA,1.17846,scheduled; assumes same role and availability
+00-0040886,Nicholas Singleton,RB,TEN,5,HOU,1.17387,scheduled; assumes same role and availability
+00-0040886,Nicholas Singleton,RB,TEN,6,IND,1.17387,scheduled; assumes same role and availability
+00-0040886,Nicholas Singleton,RB,TEN,7,CLE,1.17387,scheduled; assumes same role and availability
+00-0040886,Nicholas Singleton,RB,TEN,8,CIN,1.17387,scheduled; assumes same role and availability
+00-0040172,Jordan Watkins,WR,SF,5,SEA,1.16992,scheduled; assumes same role and availability
+00-0040172,Jordan Watkins,WR,SF,6,WAS,1.16992,scheduled; assumes same role and availability
+00-0040172,Jordan Watkins,WR,SF,7,ATL,1.16992,scheduled; assumes same role and availability
+00-0040172,Jordan Watkins,WR,SF,8,,0.00000,bye
+00-0039062,Jonathan Mingo,WR,DAL,5,TB,1.16807,scheduled; assumes same role and availability
+00-0039062,Jonathan Mingo,WR,DAL,6,GB,1.16807,scheduled; assumes same role and availability
+00-0039062,Jonathan Mingo,WR,DAL,7,PHI,1.16807,scheduled; assumes same role and availability
+00-0039062,Jonathan Mingo,WR,DAL,8,ARI,1.16807,scheduled; assumes same role and availability
+00-0038573,Derius Davis,WR,LAC,5,DEN,1.15810,scheduled; assumes same role and availability
+00-0038573,Derius Davis,WR,LAC,6,KC,1.15810,scheduled; assumes same role and availability
+00-0038573,Derius Davis,WR,LAC,7,,0.00000,bye
+00-0038573,Derius Davis,WR,LAC,8,LA,1.15810,scheduled; assumes same role and availability
+00-0040598,Mark Redman,TE,GB,5,CHI,1.14397,scheduled; assumes same role and availability
+00-0040598,Mark Redman,TE,GB,6,DAL,1.14397,scheduled; assumes same role and availability
+00-0040598,Mark Redman,TE,GB,7,DET,1.14397,scheduled; assumes same role and availability
+00-0040598,Mark Redman,TE,GB,8,CAR,1.14397,scheduled; assumes same role and availability
+00-0037755,Jelani Woods,TE,NYJ,5,CLE,1.14296,scheduled; assumes same role and availability
+00-0037755,Jelani Woods,TE,NYJ,6,NE,1.14296,scheduled; assumes same role and availability
+00-0037755,Jelani Woods,TE,NYJ,7,MIA,1.14296,scheduled; assumes same role and availability
+00-0037755,Jelani Woods,TE,NYJ,8,LV,1.14296,scheduled; assumes same role and availability
+00-0037004,Hunter Long,TE,ARI,5,DET,1.11563,scheduled; assumes same role and availability
+00-0037004,Hunter Long,TE,ARI,6,LA,1.11563,scheduled; assumes same role and availability
+00-0037004,Hunter Long,TE,ARI,7,DEN,1.11563,scheduled; assumes same role and availability
+00-0037004,Hunter Long,TE,ARI,8,DAL,1.11563,scheduled; assumes same role and availability
+00-0039912,Ben Sinnott,TE,WAS,5,NYG,1.07754,scheduled; assumes same role and availability
+00-0039912,Ben Sinnott,TE,WAS,6,SF,1.07754,scheduled; assumes same role and availability
+00-0039912,Ben Sinnott,TE,WAS,7,,0.00000,bye
+00-0039912,Ben Sinnott,TE,WAS,8,PHI,1.07754,scheduled; assumes same role and availability
+00-0040782,Isaiah Bond,WR,CLE,5,NYJ,1.06730,scheduled; assumes same role and availability
+00-0040782,Isaiah Bond,WR,CLE,6,BAL,1.06730,scheduled; assumes same role and availability
+00-0040782,Isaiah Bond,WR,CLE,7,TEN,1.06730,scheduled; assumes same role and availability
+00-0040782,Isaiah Bond,WR,CLE,8,PIT,1.06730,scheduled; assumes same role and availability
+00-0041069,Colbie Young,WR,CIN,5,MIA,1.06302,scheduled; assumes same role and availability
+00-0041069,Colbie Young,WR,CIN,6,,0.00000,bye
+00-0041069,Colbie Young,WR,CIN,7,BAL,1.06302,scheduled; assumes same role and availability
+00-0041069,Colbie Young,WR,CIN,8,TEN,1.06302,scheduled; assumes same role and availability
+00-0040876,Elijah Sarratt,WR,BAL,5,ATL,1.05271,scheduled; assumes same role and availability
+00-0040876,Elijah Sarratt,WR,BAL,6,CLE,1.05271,scheduled; assumes same role and availability
+00-0040876,Elijah Sarratt,WR,BAL,7,CIN,1.05271,scheduled; assumes same role and availability
+00-0040876,Elijah Sarratt,WR,BAL,8,BUF,1.05271,scheduled; assumes same role and availability
+00-0036429,Charlie Woerner,TE,ATL,5,BAL,1.04602,scheduled; assumes same role and availability
+00-0036429,Charlie Woerner,TE,ATL,6,CHI,1.04602,scheduled; assumes same role and availability
+00-0036429,Charlie Woerner,TE,ATL,7,SF,1.04602,scheduled; assumes same role and availability
+00-0036429,Charlie Woerner,TE,ATL,8,TB,1.04602,scheduled; assumes same role and availability
+00-0039589,Kameron Johnson,WR,TB,5,DAL,1.03290,scheduled; assumes same role and availability
+00-0039589,Kameron Johnson,WR,TB,6,PIT,1.03290,scheduled; assumes same role and availability
+00-0039589,Kameron Johnson,WR,TB,7,CAR,1.03290,scheduled; assumes same role and availability
+00-0039589,Kameron Johnson,WR,TB,8,ATL,1.03290,scheduled; assumes same role and availability
+00-0032385,Sterling Shepard,WR,NYJ,5,CLE,1.03210,scheduled; assumes same role and availability
+00-0032385,Sterling Shepard,WR,NYJ,6,NE,1.03210,scheduled; assumes same role and availability
+00-0032385,Sterling Shepard,WR,NYJ,7,MIA,1.03210,scheduled; assumes same role and availability
+00-0032385,Sterling Shepard,WR,NYJ,8,LV,1.03210,scheduled; assumes same role and availability
+00-0036628,John Bates,TE,WAS,5,NYG,1.02173,scheduled; assumes same role and availability
+00-0036628,John Bates,TE,WAS,6,SF,1.02173,scheduled; assumes same role and availability
+00-0036628,John Bates,TE,WAS,7,,0.00000,bye
+00-0036628,John Bates,TE,WAS,8,PHI,1.02173,scheduled; assumes same role and availability
+00-0033589,David Moore,WR,CAR,5,,0.00000,bye
+00-0033589,David Moore,WR,CAR,6,PHI,1.00876,scheduled; assumes same role and availability
+00-0033589,David Moore,WR,CAR,7,TB,1.00876,scheduled; assumes same role and availability
+00-0033589,David Moore,WR,CAR,8,GB,1.00876,scheduled; assumes same role and availability
+00-0034272,Marquez Valdes-Scantling,WR,LAC,5,DEN,1.00872,scheduled; assumes same role and availability
+00-0034272,Marquez Valdes-Scantling,WR,LAC,6,KC,1.00872,scheduled; assumes same role and availability
+00-0034272,Marquez Valdes-Scantling,WR,LAC,7,,0.00000,bye
+00-0034272,Marquez Valdes-Scantling,WR,LAC,8,LA,1.00872,scheduled; assumes same role and availability
+00-0036422,Adam Trautman,TE,DEN,5,LAC,0.98790,scheduled; assumes same role and availability
+00-0036422,Adam Trautman,TE,DEN,6,SEA,0.98790,scheduled; assumes same role and availability
+00-0036422,Adam Trautman,TE,DEN,7,ARI,0.98790,scheduled; assumes same role and availability
+00-0036422,Adam Trautman,TE,DEN,8,KC,0.98790,scheduled; assumes same role and availability
+00-0038619,Andrei Iosivas,WR,CIN,5,MIA,0.98270,scheduled; assumes same role and availability
+00-0038619,Andrei Iosivas,WR,CIN,6,,0.00000,bye
+00-0038619,Andrei Iosivas,WR,CIN,7,BAL,0.98270,scheduled; assumes same role and availability
+00-0038619,Andrei Iosivas,WR,CIN,8,TEN,0.98270,scheduled; assumes same role and availability
+00-0033376,Patrick Ricard,RB,NYG,5,WAS,0.97039,scheduled; assumes same role and availability
+00-0033376,Patrick Ricard,RB,NYG,6,NO,0.97039,scheduled; assumes same role and availability
+00-0033376,Patrick Ricard,RB,NYG,7,HOU,0.97039,scheduled; assumes same role and availability
+00-0033376,Patrick Ricard,RB,NYG,8,,0.00000,bye
+00-0035594,Travis Homer,RB,PIT,5,IND,0.88371,scheduled; assumes same role and availability
+00-0035594,Travis Homer,RB,PIT,6,TB,0.88371,scheduled; assumes same role and availability
+00-0035594,Travis Homer,RB,PIT,7,NO,0.88371,scheduled; assumes same role and availability
+00-0035594,Travis Homer,RB,PIT,8,CLE,0.88371,scheduled; assumes same role and availability
+00-0036187,Reggie Gilliam,RB,NE,5,LV,0.88042,scheduled; assumes same role and availability
+00-0036187,Reggie Gilliam,RB,NE,6,NYJ,0.88042,scheduled; assumes same role and availability
+00-0036187,Reggie Gilliam,RB,NE,7,CHI,0.88042,scheduled; assumes same role and availability
+00-0036187,Reggie Gilliam,RB,NE,8,MIA,0.88042,scheduled; assumes same role and availability
+00-0038794,Jaleel McLaughlin,RB,CLE,5,NYJ,0.87961,scheduled; assumes same role and availability
+00-0038794,Jaleel McLaughlin,RB,CLE,6,BAL,0.87961,scheduled; assumes same role and availability
+00-0038794,Jaleel McLaughlin,RB,CLE,7,TEN,0.87961,scheduled; assumes same role and availability
+00-0038794,Jaleel McLaughlin,RB,CLE,8,PIT,0.87961,scheduled; assumes same role and availability
+00-0038476,Tommy DeVito,QB,NE,5,LV,0.86447,scheduled; assumes same role and availability
+00-0038476,Tommy DeVito,QB,NE,6,NYJ,0.86447,scheduled; assumes same role and availability
+00-0038476,Tommy DeVito,QB,NE,7,CHI,0.86447,scheduled; assumes same role and availability
+00-0038476,Tommy DeVito,QB,NE,8,MIA,0.86447,scheduled; assumes same role and availability
+00-0036887,Luke Farrell,TE,SF,5,SEA,0.84811,scheduled; assumes same role and availability
+00-0036887,Luke Farrell,TE,SF,6,WAS,0.84811,scheduled; assumes same role and availability
+00-0036887,Luke Farrell,TE,SF,7,ATL,0.84811,scheduled; assumes same role and availability
+00-0036887,Luke Farrell,TE,SF,8,,0.00000,bye
+00-0037525,Jordan Mason,RB,MIN,5,NO,0.79919,scheduled; assumes same role and availability
+00-0037525,Jordan Mason,RB,MIN,6,,0.00000,bye
+00-0037525,Jordan Mason,RB,MIN,7,IND,0.79919,scheduled; assumes same role and availability
+00-0037525,Jordan Mason,RB,MIN,8,DET,0.79919,scheduled; assumes same role and availability
+00-0038488,Brady Russell,RB,SEA,5,SF,0.76270,scheduled; assumes same role and availability
+00-0038488,Brady Russell,RB,SEA,6,DEN,0.76270,scheduled; assumes same role and availability
+00-0038488,Brady Russell,RB,SEA,7,KC,0.76270,scheduled; assumes same role and availability
+00-0038488,Brady Russell,RB,SEA,8,CHI,0.76270,scheduled; assumes same role and availability
+00-0038547,Luke Schoonmaker,TE,DAL,5,TB,0.72994,scheduled; assumes same role and availability
+00-0038547,Luke Schoonmaker,TE,DAL,6,GB,0.72994,scheduled; assumes same role and availability
+00-0038547,Luke Schoonmaker,TE,DAL,7,PHI,0.72994,scheduled; assumes same role and availability
+00-0038547,Luke Schoonmaker,TE,DAL,8,ARI,0.72994,scheduled; assumes same role and availability
+00-0040177,Jordan James,RB,SF,5,SEA,0.72170,scheduled; assumes same role and availability
+00-0040177,Jordan James,RB,SF,6,WAS,0.72170,scheduled; assumes same role and availability
+00-0040177,Jordan James,RB,SF,7,ATL,0.72170,scheduled; assumes same role and availability
+00-0040177,Jordan James,RB,SF,8,,0.00000,bye
+00-0039359,Cade Stover,TE,HOU,5,TEN,0.72035,scheduled; assumes same role and availability
+00-0039359,Cade Stover,TE,HOU,6,JAX,0.72035,scheduled; assumes same role and availability
+00-0039359,Cade Stover,TE,HOU,7,NYG,0.72035,scheduled; assumes same role and availability
+00-0039359,Cade Stover,TE,HOU,8,,0.00000,bye
+00-0040164,Jaylin Lane,WR,WAS,5,NYG,0.70791,scheduled; assumes same role and availability
+00-0040164,Jaylin Lane,WR,WAS,6,SF,0.70791,scheduled; assumes same role and availability
+00-0040164,Jaylin Lane,WR,WAS,7,,0.00000,bye
+00-0040164,Jaylin Lane,WR,WAS,8,PHI,0.70791,scheduled; assumes same role and availability
+00-0040081,Jake Briningstool,TE,KC,5,,0.00000,bye
+00-0040081,Jake Briningstool,TE,KC,6,LAC,0.70247,scheduled; assumes same role and availability
+00-0040081,Jake Briningstool,TE,KC,7,SEA,0.70247,scheduled; assumes same role and availability
+00-0040081,Jake Briningstool,TE,KC,8,DEN,0.70247,scheduled; assumes same role and availability
+00-0036590,Quintin Morris,TE,JAX,5,PHI,0.69998,scheduled; assumes same role and availability
+00-0036590,Quintin Morris,TE,JAX,6,HOU,0.69998,scheduled; assumes same role and availability
+00-0036590,Quintin Morris,TE,JAX,7,,0.00000,bye
+00-0036590,Quintin Morris,TE,JAX,8,IND,0.69998,scheduled; assumes same role and availability
+00-0034798,Durham Smythe,TE,BAL,5,ATL,0.69394,scheduled; assumes same role and availability
+00-0034798,Durham Smythe,TE,BAL,6,CLE,0.69394,scheduled; assumes same role and availability
+00-0034798,Durham Smythe,TE,BAL,7,CIN,0.69394,scheduled; assumes same role and availability
+00-0034798,Durham Smythe,TE,BAL,8,BUF,0.69394,scheduled; assumes same role and availability
+00-0039875,Ray Davis,RB,BUF,5,LA,0.68826,scheduled; assumes same role and availability
+00-0039875,Ray Davis,RB,BUF,6,LV,0.68826,scheduled; assumes same role and availability
+00-0039875,Ray Davis,RB,BUF,7,,0.00000,bye
+00-0039875,Ray Davis,RB,BUF,8,BAL,0.68826,scheduled; assumes same role and availability
+00-0038738,Hunter Luepke,RB,DAL,5,TB,0.68693,scheduled; assumes same role and availability
+00-0038738,Hunter Luepke,RB,DAL,6,GB,0.68693,scheduled; assumes same role and availability
+00-0038738,Hunter Luepke,RB,DAL,7,PHI,0.68693,scheduled; assumes same role and availability
+00-0038738,Hunter Luepke,RB,DAL,8,ARI,0.68693,scheduled; assumes same role and availability
+00-0037292,Andrew Ogletree,TE,IND,5,PIT,0.67673,scheduled; assumes same role and availability
+00-0037292,Andrew Ogletree,TE,IND,6,TEN,0.67673,scheduled; assumes same role and availability
+00-0037292,Andrew Ogletree,TE,IND,7,MIN,0.67673,scheduled; assumes same role and availability
+00-0037292,Andrew Ogletree,TE,IND,8,JAX,0.67673,scheduled; assumes same role and availability
+00-0040890,Cyrus Allen,WR,KC,5,,0.00000,bye
+00-0040890,Cyrus Allen,WR,KC,6,LAC,0.65390,scheduled; assumes same role and availability
+00-0040890,Cyrus Allen,WR,KC,7,SEA,0.65390,scheduled; assumes same role and availability
+00-0040890,Cyrus Allen,WR,KC,8,DEN,0.65390,scheduled; assumes same role and availability
+00-0038705,Emari Demercado,RB,DAL,5,TB,0.63553,scheduled; assumes same role and availability
+00-0038705,Emari Demercado,RB,DAL,6,GB,0.63553,scheduled; assumes same role and availability
+00-0038705,Emari Demercado,RB,DAL,7,PHI,0.63553,scheduled; assumes same role and availability
+00-0038705,Emari Demercado,RB,DAL,8,ARI,0.63553,scheduled; assumes same role and availability
+00-0038951,Sean Tucker,RB,TB,5,DAL,0.60511,scheduled; assumes same role and availability
+00-0038951,Sean Tucker,RB,TB,6,PIT,0.60511,scheduled; assumes same role and availability
+00-0038951,Sean Tucker,RB,TB,7,CAR,0.60511,scheduled; assumes same role and availability
+00-0038951,Sean Tucker,RB,TB,8,ATL,0.60511,scheduled; assumes same role and availability
+00-0035676,A.J. Brown,WR,NE,5,LV,0.60078,scheduled; assumes same role and availability
+00-0035676,A.J. Brown,WR,NE,6,NYJ,0.60078,scheduled; assumes same role and availability
+00-0035676,A.J. Brown,WR,NE,7,CHI,0.60078,scheduled; assumes same role and availability
+00-0035676,A.J. Brown,WR,NE,8,MIA,0.60078,scheduled; assumes same role and availability
+00-0040739,Elijah Arroyo,TE,SEA,5,SF,0.56455,scheduled; assumes same role and availability
+00-0040739,Elijah Arroyo,TE,SEA,6,DEN,0.56455,scheduled; assumes same role and availability
+00-0040739,Elijah Arroyo,TE,SEA,7,KC,0.56455,scheduled; assumes same role and availability
+00-0040739,Elijah Arroyo,TE,SEA,8,CHI,0.56455,scheduled; assumes same role and availability
+00-0033217,Mo Alie-Cox,TE,IND,5,PIT,0.56449,scheduled; assumes same role and availability
+00-0033217,Mo Alie-Cox,TE,IND,6,TEN,0.56449,scheduled; assumes same role and availability
+00-0033217,Mo Alie-Cox,TE,IND,7,MIN,0.56449,scheduled; assumes same role and availability
+00-0033217,Mo Alie-Cox,TE,IND,8,JAX,0.56449,scheduled; assumes same role and availability
+00-0036556,Brevin Jordan,TE,HOU,5,TEN,0.56309,scheduled; assumes same role and availability
+00-0036556,Brevin Jordan,TE,HOU,6,JAX,0.56309,scheduled; assumes same role and availability
+00-0036556,Brevin Jordan,TE,HOU,7,NYG,0.56309,scheduled; assumes same role and availability
+00-0036556,Brevin Jordan,TE,HOU,8,,0.00000,bye
+00-0040887,Josh Cuevas,TE,BAL,5,ATL,0.56251,scheduled; assumes same role and availability
+00-0040887,Josh Cuevas,TE,BAL,6,CLE,0.56251,scheduled; assumes same role and availability
+00-0040887,Josh Cuevas,TE,BAL,7,CIN,0.56251,scheduled; assumes same role and availability
+00-0040887,Josh Cuevas,TE,BAL,8,BUF,0.56251,scheduled; assumes same role and availability
+00-0041041,Oscar Delp,TE,NO,5,MIN,0.56054,scheduled; assumes same role and availability
+00-0041041,Oscar Delp,TE,NO,6,NYG,0.56054,scheduled; assumes same role and availability
+00-0041041,Oscar Delp,TE,NO,7,PIT,0.56054,scheduled; assumes same role and availability
+00-0041041,Oscar Delp,TE,NO,8,,0.00000,bye
+00-0040215,Gavin Bartholomew,TE,MIN,5,NO,0.55251,scheduled; assumes same role and availability
+00-0040215,Gavin Bartholomew,TE,MIN,6,,0.00000,bye
+00-0040215,Gavin Bartholomew,TE,MIN,7,IND,0.55251,scheduled; assumes same role and availability
+00-0040215,Gavin Bartholomew,TE,MIN,8,DET,0.55251,scheduled; assumes same role and availability
+00-0033757,Robert Tonyan,TE,PIT,5,IND,0.55170,scheduled; assumes same role and availability
+00-0033757,Robert Tonyan,TE,PIT,6,TB,0.55170,scheduled; assumes same role and availability
+00-0033757,Robert Tonyan,TE,PIT,7,NO,0.55170,scheduled; assumes same role and availability
+00-0033757,Robert Tonyan,TE,PIT,8,CLE,0.55170,scheduled; assumes same role and availability
+00-0034854,KhaDarel Hodge,WR,SF,5,SEA,0.55105,scheduled; assumes same role and availability
+00-0034854,KhaDarel Hodge,WR,SF,6,WAS,0.55105,scheduled; assumes same role and availability
+00-0034854,KhaDarel Hodge,WR,SF,7,ATL,0.55105,scheduled; assumes same role and availability
+00-0034854,KhaDarel Hodge,WR,SF,8,,0.00000,bye
+00-0039518,Treyton Welch,TE,NO,5,MIN,0.54278,scheduled; assumes same role and availability
+00-0039518,Treyton Welch,TE,NO,6,NYG,0.54278,scheduled; assumes same role and availability
+00-0039518,Treyton Welch,TE,NO,7,PIT,0.54278,scheduled; assumes same role and availability
+00-0039518,Treyton Welch,TE,NO,8,,0.00000,bye
+00-0037231,Kevin Austin Jr.,WR,NO,5,MIN,0.53982,scheduled; assumes same role and availability
+00-0037231,Kevin Austin Jr.,WR,NO,6,NYG,0.53982,scheduled; assumes same role and availability
+00-0037231,Kevin Austin Jr.,WR,NO,7,PIT,0.53982,scheduled; assumes same role and availability
+00-0037231,Kevin Austin Jr.,WR,NO,8,,0.00000,bye
+00-0040194,Jackson Hawes,TE,BUF,5,LA,0.53960,scheduled; assumes same role and availability
+00-0040194,Jackson Hawes,TE,BUF,6,LV,0.53960,scheduled; assumes same role and availability
+00-0040194,Jackson Hawes,TE,BUF,7,,0.00000,bye
+00-0040194,Jackson Hawes,TE,BUF,8,BAL,0.53960,scheduled; assumes same role and availability
+00-0039050,Payne Durham,TE,TB,5,DAL,0.53856,scheduled; assumes same role and availability
+00-0039050,Payne Durham,TE,TB,6,PIT,0.53856,scheduled; assumes same role and availability
+00-0039050,Payne Durham,TE,TB,7,CAR,0.53856,scheduled; assumes same role and availability
+00-0039050,Payne Durham,TE,TB,8,ATL,0.53856,scheduled; assumes same role and availability
+00-0040390,Jackson Meeks,WR,DET,5,ARI,0.53743,scheduled; assumes same role and availability
+00-0040390,Jackson Meeks,WR,DET,6,,0.00000,bye
+00-0040390,Jackson Meeks,WR,DET,7,GB,0.53743,scheduled; assumes same role and availability
+00-0040390,Jackson Meeks,WR,DET,8,MIN,0.53743,scheduled; assumes same role and availability
+00-0041051,Zavion Thomas,WR,CHI,5,GB,0.52949,scheduled; assumes same role and availability
+00-0041051,Zavion Thomas,WR,CHI,6,ATL,0.52949,scheduled; assumes same role and availability
+00-0041051,Zavion Thomas,WR,CHI,7,NE,0.52949,scheduled; assumes same role and availability
+00-0041051,Zavion Thomas,WR,CHI,8,SEA,0.52949,scheduled; assumes same role and availability
+00-0031236,Brandin Cooks,WR,SF,5,SEA,0.52340,scheduled; assumes same role and availability
+00-0031236,Brandin Cooks,WR,SF,6,WAS,0.52340,scheduled; assumes same role and availability
+00-0031236,Brandin Cooks,WR,SF,7,ATL,0.52340,scheduled; assumes same role and availability
+00-0031236,Brandin Cooks,WR,SF,8,,0.00000,bye
+00-0041467,Lewis Bond,WR,HOU,5,TEN,0.52083,scheduled; assumes same role and availability
+00-0041467,Lewis Bond,WR,HOU,6,JAX,0.52083,scheduled; assumes same role and availability
+00-0041467,Lewis Bond,WR,HOU,7,NYG,0.52083,scheduled; assumes same role and availability
+00-0041467,Lewis Bond,WR,HOU,8,,0.00000,bye
+00-0037666,Jalen Tolbert,WR,MIA,5,CIN,0.52066,scheduled; assumes same role and availability
+00-0037666,Jalen Tolbert,WR,MIA,6,,0.00000,bye
+00-0037666,Jalen Tolbert,WR,MIA,7,NYJ,0.52066,scheduled; assumes same role and availability
+00-0037666,Jalen Tolbert,WR,MIA,8,NE,0.52066,scheduled; assumes same role and availability
+00-0034419,Braxton Berrios,WR,NYG,5,WAS,0.52049,scheduled; assumes same role and availability
+00-0034419,Braxton Berrios,WR,NYG,6,NO,0.52049,scheduled; assumes same role and availability
+00-0034419,Braxton Berrios,WR,NYG,7,HOU,0.52049,scheduled; assumes same role and availability
+00-0034419,Braxton Berrios,WR,NYG,8,,0.00000,bye
+00-0031235,Odell Beckham Jr.,WR,NYG,5,WAS,0.52049,scheduled; assumes same role and availability
+00-0031235,Odell Beckham Jr.,WR,NYG,6,NO,0.52049,scheduled; assumes same role and availability
+00-0031235,Odell Beckham Jr.,WR,NYG,7,HOU,0.52049,scheduled; assumes same role and availability
+00-0031235,Odell Beckham Jr.,WR,NYG,8,,0.00000,bye
+00-0038640,Jalen Brooks,WR,ARI,5,DET,0.51997,scheduled; assumes same role and availability
+00-0038640,Jalen Brooks,WR,ARI,6,LA,0.51997,scheduled; assumes same role and availability
+00-0038640,Jalen Brooks,WR,ARI,7,DEN,0.51997,scheduled; assumes same role and availability
+00-0038640,Jalen Brooks,WR,ARI,8,DAL,0.51997,scheduled; assumes same role and availability
+00-0040265,Ja'Seem Reed,WR,CAR,5,,0.00000,bye
+00-0040265,Ja'Seem Reed,WR,CAR,6,PHI,0.51924,scheduled; assumes same role and availability
+00-0040265,Ja'Seem Reed,WR,CAR,7,TB,0.51924,scheduled; assumes same role and availability
+00-0040265,Ja'Seem Reed,WR,CAR,8,GB,0.51924,scheduled; assumes same role and availability
+00-0039855,Jalen McMillan,WR,TB,5,DAL,0.51897,scheduled; assumes same role and availability
+00-0039855,Jalen McMillan,WR,TB,6,PIT,0.51897,scheduled; assumes same role and availability
+00-0039855,Jalen McMillan,WR,TB,7,CAR,0.51897,scheduled; assumes same role and availability
+00-0039855,Jalen McMillan,WR,TB,8,ATL,0.51897,scheduled; assumes same role and availability
+00-0035406,Lil'Jordan Humphrey,WR,DEN,5,LAC,0.51876,scheduled; assumes same role and availability
+00-0035406,Lil'Jordan Humphrey,WR,DEN,6,SEA,0.51876,scheduled; assumes same role and availability
+00-0035406,Lil'Jordan Humphrey,WR,DEN,7,ARI,0.51876,scheduled; assumes same role and availability
+00-0035406,Lil'Jordan Humphrey,WR,DEN,8,KC,0.51876,scheduled; assumes same role and availability
+00-0038359,Xavier Smith,WR,LA,5,BUF,0.51789,scheduled; assumes same role and availability
+00-0038359,Xavier Smith,WR,LA,6,ARI,0.51789,scheduled; assumes same role and availability
+00-0038359,Xavier Smith,WR,LA,7,LV,0.51789,scheduled; assumes same role and availability
+00-0038359,Xavier Smith,WR,LA,8,LAC,0.51789,scheduled; assumes same role and availability
+00-0035662,Marquise Brown,WR,PHI,5,JAX,0.47567,scheduled; assumes same role and availability
+00-0035662,Marquise Brown,WR,PHI,6,CAR,0.47567,scheduled; assumes same role and availability
+00-0035662,Marquise Brown,WR,PHI,7,DAL,0.47567,scheduled; assumes same role and availability
+00-0035662,Marquise Brown,WR,PHI,8,WAS,0.47567,scheduled; assumes same role and availability
+00-0040736,Mason Taylor,TE,NYJ,5,CLE,0.47088,scheduled; assumes same role and availability
+00-0040736,Mason Taylor,TE,NYJ,6,NE,0.47088,scheduled; assumes same role and availability
+00-0040736,Mason Taylor,TE,NYJ,7,MIA,0.47088,scheduled; assumes same role and availability
+00-0040736,Mason Taylor,TE,NYJ,8,LV,0.47088,scheduled; assumes same role and availability
+00-0039384,Tyrone Tracy Jr.,RB,NYG,5,WAS,0.46298,scheduled; assumes same role and availability
+00-0039384,Tyrone Tracy Jr.,RB,NYG,6,NO,0.46298,scheduled; assumes same role and availability
+00-0039384,Tyrone Tracy Jr.,RB,NYG,7,HOU,0.46298,scheduled; assumes same role and availability
+00-0039384,Tyrone Tracy Jr.,RB,NYG,8,,0.00000,bye
+00-0040078,Brashard Smith,RB,KC,5,,0.00000,bye
+00-0040078,Brashard Smith,RB,KC,6,LAC,0.45195,scheduled; assumes same role and availability
+00-0040078,Brashard Smith,RB,KC,7,SEA,0.45195,scheduled; assumes same role and availability
+00-0040078,Brashard Smith,RB,KC,8,DEN,0.45195,scheduled; assumes same role and availability
+00-0040870,Ja'Kobi Lane,WR,BAL,5,ATL,0.44611,scheduled; assumes same role and availability
+00-0040870,Ja'Kobi Lane,WR,BAL,6,CLE,0.44611,scheduled; assumes same role and availability
+00-0040870,Ja'Kobi Lane,WR,BAL,7,CIN,0.44611,scheduled; assumes same role and availability
+00-0040870,Ja'Kobi Lane,WR,BAL,8,BUF,0.44611,scheduled; assumes same role and availability
+00-0036972,Mac Jones,QB,SF,5,SEA,0.41726,scheduled; assumes same role and availability
+00-0036972,Mac Jones,QB,SF,6,WAS,0.41726,scheduled; assumes same role and availability
+00-0036972,Mac Jones,QB,SF,7,ATL,0.41726,scheduled; assumes same role and availability
+00-0036972,Mac Jones,QB,SF,8,,0.00000,bye
+00-0037157,Bam Knight,RB,ARI,5,DET,0.39176,scheduled; assumes same role and availability
+00-0037157,Bam Knight,RB,ARI,6,LA,0.39176,scheduled; assumes same role and availability
+00-0037157,Bam Knight,RB,ARI,7,DEN,0.39176,scheduled; assumes same role and availability
+00-0037157,Bam Knight,RB,ARI,8,DAL,0.39176,scheduled; assumes same role and availability
+00-0037557,Ronnie Rivers,RB,LA,5,BUF,0.39170,scheduled; assumes same role and availability
+00-0037557,Ronnie Rivers,RB,LA,6,ARI,0.39170,scheduled; assumes same role and availability
+00-0037557,Ronnie Rivers,RB,LA,7,LV,0.39170,scheduled; assumes same role and availability
+00-0037557,Ronnie Rivers,RB,LA,8,LAC,0.39170,scheduled; assumes same role and availability
+00-0035567,Craig Reynolds,RB,WAS,5,NYG,0.35988,scheduled; assumes same role and availability
+00-0035567,Craig Reynolds,RB,WAS,6,SF,0.35988,scheduled; assumes same role and availability
+00-0035567,Craig Reynolds,RB,WAS,7,,0.00000,bye
+00-0035567,Craig Reynolds,RB,WAS,8,PHI,0.35988,scheduled; assumes same role and availability
+00-0034771,Mason Rudolph,QB,PIT,5,IND,0.34676,scheduled; assumes same role and availability
+00-0034771,Mason Rudolph,QB,PIT,6,TB,0.34676,scheduled; assumes same role and availability
+00-0034771,Mason Rudolph,QB,PIT,7,NO,0.34676,scheduled; assumes same role and availability
+00-0034771,Mason Rudolph,QB,PIT,8,CLE,0.34676,scheduled; assumes same role and availability
+00-0038102,Kenny Pickett,QB,CAR,5,,0.00000,bye
+00-0038102,Kenny Pickett,QB,CAR,6,PHI,0.32772,scheduled; assumes same role and availability
+00-0038102,Kenny Pickett,QB,CAR,7,TB,0.32772,scheduled; assumes same role and availability
+00-0038102,Kenny Pickett,QB,CAR,8,GB,0.32772,scheduled; assumes same role and availability
+00-0041099,Barion Brown,WR,NO,5,MIN,0.29328,scheduled; assumes same role and availability
+00-0041099,Barion Brown,WR,NO,6,NYG,0.29328,scheduled; assumes same role and availability
+00-0041099,Barion Brown,WR,NO,7,PIT,0.29328,scheduled; assumes same role and availability
+00-0041099,Barion Brown,WR,NO,8,,0.00000,bye
+00-0040568,Lan Larison,RB,NE,5,LV,0.25831,scheduled; assumes same role and availability
+00-0040568,Lan Larison,RB,NE,6,NYJ,0.25831,scheduled; assumes same role and availability
+00-0040568,Lan Larison,RB,NE,7,CHI,0.25831,scheduled; assumes same role and availability
+00-0040568,Lan Larison,RB,NE,8,MIA,0.25831,scheduled; assumes same role and availability
+00-0039107,Stetson Bennett,QB,LA,5,BUF,0.18184,scheduled; assumes same role and availability
+00-0039107,Stetson Bennett,QB,LA,6,ARI,0.18184,scheduled; assumes same role and availability
+00-0039107,Stetson Bennett,QB,LA,7,LV,0.18184,scheduled; assumes same role and availability
+00-0039107,Stetson Bennett,QB,LA,8,LAC,0.18184,scheduled; assumes same role and availability
+00-0038409,Lew Nichols III,RB,PIT,5,IND,0.18023,scheduled; assumes same role and availability
+00-0038409,Lew Nichols III,RB,PIT,6,TB,0.18023,scheduled; assumes same role and availability
+00-0038409,Lew Nichols III,RB,PIT,7,NO,0.18023,scheduled; assumes same role and availability
+00-0038409,Lew Nichols III,RB,PIT,8,CLE,0.18023,scheduled; assumes same role and availability
+00-0033319,Nick Mullens,QB,JAX,5,PHI,0.17086,scheduled; assumes same role and availability
+00-0033319,Nick Mullens,QB,JAX,6,HOU,0.17086,scheduled; assumes same role and availability
+00-0033319,Nick Mullens,QB,JAX,7,,0.00000,bye
+00-0033319,Nick Mullens,QB,JAX,8,IND,0.17086,scheduled; assumes same role and availability
+00-0041511,Omar Cooper Jr.,WR,NYJ,5,CLE,0.16658,scheduled; assumes same role and availability
+00-0041511,Omar Cooper Jr.,WR,NYJ,6,NE,0.16658,scheduled; assumes same role and availability
+00-0041511,Omar Cooper Jr.,WR,NYJ,7,MIA,0.16658,scheduled; assumes same role and availability
+00-0041511,Omar Cooper Jr.,WR,NYJ,8,LV,0.16658,scheduled; assumes same role and availability
+00-0040277,Jahdae Walker,WR,CHI,5,GB,0.16620,scheduled; assumes same role and availability
+00-0040277,Jahdae Walker,WR,CHI,6,ATL,0.16620,scheduled; assumes same role and availability
+00-0040277,Jahdae Walker,WR,CHI,7,NE,0.16620,scheduled; assumes same role and availability
+00-0040277,Jahdae Walker,WR,CHI,8,SEA,0.16620,scheduled; assumes same role and availability
+00-0041472,Marlin Klein,TE,HOU,5,TEN,0.16001,scheduled; assumes same role and availability
+00-0041472,Marlin Klein,TE,HOU,6,JAX,0.16001,scheduled; assumes same role and availability
+00-0041472,Marlin Klein,TE,HOU,7,NYG,0.16001,scheduled; assumes same role and availability
+00-0041472,Marlin Klein,TE,HOU,8,,0.00000,bye
+00-0040582,Arian Smith,WR,NYJ,5,CLE,0.15488,scheduled; assumes same role and availability
+00-0040582,Arian Smith,WR,NYJ,6,NE,0.15488,scheduled; assumes same role and availability
+00-0040582,Arian Smith,WR,NYJ,7,MIA,0.15488,scheduled; assumes same role and availability
+00-0040582,Arian Smith,WR,NYJ,8,LV,0.15488,scheduled; assumes same role and availability
+00-0040218,Jimmy Horn Jr.,WR,CAR,5,,0.00000,bye
+00-0040218,Jimmy Horn Jr.,WR,CAR,6,PHI,0.15201,scheduled; assumes same role and availability
+00-0040218,Jimmy Horn Jr.,WR,CAR,7,TB,0.15201,scheduled; assumes same role and availability
+00-0040218,Jimmy Horn Jr.,WR,CAR,8,GB,0.15201,scheduled; assumes same role and availability
+00-0040668,Shedeur Sanders,QB,CLE,5,NYJ,0.13004,scheduled; assumes same role and availability
+00-0040668,Shedeur Sanders,QB,CLE,6,BAL,0.13004,scheduled; assumes same role and availability
+00-0040668,Shedeur Sanders,QB,CLE,7,TEN,0.13004,scheduled; assumes same role and availability
+00-0040668,Shedeur Sanders,QB,CLE,8,PIT,0.13004,scheduled; assumes same role and availability
+00-0027973,Andy Dalton,QB,PHI,5,JAX,0.12619,scheduled; assumes same role and availability
+00-0027973,Andy Dalton,QB,PHI,6,CAR,0.12619,scheduled; assumes same role and availability
+00-0027973,Andy Dalton,QB,PHI,7,DAL,0.12619,scheduled; assumes same role and availability
+00-0027973,Andy Dalton,QB,PHI,8,WAS,0.12619,scheduled; assumes same role and availability
+00-0039471,Frank Gore Jr.,RB,BUF,5,LA,0.05520,scheduled; assumes same role and availability
+00-0039471,Frank Gore Jr.,RB,BUF,6,LV,0.05520,scheduled; assumes same role and availability
+00-0039471,Frank Gore Jr.,RB,BUF,7,,0.00000,bye
+00-0039471,Frank Gore Jr.,RB,BUF,8,BAL,0.05520,scheduled; assumes same role and availability
+00-0031484,Chris Manhertz,TE,NYG,5,WAS,0.00000,scheduled; assumes same role and availability
+00-0031484,Chris Manhertz,TE,NYG,6,NO,0.00000,scheduled; assumes same role and availability
+00-0031484,Chris Manhertz,TE,NYG,7,HOU,0.00000,scheduled; assumes same role and availability
+00-0031484,Chris Manhertz,TE,NYG,8,,0.00000,bye
+00-0041490,Eli Heidenreich,RB,PIT,5,IND,0.00000,scheduled; assumes same role and availability
+00-0041490,Eli Heidenreich,RB,PIT,6,TB,0.00000,scheduled; assumes same role and availability
+00-0041490,Eli Heidenreich,RB,PIT,7,NO,0.00000,scheduled; assumes same role and availability
+00-0041490,Eli Heidenreich,RB,PIT,8,CLE,0.00000,scheduled; assumes same role and availability
+00-0039355,Luke McCaffrey,WR,WAS,5,NYG,0.00000,scheduled; assumes same role and availability
+00-0039355,Luke McCaffrey,WR,WAS,6,SF,0.00000,scheduled; assumes same role and availability
+00-0039355,Luke McCaffrey,WR,WAS,7,,0.00000,bye
+00-0039355,Luke McCaffrey,WR,WAS,8,PHI,0.00000,scheduled; assumes same role and availability
+00-0039816,Anthony Gould,WR,IND,5,PIT,0.00000,scheduled; assumes same role and availability
+00-0039816,Anthony Gould,WR,IND,6,TEN,0.00000,scheduled; assumes same role and availability
+00-0039816,Anthony Gould,WR,IND,7,MIN,0.00000,scheduled; assumes same role and availability
+00-0039816,Anthony Gould,WR,IND,8,JAX,0.00000,scheduled; assumes same role and availability
+00-0039796,Rasheen Ali,RB,BAL,5,ATL,0.00000,scheduled; assumes same role and availability
+00-0039796,Rasheen Ali,RB,BAL,6,CLE,0.00000,scheduled; assumes same role and availability
+00-0039796,Rasheen Ali,RB,BAL,7,CIN,0.00000,scheduled; assumes same role and availability
+00-0039796,Rasheen Ali,RB,BAL,8,BUF,0.00000,scheduled; assumes same role and availability
+00-0039798,Isaiah Davis,RB,NYJ,5,CLE,0.00000,scheduled; assumes same role and availability
+00-0039798,Isaiah Davis,RB,NYJ,6,NE,0.00000,scheduled; assumes same role and availability
+00-0039798,Isaiah Davis,RB,NYJ,7,MIA,0.00000,scheduled; assumes same role and availability
+00-0039798,Isaiah Davis,RB,NYJ,8,LV,0.00000,scheduled; assumes same role and availability
+00-0039603,British Brooks,RB,HOU,5,TEN,0.00000,scheduled; assumes same role and availability
+00-0039603,British Brooks,RB,HOU,6,JAX,0.00000,scheduled; assumes same role and availability
+00-0039603,British Brooks,RB,HOU,7,NYG,0.00000,scheduled; assumes same role and availability
+00-0039603,British Brooks,RB,HOU,8,,0.00000,bye
+00-0039710,Jeshaun Jones,WR,MIN,5,NO,0.00000,scheduled; assumes same role and availability
+00-0039710,Jeshaun Jones,WR,MIN,6,,0.00000,bye
+00-0039710,Jeshaun Jones,WR,MIN,7,IND,0.00000,scheduled; assumes same role and availability
+00-0039710,Jeshaun Jones,WR,MIN,8,DET,0.00000,scheduled; assumes same role and availability
+00-0039407,Dylan Laube,RB,LV,5,NE,0.00000,scheduled; assumes same role and availability
+00-0039407,Dylan Laube,RB,LV,6,BUF,0.00000,scheduled; assumes same role and availability
+00-0039407,Dylan Laube,RB,LV,7,LA,0.00000,scheduled; assumes same role and availability
+00-0039407,Dylan Laube,RB,LV,8,NYJ,0.00000,scheduled; assumes same role and availability
+00-0039489,Hayden Rucci,TE,LAC,5,DEN,0.00000,scheduled; assumes same role and availability
+00-0039489,Hayden Rucci,TE,LAC,6,KC,0.00000,scheduled; assumes same role and availability
+00-0039489,Hayden Rucci,TE,LAC,7,,0.00000,bye
+00-0039489,Hayden Rucci,TE,LAC,8,LA,0.00000,scheduled; assumes same role and availability
+00-0041415,Dean Connors,RB,LA,5,BUF,0.00000,scheduled; assumes same role and availability
+00-0041415,Dean Connors,RB,LA,6,ARI,0.00000,scheduled; assumes same role and availability
+00-0041415,Dean Connors,RB,LA,7,LV,0.00000,scheduled; assumes same role and availability
+00-0041415,Dean Connors,RB,LA,8,LAC,0.00000,scheduled; assumes same role and availability
+00-0038564,Cameron Latu,TE,NE,5,LV,0.00000,scheduled; assumes same role and availability
+00-0038564,Cameron Latu,TE,NE,6,NYJ,0.00000,scheduled; assumes same role and availability
+00-0038564,Cameron Latu,TE,NE,7,CHI,0.00000,scheduled; assumes same role and availability
+00-0038564,Cameron Latu,TE,NE,8,MIA,0.00000,scheduled; assumes same role and availability
+00-0038740,Jalen Cropper,WR,NO,5,MIN,0.00000,scheduled; assumes same role and availability
+00-0038740,Jalen Cropper,WR,NO,6,NYG,0.00000,scheduled; assumes same role and availability
+00-0038740,Jalen Cropper,WR,NO,7,PIT,0.00000,scheduled; assumes same role and availability
+00-0038740,Jalen Cropper,WR,NO,8,,0.00000,bye
+00-0038576,Charlie Jones,WR,NYG,5,WAS,0.00000,scheduled; assumes same role and availability
+00-0038576,Charlie Jones,WR,NYG,6,NO,0.00000,scheduled; assumes same role and availability
+00-0038576,Charlie Jones,WR,NYG,7,HOU,0.00000,scheduled; assumes same role and availability
+00-0038576,Charlie Jones,WR,NYG,8,,0.00000,bye
+00-0039920,Malachi Corley,WR,CLE,5,NYJ,0.00000,scheduled; assumes same role and availability
+00-0039920,Malachi Corley,WR,CLE,6,BAL,0.00000,scheduled; assumes same role and availability
+00-0039920,Malachi Corley,WR,CLE,7,TEN,0.00000,scheduled; assumes same role and availability
+00-0039920,Malachi Corley,WR,CLE,8,PIT,0.00000,scheduled; assumes same role and availability
+00-0038896,Jacob Saylors,RB,DET,5,ARI,0.00000,scheduled; assumes same role and availability
+00-0038896,Jacob Saylors,RB,DET,6,,0.00000,bye
+00-0038896,Jacob Saylors,RB,DET,7,GB,0.00000,scheduled; assumes same role and availability
+00-0038896,Jacob Saylors,RB,DET,8,MIN,0.00000,scheduled; assumes same role and availability
+00-0038489,Ben VanSumeren,RB,KC,5,,0.00000,bye
+00-0038489,Ben VanSumeren,RB,KC,6,LAC,0.00000,scheduled; assumes same role and availability
+00-0038489,Ben VanSumeren,RB,KC,7,SEA,0.00000,scheduled; assumes same role and availability
+00-0038489,Ben VanSumeren,RB,KC,8,DEN,0.00000,scheduled; assumes same role and availability
+00-0038498,E.J. Jenkins,TE,PHI,5,JAX,0.00000,scheduled; assumes same role and availability
+00-0038498,E.J. Jenkins,TE,PHI,6,CAR,0.00000,scheduled; assumes same role and availability
+00-0038498,E.J. Jenkins,TE,PHI,7,DAL,0.00000,scheduled; assumes same role and availability
+00-0038498,E.J. Jenkins,TE,PHI,8,WAS,0.00000,scheduled; assumes same role and availability
+00-0037311,Ko Kieft,TE,TB,5,DAL,0.00000,scheduled; assumes same role and availability
+00-0037311,Ko Kieft,TE,TB,6,PIT,0.00000,scheduled; assumes same role and availability
+00-0037311,Ko Kieft,TE,TB,7,CAR,0.00000,scheduled; assumes same role and availability
+00-0037311,Ko Kieft,TE,TB,8,ATL,0.00000,scheduled; assumes same role and availability
+00-0040621,Montorie Foster Jr,WR,SEA,5,SF,0.00000,scheduled; assumes same role and availability
+00-0040621,Montorie Foster Jr,WR,SEA,6,DEN,0.00000,scheduled; assumes same role and availability
+00-0040621,Montorie Foster Jr,WR,SEA,7,KC,0.00000,scheduled; assumes same role and availability
+00-0040621,Montorie Foster Jr,WR,SEA,8,CHI,0.00000,scheduled; assumes same role and availability
+00-0040534,Ke'Shawn Williams,WR,CIN,5,MIA,0.00000,scheduled; assumes same role and availability
+00-0040534,Ke'Shawn Williams,WR,CIN,6,,0.00000,bye
+00-0040534,Ke'Shawn Williams,WR,CIN,7,BAL,0.00000,scheduled; assumes same role and availability
+00-0040534,Ke'Shawn Williams,WR,CIN,8,TEN,0.00000,scheduled; assumes same role and availability
+00-0040429,Josh Williams,RB,TB,5,DAL,0.00000,scheduled; assumes same role and availability
+00-0040429,Josh Williams,RB,TB,6,PIT,0.00000,scheduled; assumes same role and availability
+00-0040429,Josh Williams,RB,TB,7,CAR,0.00000,scheduled; assumes same role and availability
+00-0040429,Josh Williams,RB,TB,8,ATL,0.00000,scheduled; assumes same role and availability
+00-0037594,Julius Chestnut,RB,TEN,5,HOU,0.00000,scheduled; assumes same role and availability
+00-0037594,Julius Chestnut,RB,TEN,6,IND,0.00000,scheduled; assumes same role and availability
+00-0037594,Julius Chestnut,RB,TEN,7,CLE,0.00000,scheduled; assumes same role and availability
+00-0037594,Julius Chestnut,RB,TEN,8,CIN,0.00000,scheduled; assumes same role and availability
+00-0040394,Anthony Tyus III,RB,CAR,5,,0.00000,bye
+00-0040394,Anthony Tyus III,RB,CAR,6,PHI,0.00000,scheduled; assumes same role and availability
+00-0040394,Anthony Tyus III,RB,CAR,7,TB,0.00000,scheduled; assumes same role and availability
+00-0040394,Anthony Tyus III,RB,CAR,8,GB,0.00000,scheduled; assumes same role and availability
+00-0040405,Jamaal Pritchett,WR,NYJ,5,CLE,0.00000,scheduled; assumes same role and availability
+00-0040405,Jamaal Pritchett,WR,NYJ,6,NE,0.00000,scheduled; assumes same role and availability
+00-0040405,Jamaal Pritchett,WR,NYJ,7,MIA,0.00000,scheduled; assumes same role and availability
+00-0040405,Jamaal Pritchett,WR,NYJ,8,LV,0.00000,scheduled; assumes same role and availability
+00-0040363,Keleki Latu,TE,BUF,5,LA,0.00000,scheduled; assumes same role and availability
+00-0040363,Keleki Latu,TE,BUF,6,LV,0.00000,scheduled; assumes same role and availability
+00-0040363,Keleki Latu,TE,BUF,7,,0.00000,bye
+00-0040363,Keleki Latu,TE,BUF,8,BAL,0.00000,scheduled; assumes same role and availability
+00-0040208,Tahj Brooks,RB,CIN,5,MIA,0.00000,scheduled; assumes same role and availability
+00-0040208,Tahj Brooks,RB,CIN,6,,0.00000,bye
+00-0040208,Tahj Brooks,RB,CIN,7,BAL,0.00000,scheduled; assumes same role and availability
+00-0040208,Tahj Brooks,RB,CIN,8,TEN,0.00000,scheduled; assumes same role and availability
+00-0040331,Patrick Herbert,TE,LAC,5,DEN,0.00000,scheduled; assumes same role and availability
+00-0040331,Patrick Herbert,TE,LAC,6,KC,0.00000,scheduled; assumes same role and availability
+00-0040331,Patrick Herbert,TE,LAC,7,,0.00000,bye
+00-0040331,Patrick Herbert,TE,LAC,8,LA,0.00000,scheduled; assumes same role and availability
+00-0037524,Tay Martin,WR,DET,5,ARI,0.00000,scheduled; assumes same role and availability
+00-0037524,Tay Martin,WR,DET,6,,0.00000,bye
+00-0037524,Tay Martin,WR,DET,7,GB,0.00000,scheduled; assumes same role and availability
+00-0037524,Tay Martin,WR,DET,8,MIN,0.00000,scheduled; assumes same role and availability
+00-0038519,Nikko Remigio,WR,KC,5,,0.00000,bye
+00-0038519,Nikko Remigio,WR,KC,6,LAC,0.00000,scheduled; assumes same role and availability
+00-0038519,Nikko Remigio,WR,KC,7,SEA,0.00000,scheduled; assumes same role and availability
+00-0038519,Nikko Remigio,WR,KC,8,DEN,0.00000,scheduled; assumes same role and availability
+00-0040162,Dylan Sampson,RB,CLE,5,NYJ,0.00000,scheduled; assumes same role and availability
+00-0040162,Dylan Sampson,RB,CLE,6,BAL,0.00000,scheduled; assumes same role and availability
+00-0040162,Dylan Sampson,RB,CLE,7,TEN,0.00000,scheduled; assumes same role and availability
+00-0040162,Dylan Sampson,RB,CLE,8,PIT,0.00000,scheduled; assumes same role and availability
+00-0038643,Brayden Willis,TE,SF,5,SEA,0.00000,scheduled; assumes same role and availability
+00-0038643,Brayden Willis,TE,SF,6,WAS,0.00000,scheduled; assumes same role and availability
+00-0038643,Brayden Willis,TE,SF,7,ATL,0.00000,scheduled; assumes same role and availability
+00-0038643,Brayden Willis,TE,SF,8,,0.00000,bye
+00-0037132,Britain Covey,WR,PHI,5,JAX,0.00000,scheduled; assumes same role and availability
+00-0037132,Britain Covey,WR,PHI,6,CAR,0.00000,scheduled; assumes same role and availability
+00-0037132,Britain Covey,WR,PHI,7,DAL,0.00000,scheduled; assumes same role and availability
+00-0037132,Britain Covey,WR,PHI,8,WAS,0.00000,scheduled; assumes same role and availability
+00-0036825,Feleipe Franks,TE,CAR,5,,0.00000,bye
+00-0036825,Feleipe Franks,TE,CAR,6,PHI,0.00000,scheduled; assumes same role and availability
+00-0036825,Feleipe Franks,TE,CAR,7,TB,0.00000,scheduled; assumes same role and availability
+00-0036825,Feleipe Franks,TE,CAR,8,GB,0.00000,scheduled; assumes same role and availability
+00-0036182,Nick Westbrook-Ikhine,WR,IND,5,PIT,0.00000,scheduled; assumes same role and availability
+00-0036182,Nick Westbrook-Ikhine,WR,IND,6,TEN,0.00000,scheduled; assumes same role and availability
+00-0036182,Nick Westbrook-Ikhine,WR,IND,7,MIN,0.00000,scheduled; assumes same role and availability
+00-0036182,Nick Westbrook-Ikhine,WR,IND,8,JAX,0.00000,scheduled; assumes same role and availability
+00-0036331,Devin Duvernay,WR,ARI,5,DET,0.00000,scheduled; assumes same role and availability
+00-0036331,Devin Duvernay,WR,ARI,6,LA,0.00000,scheduled; assumes same role and availability
+00-0036331,Devin Duvernay,WR,ARI,7,DEN,0.00000,scheduled; assumes same role and availability
+00-0036331,Devin Duvernay,WR,ARI,8,DAL,0.00000,scheduled; assumes same role and availability
+00-0037380,Kaden Davis,WR,CHI,5,GB,0.00000,scheduled; assumes same role and availability
+00-0037380,Kaden Davis,WR,CHI,6,ATL,0.00000,scheduled; assumes same role and availability
+00-0037380,Kaden Davis,WR,CHI,7,NE,0.00000,scheduled; assumes same role and availability
+00-0037380,Kaden Davis,WR,CHI,8,SEA,0.00000,scheduled; assumes same role and availability
+00-0037317,Nick Muse,TE,ATL,5,BAL,0.00000,scheduled; assumes same role and availability
+00-0037317,Nick Muse,TE,ATL,6,CHI,0.00000,scheduled; assumes same role and availability
+00-0037317,Nick Muse,TE,ATL,7,SF,0.00000,scheduled; assumes same role and availability
+00-0037317,Nick Muse,TE,ATL,8,TB,0.00000,scheduled; assumes same role and availability
+00-0036630,Tylan Wallace,WR,CLE,5,NYJ,0.00000,scheduled; assumes same role and availability
+00-0036630,Tylan Wallace,WR,CLE,6,BAL,0.00000,scheduled; assumes same role and availability
+00-0036630,Tylan Wallace,WR,CLE,7,TEN,0.00000,scheduled; assumes same role and availability
+00-0036630,Tylan Wallace,WR,CLE,8,PIT,0.00000,scheduled; assumes same role and availability
+00-0036842,Kene Nwangwu,RB,NYJ,5,CLE,0.00000,scheduled; assumes same role and availability
+00-0036842,Kene Nwangwu,RB,NYJ,6,NE,0.00000,scheduled; assumes same role and availability
+00-0036842,Kene Nwangwu,RB,NYJ,7,MIA,0.00000,scheduled; assumes same role and availability
+00-0036842,Kene Nwangwu,RB,NYJ,8,LV,0.00000,scheduled; assumes same role and availability
+00-0036646,Simi Fehoko,WR,ARI,5,DET,0.00000,scheduled; assumes same role and availability
+00-0036646,Simi Fehoko,WR,ARI,6,LA,0.00000,scheduled; assumes same role and availability
+00-0036646,Simi Fehoko,WR,ARI,7,DEN,0.00000,scheduled; assumes same role and availability
+00-0036646,Simi Fehoko,WR,ARI,8,DAL,0.00000,scheduled; assumes same role and availability
+00-0035544,Tom Kennedy,WR,DET,5,ARI,0.00000,scheduled; assumes same role and availability
+00-0035544,Tom Kennedy,WR,DET,6,,0.00000,bye
+00-0035544,Tom Kennedy,WR,DET,7,GB,0.00000,scheduled; assumes same role and availability
+00-0035544,Tom Kennedy,WR,DET,8,MIN,0.00000,scheduled; assumes same role and availability
+00-0041081,Max Bredeson,RB,MIN,5,NO,0.00000,scheduled; assumes same role and availability
+00-0041081,Max Bredeson,RB,MIN,6,,0.00000,bye
+00-0041081,Max Bredeson,RB,MIN,7,IND,0.00000,scheduled; assumes same role and availability
+00-0041081,Max Bredeson,RB,MIN,8,DET,0.00000,scheduled; assumes same role and availability
+00-0035602,Alex Bachman,WR,LA,5,BUF,0.00000,scheduled; assumes same role and availability
+00-0035602,Alex Bachman,WR,LA,6,ARI,0.00000,scheduled; assumes same role and availability
+00-0035602,Alex Bachman,WR,LA,7,LV,0.00000,scheduled; assumes same role and availability
+00-0035602,Alex Bachman,WR,LA,8,LAC,0.00000,scheduled; assumes same role and availability
+00-0035500,Greg Dortch,WR,BUF,5,LA,0.00000,scheduled; assumes same role and availability
+00-0035500,Greg Dortch,WR,BUF,6,LV,0.00000,scheduled; assumes same role and availability
+00-0035500,Greg Dortch,WR,BUF,7,,0.00000,bye
+00-0035500,Greg Dortch,WR,BUF,8,BAL,0.00000,scheduled; assumes same role and availability
+00-0041094,Bauer Sharp,TE,TB,5,DAL,0.00000,scheduled; assumes same role and availability
+00-0041094,Bauer Sharp,TE,TB,6,PIT,0.00000,scheduled; assumes same role and availability
+00-0041094,Bauer Sharp,TE,TB,7,CAR,0.00000,scheduled; assumes same role and availability
+00-0041094,Bauer Sharp,TE,TB,8,ATL,0.00000,scheduled; assumes same role and availability
+00-0041267,Malik McClain,WR,NYJ,5,CLE,0.00000,scheduled; assumes same role and availability
+00-0041267,Malik McClain,WR,NYJ,6,NE,0.00000,scheduled; assumes same role and availability
+00-0041267,Malik McClain,WR,NYJ,7,MIA,0.00000,scheduled; assumes same role and availability
+00-0041267,Malik McClain,WR,NYJ,8,LV,0.00000,scheduled; assumes same role and availability
+00-0041131,Carsen Ryan,TE,CLE,5,NYJ,0.00000,scheduled; assumes same role and availability
+00-0041131,Carsen Ryan,TE,CLE,6,BAL,0.00000,scheduled; assumes same role and availability
+00-0041131,Carsen Ryan,TE,CLE,7,TEN,0.00000,scheduled; assumes same role and availability
+00-0041131,Carsen Ryan,TE,CLE,8,PIT,0.00000,scheduled; assumes same role and availability
+00-0041397,Kaden Wetjen,WR,PIT,5,IND,0.00000,scheduled; assumes same role and availability
+00-0041397,Kaden Wetjen,WR,PIT,6,TB,0.00000,scheduled; assumes same role and availability
+00-0041397,Kaden Wetjen,WR,PIT,7,NO,0.00000,scheduled; assumes same role and availability
+00-0041397,Kaden Wetjen,WR,PIT,8,CLE,0.00000,scheduled; assumes same role and availability
+00-0041292,Kolbe Katsis,WR,DEN,5,LAC,0.00000,scheduled; assumes same role and availability
+00-0041292,Kolbe Katsis,WR,DEN,6,SEA,0.00000,scheduled; assumes same role and availability
+00-0041292,Kolbe Katsis,WR,DEN,7,ARI,0.00000,scheduled; assumes same role and availability
+00-0041292,Kolbe Katsis,WR,DEN,8,KC,0.00000,scheduled; assumes same role and availability
