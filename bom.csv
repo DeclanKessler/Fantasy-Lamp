@@ -1,0 +1,12 @@
+Ref,Qty,Part,Spec,Cheaper Source,Example PN / Search,Unit ~,KiCad Footprint,LTspice
+U1,1,ESP32 DevKitC-32E,WROOM-32E USB-C,Amazon 2-pack,Search amazon esp32-devkitc B0GF1ZJCCN / Adafruit 3269,13-16 for 2-pack,N/A module - 2x PinHeader_1x19_P2.54mm,Not simulatable - use 3.3V pulse source
+LED1,1,WS2812B strip 5V 30LED/m 2m,60 LEDs IP30,Amazon,Search amazon BTF-LIGHTING WS2812B 30LED/m,18-22,Connector 3-pin JST-SM - use Connector_JST:JST_XH_B3B-XH-A in schematic,Model as 0-3.6A pulsed current load
+PS1,1,5V 4A supply barrel 2.1x5.5mm,20W,Amazon,Search amazon ALITOVE 5V 4A 2.1x5.5,12-15,Connector_BarrelJack:BarrelJack_Horizontal,Voltage source 5V
+U2,1,74AHCT125 quad buffer SOIC-14,3.3 to 5V level shift,DigiKey,SN74AHCT125DR / 296-4655-1-ND,0.55,Package_SO:SOP-14_3.9x8.7mm_P1.27mm,Digital - tie OE low in sim
+Q1,1,NPN transistor TO-92,800mA for buzzer,DigiKey,P2N2222A / 2N2222A-Diotec 0.18,0.18-0.50,Package_TO_SOT_THT:TO-92_Inline,2N2222 built-in model
+BZ1,1,Active buzzer 5V 12mm THT,2.3kHz 85dB,DigiKey,AI-1223-TWT-5V-5-R / 5011393 or WST-1205S,1.50-2.50,PinHeader_1x02_P2.54mm - 12mm can,Model as 30mA resistive load + L
+C1,1,Electrolytic 1000uF 10V+ radial,LED bulk cap,DigiKey or Amazon kit,870135174006 / 1000uF 10V,0.60-1.20,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,Standard cap model
+R1,1,Resistor 330 ohm,LED data series,Amazon kit / DigiKey 0805,Yageo RC0805FR-07330RL,0.02,Resistor_SMD:R_0805_2012Metric,Standard
+R2,1,Resistor 1k,transistor base,Amazon kit / DigiKey 0805,Yageo RC0805FR-071KL,0.02,Resistor_SMD:R_0805_2012Metric,Standard
+J1,1,Barrel jack 2.1x5.5mm horizontal,Power in,Amazon kit / DigiKey,CUI PJ-002A,1.00-1.50,Connector_BarrelJack:BarrelJack_Horizontal,Wire
+W1,1,Jumper + breadboard pack,Prototyping,Amazon,ELEGOO 120pc + MB102,9-12,N/A,N/A
