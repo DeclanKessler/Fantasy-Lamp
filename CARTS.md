@@ -1,26 +1,39 @@
-# Carts — import, not live checkout
+# Shopping notes
 
-I can't create logged-in DigiKey / Amazon carts for you, but these import in ~2 clicks.
+This is not a live checkout cart. It is the exact split I would buy for the
+breadboard version of the lamp.
 
-## DigiKey — `digikey_bom.csv`
-1. Go to digikey.com -> BOM Manager -> Upload `digikey_bom.csv`
-2. It matches on Manufacturer Part Number. Check package before checkout:
-   - SN74AHCT125DR must say 14-SOIC
-   - 2N2222A must say TO-92 Inline (Diotec) — avoid TO-18 metal can unless you want it
-   - AI-1223-TWT-5V-5-R Through Hole
-3. Detail pages from search:
-   - https://www.digikey.com/en/products/detail/texas-instruments/SN74AHCT125DR/376412
-   - https://www.digikey.com/en/products/detail/pui-audio-inc/AI-1223-TWT-5V-5-R/5011393
+## Amazon cart
 
-Add shipping: DigiKey $4.99 Economy breaks even if you bundle all ICs at once.
+- hiBCTR ESP32 Dev Board, ESP-WROOM-32, 38-pin, 2-pack.
+- BTF-LIGHTING WS2812B 5 V strip, 5 mm wide, 160 LED/m, 3.2 ft, IP30.
+- Facmogu 5 V / 4 A supply with 5.5 x 2.5 mm / 5.5 x 2.1 mm barrel tips.
+- 5.5 x 2.5 mm female DC pigtail cable.
+- Breadboard and jumper wire kit, if you do not already have one.
 
-## Amazon — buy direct
-No upload — search terms verified 2026-10-08:
-- ESP32-DevKitC-32E 2-pack USB-C: https://www.amazon.com/s?k=esp32-devkit — pick 2-pack WROOM-32E, ASIN pattern B0GF1ZJCCN seen at ~$14-16
-- Adafruit official board alt: https://www.adafruit.com/product/3269
-- WS2812B 5V 30 LED/m 2m BTF-LIGHTING: search `amazon.com/s?k=BTF-LIGHTING+WS2812B+30`
-- 5V 4A 2.1x5.5 supply ALITOVE type: search `amazon.com/s?k=5V+4A+2.1x5.5`
-- ELEGOO breadboard + 120pc jumpers: search `amazon.com/s?k=ELEGOO+breadboard+jumpers`
+The 14 AWG pigtail is electrically fine but mechanically too thick for a
+breadboard. Use it into a screw terminal / Wago / soldered jumper tails.
 
-Amazon is cheaper for modules / strip / supply. DigiKey is cheaper per exact IC.
-Full notes: `BOM.md`. Machine list: `bom.csv`.
+## DigiKey cart
+
+Upload `digikey_bom.csv` to DigiKey BOM Manager. The important package checks:
+
+- `SN74AHCT125N` must be 14-PDIP, not SOIC.
+- `2N2222A` should be TO-92.
+- `RDER71H104K0K1H03B` replaces the out-of-stock KEMET `C324...` cap.
+- Do not add a PCB barrel jack for the breadboard version. The pigtail does that job.
+
+## Quantity sanity check
+
+| Part | Qty |
+| --- | ---: |
+| SN74AHCT125N | 1 |
+| 2N2222A | 2 |
+| AI-1223-TWT-5V-5-R | 1 |
+| 870135174006 1000 uF | 1 |
+| RDER71H104K0K1H03B 0.1 uF | 2 |
+| CFR-25JB-52-330R | 2 |
+| CFR-25JB-52-1K | 2 |
+
+If the cart has `C324C104J5G5TA`, remove it. If it has a second `870135174006`,
+reduce that line to one unless you intentionally want a spare.

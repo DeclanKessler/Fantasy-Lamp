@@ -2,7 +2,9 @@
 // Board: ESP32 DevKitC. Libs: FastLED (Library Manager).
 // Wiring: GPIO16 -> 330R -> level-shifter -> LED DIN, 5V supply shared GND, 1000uF across LED power.
 //         GPIO17 -> 2N2222 base via 1k -> buzzer to 5V. USB serial 115200 from lamp_poller.py
-// Protocol: "TRIG TD <name> <POS> <pts>" or "TRIG BIG <name> <POS> <pts>"
+// Serial protocol from the PC poller:
+//   TRIG TD  <slot 0-9> <POS> <pts>
+//   TRIG BIG <slot 0-9> <POS> <pts>
 #include <FastLED.h>
 #define NUM_LEDS 160
 #define DATA_PIN 16
@@ -15,7 +17,7 @@ void beep(int freq, int ms) {
   noTone(BUZZER_PIN);
 }
 // Protocol v2 per-player: "TRIG TD <slot 0-9> <POS> <pts>" or "TRIG BIG <slot> <POS> <pts>"
-// 60 LEDs / 10 starters = 6 LEDs per player. Slot from PC starter order.
+// 160 LEDs / 10 starters = 16 LEDs per player. Slot comes from Sleeper starter order.
 // TD: that player's segment strobes white + pos color, rest dim. BIG: segment only.
 #define SLOTS 10
 void flashSegment(int slot, CRGB c, int times, int onMs = 180) {

@@ -1,12 +1,13 @@
-Ref,Qty,Part,Spec,Cheaper Source,Example PN / Search,Unit ~,KiCad Footprint,LTspice
-U1,1,ESP32 DevKitC-32E,WROOM-32E USB-C,Amazon 2-pack,Search amazon esp32-devkitc B0GF1ZJCCN / Adafruit 3269,13-16 for 2-pack,N/A module - 2x PinHeader_1x19_P2.54mm,Not simulatable - use 3.3V pulse source
-LED1,1,WS2812B strip 5V 30LED/m 2m,60 LEDs IP30,Amazon,Search amazon BTF-LIGHTING WS2812B 30LED/m,18-22,Connector 3-pin JST-SM - use Connector_JST:JST_XH_B3B-XH-A in schematic,Model as 0-3.6A pulsed current load
-PS1,1,5V 4A supply barrel 2.1x5.5mm,20W,Amazon,Search amazon ALITOVE 5V 4A 2.1x5.5,12-15,Connector_BarrelJack:BarrelJack_Horizontal,Voltage source 5V
-U2,1,74AHCT125 quad buffer SOIC-14,3.3 to 5V level shift,DigiKey,SN74AHCT125DR / 296-4655-1-ND,0.55,Package_SO:SOP-14_3.9x8.7mm_P1.27mm,Digital - tie OE low in sim
-Q1,1,NPN transistor TO-92,800mA for buzzer,DigiKey,P2N2222A / 2N2222A-Diotec 0.18,0.18-0.50,Package_TO_SOT_THT:TO-92_Inline,2N2222 built-in model
-BZ1,1,Active buzzer 5V 12mm THT,2.3kHz 85dB,DigiKey,AI-1223-TWT-5V-5-R / 5011393 or WST-1205S,1.50-2.50,PinHeader_1x02_P2.54mm - 12mm can,Model as 30mA resistive load + L
-C1,1,Electrolytic 1000uF 10V+ radial,LED bulk cap,DigiKey or Amazon kit,870135174006 / 1000uF 10V,0.60-1.20,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,Standard cap model
-R1,1,Resistor 330 ohm,LED data series,Amazon kit / DigiKey 0805,Yageo RC0805FR-07330RL,0.02,Resistor_SMD:R_0805_2012Metric,Standard
-R2,1,Resistor 1k,transistor base,Amazon kit / DigiKey 0805,Yageo RC0805FR-071KL,0.02,Resistor_SMD:R_0805_2012Metric,Standard
-J1,1,Barrel jack 2.1x5.5mm horizontal,Power in,Amazon kit / DigiKey,CUI PJ-002A,1.00-1.50,Connector_BarrelJack:BarrelJack_Horizontal,Wire
-W1,1,Jumper + breadboard pack,Prototyping,Amazon,ELEGOO 120pc + MB102,9-12,N/A,N/A
+Ref,Qty,Part,Spec,Source,Example PN / Search,KiCad Footprint,Notes
+U1,1,ESP32 DevKit,ESP-WROOM-32 38-pin dev board,Amazon,hiBCTR 2-pack ESP-WROOM-32,Off-board module / headers,Program over USB
+LED1,1,WS2812B strip,5V 160 LED/m 3.2ft IP30,Amazon,BTF-LIGHTING 5mm 2020SMD WS2812B,Connector_JST:JST_XH_B3B-XH-A,Set NUM_LEDS=160
+PS1,1,Power supply,5V 4A wall adapter,Amazon,Facmogu 5V 4A,Off-board,Use common ground
+PWR1,1,DC pigtail,5.5x2.5mm female to wire,Amazon,5.5mm x 2.5mm DC pigtail,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,Do not force 14AWG into breadboard
+U2,1,Level shifter,74AHCT125 14-PDIP,DigiKey,SN74AHCT125N,Package_DIP:DIP-14_W7.62mm,Tie OE pins low
+Q1,2,NPN transistor,2N2222A TO-92,DigiKey,2N2222A Diotec,Package_TO_SOT_THT:TO-92_Inline,One spare included
+BZ1,1,Active buzzer,5V 12mm THT,DigiKey,AI-1223-TWT-5V-5-R,Buzzer_Beeper:Beeper_12x9.5RM7.6mm,Driven by Q1
+C1,1,Bulk capacitor,1000uF 6.3V radial,DigiKey,870135174006,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,Across LED 5V/GND
+C2,2,Decoupling capacitor,0.1uF 50V X7R radial,DigiKey,RDER71H104K0K1H03B,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm,One spare included
+R1,2,Data resistor,330 ohm axial,DigiKey,CFR-25JB-52-330R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,One spare included
+R2,2,Base resistor,1k axial,DigiKey,CFR-25JB-52-1K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,One spare included
+W1,1,Breadboard and jumpers,Full-size board recommended,Amazon,ELEGOO breadboard jumper kit,N/A,ESP32 38-pin boards are wide
