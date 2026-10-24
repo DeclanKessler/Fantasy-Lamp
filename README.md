@@ -8,6 +8,33 @@ light that player's starter zone in a position color.
 The current build is tuned for a 160-pixel WS2812B strip split into ten starter
 segments, so each starter gets a 16-LED zone.
 
+## Build status: first version complete
+
+The first version of the fantasy indicator is complete. The project now brings
+together the Sleeper scoring poller, serial event messages, ESP32 firmware, and
+the per-player LED and buzzer alert design.
+
+To finish the initial build, I:
+
+- Configured the Python poller to load my Sleeper starters and track scoring
+  changes against a baseline.
+- Mapped ten starter slots to individual 16-LED zones, with position colors
+  and separate touchdown and big-play animations.
+- Set up the ESP32 board support, FastLED library, USB serial driver, and
+  Python serial environment.
+- Compiled and uploaded the firmware to the ESP32, verified its
+  `LAMP READY V2` startup message, and received `ACK BIG` during a serial test.
+- Checked the event-detection and serial-formatting logic with the existing
+  four Python tests.
+
+The October 2026 software bring-up verified the starter-lineup fetch, firmware
+upload, and serial acknowledgement. These checks are separate from measuring
+physical LED output, buzzer volume, or long-duration game-day reliability.
+The current version still uses a PC and USB serial; native Wi-Fi and a custom
+manufactured PCB remain future work.
+
+See [SETUP.md](SETUP.md) for a repeatable setup and troubleshooting checklist.
+
 ## What is in this repo
 
 | Path | Purpose |
@@ -56,7 +83,7 @@ but the lower brightness gives the power supply more margin.
 
 ## Run the poller without hardware
 
-This proves the Sleeper side works before the ESP32 arrives.
+Use this to check scoring data and event logic without connecting the ESP32.
 
 ```powershell
 cd "$HOME\OneDrive\Desktop\fantasy-lamp"
@@ -117,6 +144,14 @@ slots, slot `0` owns LEDs 0-15, slot `1` owns LEDs 16-31, and so on.
 - Add quiet mode / volume switch.
 - Replace the active buzzer with a MAX98357 I2S amp and short touchdown sounds.
 - Make the ESP32 Wi-Fi native so the PC script is no longer required.
+
+## Documentation update - October 2026
+
+- Recorded the completed first-version workflow and the verified ESP32 bring-up.
+- Added a standalone setup guide with Python environment and Arduino sketch
+  folder instructions.
+- Clarified the baseline behavior, COM-port selection, and serial diagnostics.
+- Kept planned hardware upgrades separate from the current implementation.
 
 ## Fantasy Lab dashboard and forecasts
 
